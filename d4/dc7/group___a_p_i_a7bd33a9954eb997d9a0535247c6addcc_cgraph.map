@@ -1,0 +1,29 @@
+<map id="cdt::triangulator_t::walking_search_triangle_at" name="cdt::triangulator_t::walking_search_triangle_at">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,105,192,145"/>
+<area shape="rect" id="Node000002" href="$d0/d5a/namespacecdt.html#a3a10689d22ba40f63983ef2715d4a271" title="Check if location is classified as on any of three edges." alt="" coords="242,5,380,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,102,180,71,239,40,252,34,254,39,241,45,182,75,132,106"/>
+<area shape="rect" id="Node000003" href="$d0/d5a/namespacecdt.html#ae7ea5f78ded743032165cfffcf894bf2" title="Neighbor index from a on&#45;edge location." alt="" coords="242,55,380,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="175,101,246,82,247,87,177,107"/>
+<area shape="rect" id="Node000004" href="$d0/d5a/namespacecdt.html#abd17a01f6886c3c330f8fcd48bdf949e" title="Check if point a lies inside of, outside of, or on an edge of a triangle." alt="" coords="240,105,382,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="192,122,225,122,225,128,192,128"/>
+<area shape="rect" id="Node000010" href="$d0/d5a/namespacecdt.html#aabc0c7d96947ba23de03650c2c21f113" title="Constant representing no valid neighbor for a triangle." alt="" coords="450,171,580,196"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="184,143,240,154,341,167,435,176,434,181,341,173,239,159,183,148"/>
+<area shape="rect" id="Node000011" href="$d4/dc7/group___a_p_i.html#a268e2f2e941cf255c7f3f5ac09670b35" title=" " alt="" coords="250,219,372,260"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="139,143,260,209,257,214,137,148"/>
+<area shape="rect" id="Node000005" href="$d0/d5a/namespacecdt.html#a32569360f8802a65cf9a03314e5f40c8" title="Check if point lies to the left of, to the right of, or on a line." alt="" coords="430,116,599,142"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="383,124,415,124,415,130,382,129"/>
+<area shape="rect" id="Node000006" href="$d0/d5a/namespacecdt.html#a6f6872307e7a3613db25d6f0113fddf6" title="Classify value of orient2d predicate." alt="" coords="647,92,807,118"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="599,117,632,113,633,118,600,122"/>
+<area shape="rect" id="Node000007" href="$dd/d2d/math_8cpp.html#a7a85e6a324d388a8c3c95629f0bd21a2" title=" " alt="" coords="693,141,761,167"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="600,136,679,146,678,151,599,142"/>
+<area shape="rect" id="Node000008" href="$db/d23/classvec2__.html#a9386121ef872e5200f64e59240979637" title=" " alt="" coords="855,116,926,142"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="761,146,840,134,841,139,762,152"/>
+<area shape="rect" id="Node000009" href="$db/d23/classvec2__.html#af96ab43d3b573ac4552fbbe601eb4ad6" title=" " alt="" coords="855,165,926,191"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="762,156,841,168,840,174,761,162"/>
+<area shape="poly" id="edge12_Node000011_Node000005" title=" " alt="" coords="336,216,379,186,429,156,454,145,456,150,431,161,382,190,340,221"/>
+<area shape="poly" id="edge13_Node000011_Node000010" title=" " alt="" coords="372,220,451,198,452,203,373,225"/>
+<area shape="rect" id="Node000012" href="$d0/d5a/namespacecdt.html#a078d6877bcebba769d78d16d7a437b57" title="Advance vertex or neighbor index counter&#45;clockwise." alt="" coords="479,224,550,250"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="372,236,464,235,464,240,373,241"/>
+<area shape="rect" id="Node000013" href="$dd/d2c/namespacecdt_1_1detail.html#a3709d1e6a9b64eb19823a25955bf510f" title=" " alt="" coords="431,273,599,299"/>
+<area shape="poly" id="edge14_Node000011_Node000013" title=" " alt="" coords="373,251,442,267,441,272,372,256"/>
+</map>

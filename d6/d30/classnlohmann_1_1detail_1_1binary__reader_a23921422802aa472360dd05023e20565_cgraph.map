@@ -1,0 +1,24 @@
+<map id="nlohmann::detail::binary_reader::get_bson_string" name="nlohmann::detail::binary_reader::get_bson_string">
+<area shape="rect" id="Node000001" title="Parses a zero&#45;terminated string of length len from the BSON input." alt="" coords="5,168,170,209"/>
+<area shape="rect" id="Node000002" href="$d5/d1a/classnlohmann_1_1detail_1_1parse__error.html#ae77bd584cb9101140790219af7fec1ce" title="create a parse error exception" alt="" coords="657,71,814,111"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,166,156,128,185,110,217,96,272,81,329,70,444,61,552,64,643,73,642,78,551,69,444,67,329,75,273,86,219,102,188,115,159,133,112,170"/>
+<area shape="rect" id="Node000006" href="$d6/d30/classnlohmann_1_1detail_1_1binary__reader.html#a9c413c9a1bade1ce345740f4d69156f0" title=" " alt="" coords="641,164,830,205"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="171,199,258,209,364,218,479,220,593,214,642,206,643,211,594,219,479,226,363,223,257,214,170,204"/>
+<area shape="rect" id="Node000007" href="$d6/d30/classnlohmann_1_1detail_1_1binary__reader.html#ad222095c0b21a87824cb10629299629a" title="get next character from the input" alt="" coords="434,164,593,205"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="170,185,419,183,419,188,170,190"/>
+<area shape="rect" id="Node000008" href="$d6/d30/classnlohmann_1_1detail_1_1binary__reader.html#a540919db22df36512f05a88945c13263" title="create a string by reading characters from the input" alt="" coords="222,111,382,151"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="165,165,209,153,210,158,167,170"/>
+<area shape="rect" id="Node000010" href="$d6/d30/classnlohmann_1_1detail_1_1binary__reader.html#a7d323283c60a0b89ee5eeadf5cb9a5ad" title=" " alt="" coords="218,279,386,319"/>
+<area shape="poly" id="edge12_Node000001_Node000010" title=" " alt="" coords="126,207,219,258,242,269,240,274,216,263,123,212"/>
+<area shape="rect" id="Node000003" href="$de/df2/classnlohmann_1_1detail_1_1exception.html#aa353a7dba4fd179f7224b8a2a238a264" title=" " alt="" coords="878,5,1058,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="809,68,878,48,880,53,811,73"/>
+<area shape="rect" id="Node000004" href="$de/df2/classnlohmann_1_1detail_1_1exception.html#abf41a7e9178356314082284e6cfea278" title=" " alt="" coords="878,71,1058,111"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="814,88,863,88,863,94,814,94"/>
+<area shape="rect" id="Node000005" href="$d5/d1a/classnlohmann_1_1detail_1_1parse__error.html#aefe74adeaa48781464ba2fd2ec63d221" title=" " alt="" coords="890,136,1046,177"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="811,109,880,129,878,134,809,114"/>
+<area shape="poly" id="edge8_Node000008_Node000007" title=" " alt="" coords="382,148,420,158,419,163,381,154"/>
+<area shape="rect" id="Node000009" href="$d6/d30/classnlohmann_1_1detail_1_1binary__reader.html#a61a0bd8bbe7b560bd429fa990ba3ba1a" title=" " alt="" coords="434,99,593,139"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="381,124,419,122,419,127,382,129"/>
+<area shape="poly" id="edge10_Node000009_Node000002" title=" " alt="" coords="593,106,642,100,643,105,594,112"/>
+<area shape="poly" id="edge11_Node000009_Node000006" title=" " alt="" coords="586,137,651,157,649,162,584,142"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="Slic3r::sla::ConcaveHull" name="Slic3r::sla::ConcaveHull">
+<area shape="rect" id="Node000001" title="A fake concave hull that is constructed by connecting separate shapes with explicit bridges...." alt="" coords="89,435,251,461"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="93,346,247,372"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="173,387,173,435,168,435,168,387"/>
+<area shape="rect" id="Node000003" href="$d8/d90/class_slic3r_1_1_polygon.html" title=" " alt="" coords="68,258,177,283"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="133,296,145,321,162,344,157,348,140,324,128,299"/>
+<area shape="rect" id="Node000004" href="$d7/dd1/class_slic3r_1_1_multi_point.html" title=" " alt="" coords="50,183,170,208"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="117,223,123,257,118,258,112,223"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="42,94,179,120"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="113,134,113,182,108,182,108,134"/>
+<area shape="rect" id="Node000006" href="$d6/dec/class_slic3r_1_1_point.html" title=" " alt="" coords="5,5,98,31"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="50,45,56,69,67,82,81,91,78,96,63,86,51,71,45,47"/>
+<area shape="rect" id="Node000020" title=" " alt="" coords="141,5,256,31"/>
+<area shape="poly" id="edge7_Node000002_Node000020" title=" " alt="" coords="210,45,217,73,221,105,221,272,217,295,208,316,184,348,180,345,203,313,212,293,216,272,216,106,212,74,205,46"/>
+<area shape="poly" id="edge6_Node000005_Node000020" title=" " alt="" coords="163,41,143,57,129,76,118,95,113,92,124,73,140,53,160,37"/>
+</map>

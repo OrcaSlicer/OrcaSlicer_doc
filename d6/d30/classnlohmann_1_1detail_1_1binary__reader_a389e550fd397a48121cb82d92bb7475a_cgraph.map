@@ -1,0 +1,23 @@
+<map id="nlohmann::detail::binary_reader::get_msgpack_binary" name="nlohmann::detail::binary_reader::get_msgpack_binary">
+<area shape="rect" id="Node000001" title="reads a MessagePack byte array" alt="" coords="5,72,198,113"/>
+<area shape="rect" id="Node000002" href="$d6/d30/classnlohmann_1_1detail_1_1binary__reader.html#a55e13d567a53234573ab3833c0ca32e9" title="create a byte array by reading bytes from the input" alt="" coords="246,39,405,79"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="198,75,231,70,231,76,198,81"/>
+<area shape="rect" id="Node000010" href="$d6/d30/classnlohmann_1_1detail_1_1binary__reader.html#ac356c6364fe0273d3303fb7a447f4ef6" title=" " alt="" coords="246,104,405,145"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="198,103,231,108,231,114,198,109"/>
+<area shape="rect" id="Node000003" href="$d6/d30/classnlohmann_1_1detail_1_1binary__reader.html#ad222095c0b21a87824cb10629299629a" title="get next character from the input" alt="" coords="453,39,612,79"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="405,56,438,56,438,62,405,62"/>
+<area shape="rect" id="Node000004" href="$d6/d30/classnlohmann_1_1detail_1_1binary__reader.html#a61a0bd8bbe7b560bd429fa990ba3ba1a" title=" " alt="" coords="453,104,612,145"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="393,77,453,96,451,102,391,82"/>
+<area shape="rect" id="Node000005" href="$d5/d1a/classnlohmann_1_1detail_1_1parse__error.html#ae77bd584cb9101140790219af7fec1ce" title="create a parse error exception" alt="" coords="676,71,833,111"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="612,110,661,102,662,108,613,115"/>
+<area shape="rect" id="Node000009" href="$d6/d30/classnlohmann_1_1detail_1_1binary__reader.html#a9c413c9a1bade1ce345740f4d69156f0" title=" " alt="" coords="660,136,849,177"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="613,133,646,138,645,143,612,138"/>
+<area shape="rect" id="Node000006" href="$de/df2/classnlohmann_1_1detail_1_1exception.html#aa353a7dba4fd179f7224b8a2a238a264" title=" " alt="" coords="897,5,1077,46"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="828,68,897,48,899,53,830,73"/>
+<area shape="rect" id="Node000007" href="$de/df2/classnlohmann_1_1detail_1_1exception.html#abf41a7e9178356314082284e6cfea278" title=" " alt="" coords="897,71,1077,111"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="833,88,882,88,882,94,833,94"/>
+<area shape="rect" id="Node000008" href="$d5/d1a/classnlohmann_1_1detail_1_1parse__error.html#aefe74adeaa48781464ba2fd2ec63d221" title=" " alt="" coords="909,136,1065,177"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="830,109,899,129,897,134,828,114"/>
+<area shape="poly" id="edge10_Node000010_Node000003" title=" " alt="" coords="391,101,451,82,453,87,393,106"/>
+<area shape="poly" id="edge11_Node000010_Node000004" title=" " alt="" coords="405,122,438,122,438,127,405,127"/>
+</map>

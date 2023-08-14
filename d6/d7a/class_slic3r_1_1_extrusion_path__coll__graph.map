@@ -1,0 +1,28 @@
+<map id="Slic3r::ExtrusionPath" name="Slic3r::ExtrusionPath">
+<area shape="rect" id="Node000001" title=" " alt="" coords="30,464,175,489"/>
+<area shape="rect" id="Node000002" href="$de/d7c/class_slic3r_1_1_extrusion_entity.html" title=" " alt="" coords="5,375,157,401"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="90,414,102,463,97,464,85,416"/>
+<area shape="rect" id="Node000003" href="$d6/de0/class_slic3r_1_1_polyline.html" title=" " alt="" coords="180,375,289,401"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="205,411,122,465,120,461,203,407"/>
+<area shape="rect" id="Node000004" href="$d7/dd1/class_slic3r_1_1_multi_point.html" title=" " alt="" coords="86,279,207,305"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="169,313,225,373,221,376,165,317"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="78,183,215,208"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="149,223,149,278,144,278,144,223"/>
+<area shape="rect" id="Node000006" href="$d6/dec/class_slic3r_1_1_point.html" title=" " alt="" coords="67,94,159,120"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="113,134,117,158,134,181,130,184,112,160,108,135"/>
+<area shape="rect" id="Node000007" href="$d2/d2d/class_eigen_1_1_matrix.html" title=" " alt="" coords="78,5,148,31"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="116,46,116,94,110,94,110,46"/>
+<area shape="rect" id="Node000020" title=" " alt="" coords="203,94,319,120"/>
+<area shape="poly" id="edge7_Node000005_Node000020" title=" " alt="" coords="229,130,205,146,160,184,157,180,201,142,226,125"/>
+<area shape="rect" id="Node000021" title=" " alt="" coords="231,271,363,312"/>
+<area shape="poly" id="edge13_Node000021_Node000020" title=" " alt="" coords="269,134,296,271,291,272,264,135"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="242,5,280,31"/>
+<area shape="poly" id="edge8_Node000020_Node000013" title=" " alt="" coords="264,46,264,94,258,94,258,46"/>
+<area shape="poly" id="edge9_Node000003_Node000021" title=" " alt="" coords="278,326,244,376,240,373,274,323"/>
+<area shape="rect" id="Node000022" href="$de/db4/struct_slic3r_1_1_path_fitting_data.html" title=" " alt="" coords="464,183,618,208"/>
+<area shape="poly" id="edge10_Node000021_Node000022" title=" " alt="" coords="497,216,349,273,347,268,495,211"/>
+<area shape="rect" id="Node000023" href="$d9/deb/class_slic3r_1_1_arc_segment.html" title=" " alt="" coords="474,94,608,120"/>
+<area shape="poly" id="edge11_Node000022_Node000023" title=" " alt="" coords="544,134,544,182,538,182,538,134"/>
+<area shape="rect" id="Node000024" href="$d2/dce/class_slic3r_1_1_circle.html" title=" " alt="" coords="493,5,589,31"/>
+<area shape="poly" id="edge12_Node000023_Node000024" title=" " alt="" coords="544,46,544,94,538,94,538,46"/>
+</map>

@@ -1,0 +1,64 @@
+<map id="igl::embree::shape_diameter_function" name="igl::embree::shape_diameter_function">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,198,137,239"/>
+<area shape="rect" id="Node000002" href="$d3/d7c/classigl_1_1embree_1_1_embree_intersector.html#a674a92001c5fb384eaf2bbba80ec0fa6" title=" " alt="" coords="185,119,385,160"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,195,213,163,214,168,129,200"/>
+<area shape="rect" id="Node000005" href="$dc/d25/namespaceigl.html#a060b4228270bde43d6eae812f01812b0" title=" " alt="" coords="218,230,352,271"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="137,225,203,235,203,241,136,231"/>
+<area shape="rect" id="Node000003" href="$df/d23/rtcore_8h.html#a785a8f32cc5f8e35e5b8f425600bf306" title="Returns the value of the per&#45;thread error flag." alt="" coords="472,127,557,152"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="385,137,457,137,457,142,385,142"/>
+<area shape="rect" id="Node000004" href="$d0/d74/rtcore__scene_8h.html#a868080f110d93a96e7c2f1ad92371dca" title=" " alt="" coords="471,77,558,103"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="382,116,456,100,457,105,383,121"/>
+<area shape="rect" id="Node000006" href="$df/d05/tpool_8h.html#a48d2e68725f7691f1422697f4c359827" title=" " alt="" coords="473,176,557,202"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="352,230,457,201,459,206,353,235"/>
+<area shape="rect" id="Node000019" href="$dc/d25/namespaceigl.html#aa7b20a9801b9f1cf8d86747c507ecf22" title=" " alt="" coords="433,337,596,363"/>
+<area shape="poly" id="edge17_Node000005_Node000019" title=" " alt="" coords="335,269,471,329,469,334,333,274"/>
+<area shape="rect" id="Node000025" href="$da/d8d/class_eigen_1_1_plain_object_base.html#a99d9054ee2d5a40c6e00ded0265e9cea" title=" " alt="" coords="435,579,594,620"/>
+<area shape="poly" id="edge26_Node000005_Node000025" title=" " alt="" coords="302,270,494,565,490,568,297,272"/>
+<area shape="rect" id="Node000007" href="$d8/dcc/namespacestd.html#af4bc231d061945eb59dbba98a117ece9" title=" " alt="" coords="692,147,788,172"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="557,181,677,165,678,170,558,186"/>
+<area shape="rect" id="Node000012" href="$d3/dce/classthread__pool.html#a731854a1dec41386e233847a55c74737" title=" " alt="" coords="667,197,813,237"/>
+<area shape="poly" id="edge11_Node000006_Node000012" title=" " alt="" coords="558,191,653,203,652,209,557,197"/>
+<area shape="rect" id="Node000013" href="$df/d05/tpool_8h.html#a024f3853091c417a440157aa77ce1b35" title=" " alt="" coords="650,48,830,74"/>
+<area shape="poly" id="edge12_Node000006_Node000013" title=" " alt="" coords="556,180,576,173,595,163,611,144,618,124,625,103,643,83,649,79,652,83,646,87,630,106,623,125,615,146,598,167,579,178,558,185"/>
+<area shape="rect" id="Node000018" href="$d3/dce/classthread__pool.html#a105646fee998f77c07a00d47966cd570" title=" " alt="" coords="672,97,808,123"/>
+<area shape="poly" id="edge16_Node000006_Node000018" title=" " alt="" coords="556,176,595,162,619,147,643,132,660,125,661,130,646,137,622,152,598,167,558,181"/>
+<area shape="rect" id="Node000008" href="$d7/d63/classhmesh__t.html#a19678c4e4889230aa87ea59b4ec047c8" title=" " alt="" coords="884,127,1052,168"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="788,154,869,150,869,155,789,160"/>
+<area shape="rect" id="Node000011" href="$d8/d9b/classarray__iterator__t.html#ac73b2d71bcaaa8f9fb198b061a58803a" title=" " alt="" coords="901,193,1035,233"/>
+<area shape="poly" id="edge10_Node000007_Node000011" title=" " alt="" coords="789,168,887,191,885,196,788,173"/>
+<area shape="rect" id="Node000009" href="$d7/d63/classhmesh__t.html#a536da7c5d6be8a2f0be7a536c17a4644" title=" " alt="" coords="1100,128,1277,154"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="1052,142,1085,141,1085,147,1052,148"/>
+<area shape="rect" id="Node000010" href="$d7/d63/classhmesh__t.html#ad6d08c43b0dac5f8f4a933496ef81ca9" title=" " alt="" coords="1112,178,1266,219"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="1053,164,1098,175,1096,180,1052,169"/>
+<area shape="rect" id="Node000014" href="$df/db1/math_8h.html#a3a54064875b1b215da4904e90278a089" title=" " alt="" coords="940,48,996,74"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="830,58,925,58,925,64,830,64"/>
+<area shape="rect" id="Node000015" href="$dd/d2d/math_8cpp.html#af4fb32373387854416da6c38850971b2" title=" " alt="" coords="1144,5,1233,31"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="996,53,1129,27,1130,32,997,58"/>
+<area shape="rect" id="Node000016" href="$df/db1/math_8h.html#a5ac9a8399d477c88e7ab2e9e406015c6" title=" " alt="" coords="1134,55,1243,80"/>
+<area shape="poly" id="edge15_Node000014_Node000016" title=" " alt="" coords="996,59,1119,63,1119,68,996,64"/>
+<area shape="rect" id="Node000020" href="$d4/df0/_array_cwise_unary_ops_8h.html#a92b03396990b0e9eea0731aa406e31a4" title=" " alt="" coords="947,337,989,363"/>
+<area shape="poly" id="edge18_Node000019_Node000020" title=" " alt="" coords="597,348,932,348,932,353,597,353"/>
+<area shape="rect" id="Node000021" href="$dc/d25/namespaceigl.html#a2b577b1894572694a9244c81486e500c" title=" " alt="" coords="687,413,793,439"/>
+<area shape="poly" id="edge19_Node000019_Node000021" title=" " alt="" coords="556,361,645,392,686,406,685,411,643,397,554,366"/>
+<area shape="rect" id="Node000022" href="$d4/df0/_array_cwise_unary_ops_8h.html#a9cfb0ea58bd813510a9e2db18a5e49f0" title=" " alt="" coords="949,400,987,426"/>
+<area shape="poly" id="edge24_Node000019_Node000022" title=" " alt="" coords="597,359,934,406,934,411,596,364"/>
+<area shape="rect" id="Node000023" href="$d4/df0/_array_cwise_unary_ops_8h.html#a656b9217a2fcb6de59dc8d1eb3079cc7" title=" " alt="" coords="946,457,990,483"/>
+<area shape="poly" id="edge25_Node000019_Node000023" title=" " alt="" coords="529,362,577,407,609,431,645,449,683,461,723,469,802,477,875,477,931,472,932,477,875,482,802,482,722,475,682,466,643,454,606,435,573,411,526,365"/>
+<area shape="rect" id="Node000024" href="$d6/d4f/_block_methods_8h.html#a8dd30d04b6ce8a78abb064008deb8a9c" title="This is the const version of row(). *‍/." alt="" coords="719,261,761,287"/>
+<area shape="poly" id="edge23_Node000019_Node000024" title=" " alt="" coords="554,334,643,304,704,283,705,288,645,309,556,339"/>
+<area shape="poly" id="edge20_Node000021_Node000020" title=" " alt="" coords="780,410,932,359,933,364,782,415"/>
+<area shape="poly" id="edge21_Node000021_Node000022" title=" " alt="" coords="793,420,934,412,934,417,794,426"/>
+<area shape="poly" id="edge22_Node000021_Node000023" title=" " alt="" coords="794,434,932,461,931,466,793,439"/>
+<area shape="rect" id="Node000026" href="$da/d8d/class_eigen_1_1_plain_object_base.html#a10b8b33b7587da564415561aa246f78f" title=" " alt="" coords="660,645,820,685"/>
+<area shape="poly" id="edge27_Node000025_Node000026" title=" " alt="" coords="588,618,654,637,653,642,586,623"/>
+<area shape="rect" id="Node000028" href="$d5/d91/class_eigen_1_1_dense_storage.html#a22518a835225a3464a2b12396f13a12c" title=" " alt="" coords="667,710,813,751"/>
+<area shape="poly" id="edge29_Node000025_Node000028" title=" " alt="" coords="540,618,587,656,646,695,659,701,657,706,643,699,584,661,537,622"/>
+<area shape="rect" id="Node000029" href="$da/d8d/class_eigen_1_1_plain_object_base.html#aba7a925ce36c08ba2a08c90086f34718" title=" " alt="" coords="660,514,820,555"/>
+<area shape="poly" id="edge30_Node000025_Node000029" title=" " alt="" coords="586,576,653,557,654,562,588,581"/>
+<area shape="rect" id="Node000031" href="$df/d30/struct_eigen_1_1internal_1_1check__rows__cols__for__overflow.html#a96aadd23e6335d10018576e81dec4443" title=" " alt="" coords="644,579,836,620"/>
+<area shape="poly" id="edge32_Node000025_Node000031" title=" " alt="" coords="595,597,629,597,629,602,595,602"/>
+<area shape="rect" id="Node000027" href="$d5/d91/class_eigen_1_1_dense_storage.html#aef23781f9dc545e8b3f6b75d6c05d777" title=" " alt="" coords="895,645,1041,685"/>
+<area shape="poly" id="edge28_Node000026_Node000027" title=" " alt="" coords="820,662,880,662,880,668,820,668"/>
+<area shape="rect" id="Node000030" href="$d5/d91/class_eigen_1_1_dense_storage.html#a14b68f709f5fb46eeebb203266cc29b2" title=" " alt="" coords="895,514,1041,555"/>
+<area shape="poly" id="edge31_Node000029_Node000030" title=" " alt="" coords="820,532,880,532,880,537,820,537"/>
+</map>

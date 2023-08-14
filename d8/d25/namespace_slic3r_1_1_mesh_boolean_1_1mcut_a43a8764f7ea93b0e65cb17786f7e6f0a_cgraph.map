@@ -1,0 +1,65 @@
+<map id="Slic3r::MeshBoolean::mcut::make_boolean" name="Slic3r::MeshBoolean::mcut::make_boolean">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,235,156,276"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="36,235,34,225,41,216,57,211,81,209,106,211,122,218,119,222,105,216,80,214,58,216,44,220,39,226,41,234"/>
+<area shape="rect" id="Node000002" href="$df/d20/mcut_8cpp.html#aa4c60918f62c85db322bf45c19638cf8" title="Create an MCUT context." alt="" coords="254,5,378,31"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="85,234,99,192,123,140,157,86,178,61,202,40,238,23,240,28,205,44,182,65,161,89,127,142,104,194,90,236"/>
+<area shape="rect" id="Node000004" href="$df/d20/mcut_8cpp.html#a574ccab84f6877fdfc6d945dc004dabe" title="Specify a callback to receive debugging messages from the MCUT library." alt="" coords="225,55,407,80"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="89,233,106,201,131,162,163,122,202,89,211,84,213,89,205,94,167,126,135,165,110,204,94,236"/>
+<area shape="rect" id="Node000006" href="$df/d20/mcut_8cpp.html#a3bc0e7740154f9bb06fd8d2181aaf6d4" title=" " alt="" coords="230,104,402,130"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="96,233,140,186,170,161,202,140,218,133,220,137,205,145,173,165,144,190,100,237"/>
+<area shape="rect" id="Node000011" href="$d8/d25/namespace_slic3r_1_1_mesh_boolean_1_1mcut.html#a860ffc26a2bd7293191c26c642de6b35" title=" " alt="" coords="235,178,397,219"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="155,235,220,219,221,224,157,240"/>
+<area shape="rect" id="Node000014" href="$df/d20/mcut_8cpp.html#a2957c44398fffeecaf7ca4a0f0e41e8d" title="Blocking version of mcEnqueueDispatch." alt="" coords="270,243,362,268"/>
+<area shape="poly" id="edge15_Node000001_Node000014" title=" " alt="" coords="156,253,255,253,255,258,156,258"/>
+<area shape="rect" id="Node000020" href="$df/d20/mcut_8cpp.html#a81b9bdaeef39dbf279b88e8b22617267" title="Blocking version of mcEnqueueGetConnectedComponents." alt="" coords="207,341,425,367"/>
+<area shape="poly" id="edge21_Node000001_Node000020" title=" " alt="" coords="111,274,154,302,205,328,224,334,222,339,203,333,151,307,108,278"/>
+<area shape="rect" id="Node000023" href="$df/d20/mcut_8cpp.html#a60cd4a7bf4506d1e455d7ecf381b0978" title="Blocking version of mcEnqueueGetConnectedComponents." alt="" coords="217,292,415,318"/>
+<area shape="poly" id="edge26_Node000001_Node000023" title=" " alt="" coords="157,269,238,286,236,291,156,274"/>
+<area shape="rect" id="Node000026" href="$df/d20/mcut_8cpp.html#a5894cbffd252eedfebf59ff1289ea626" title="To release the memory of a connected component, call this function." alt="" coords="204,407,428,432"/>
+<area shape="poly" id="edge31_Node000001_Node000026" title=" " alt="" coords="99,275,144,326,173,353,205,377,250,399,248,404,202,382,170,357,140,329,95,278"/>
+<area shape="rect" id="Node000028" href="$df/d20/mcut_8cpp.html#a8f8865eab3bffe398384e254ca89097c" title="To release the memory of a context, call this function." alt="" coords="249,489,383,515"/>
+<area shape="poly" id="edge33_Node000001_Node000028" title=" " alt="" coords="93,275,135,354,167,401,205,443,235,464,266,481,263,485,232,469,202,447,163,404,131,357,88,277"/>
+<area shape="rect" id="Node000003" href="$d2/d04/frontend_8cpp.html#abd32b2710bff92e548c42abeff45ee9d" title=" " alt="" coords="542,5,680,31"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="378,16,527,16,527,21,378,21"/>
+<area shape="rect" id="Node000005" href="$d2/d04/frontend_8cpp.html#a8a9d5e86fefd2bacce3e59841aad1a84" title=" " alt="" coords="510,55,712,80"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="407,65,495,65,495,70,407,70"/>
+<area shape="rect" id="Node000007" href="$d2/d04/frontend_8cpp.html#a58b32182584be2004284161bc548afb1" title=" " alt="" coords="514,104,707,130"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="402,114,499,114,499,120,402,120"/>
+<area shape="rect" id="Node000008" href="$d2/d04/frontend_8cpp.html#a35b17a3551481ec6c57d8486675e19fb" title=" " alt="" coords="866,5,936,31"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="707,105,744,91,759,79,767,66,776,53,792,40,821,28,851,20,852,26,823,33,795,44,780,56,772,69,763,83,747,95,709,110"/>
+<area shape="rect" id="Node000009" href="$d2/d04/frontend_8cpp.html#a1318c935f4575819a0d62a87f7cb9024" title=" " alt="" coords="871,55,931,80"/>
+<area shape="poly" id="edge9_Node000007_Node000009" title=" " alt="" coords="690,101,856,72,857,78,691,106"/>
+<area shape="rect" id="Node000010" href="$d2/d04/frontend_8cpp.html#a84cc084676d3bfdfcda62804c673bb4b" title=" " alt="" coords="848,104,954,130"/>
+<area shape="poly" id="edge10_Node000007_Node000010" title=" " alt="" coords="708,114,834,114,834,120,708,120"/>
+<area shape="poly" id="edge14_Node000011_Node000011" title=" " alt="" coords="272,178,269,168,277,159,292,153,316,151,342,154,357,160,355,165,340,159,316,156,293,158,280,163,275,169,277,177"/>
+<area shape="rect" id="Node000012" href="$de/db8/namespace_slic3r.html#ab28c13d286b2d1767d7c63b020ebd042" title=" " alt="" coords="561,161,660,187"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="397,189,546,177,547,182,397,194"/>
+<area shape="rect" id="Node000013" href="$d5/ddc/namespace_slic3r_1_1internal_1_1format.html#a5a8cae6889e58c9be36cd70a9e9987ff" title=" " alt="" coords="826,154,976,195"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="661,172,811,172,811,177,661,177"/>
+<area shape="rect" id="Node000015" href="$df/d20/mcut_8cpp.html#ac4b3d337dff31ae7d36103f1f560a667" title="Execute a cutting operation with two meshes &#45; the source mesh, and the cut mesh." alt="" coords="540,211,682,236"/>
+<area shape="poly" id="edge16_Node000014_Node000015" title=" " alt="" coords="361,248,524,230,525,235,362,253"/>
+<area shape="rect" id="Node000017" href="$d2/d04/frontend_8cpp.html#a50e21f771fe0dbf8fea60fdfe5511245" title=" " alt="" coords="541,260,681,286"/>
+<area shape="poly" id="edge18_Node000014_Node000017" title=" " alt="" coords="362,255,526,265,526,271,361,261"/>
+<area shape="rect" id="Node000019" href="$d2/d04/frontend_8cpp.html#a2544c038d2a87d65800fbdafc5cb2bc3" title=" " alt="" coords="539,309,683,335"/>
+<area shape="poly" id="edge20_Node000014_Node000019" title=" " alt="" coords="362,261,429,277,477,296,525,307,524,312,475,301,427,282,361,266"/>
+<area shape="rect" id="Node000016" href="$d2/d04/frontend_8cpp.html#a725a0d138cc374f2a3db77e3369148ac" title=" " alt="" coords="850,219,952,244"/>
+<area shape="poly" id="edge17_Node000015_Node000016" title=" " alt="" coords="682,223,836,227,836,232,682,228"/>
+<area shape="rect" id="Node000018" href="$d2/d04/frontend_8cpp.html#a2074588aed3b36a9af7b76fec39def0c" title=" " alt="" coords="834,268,968,294"/>
+<area shape="poly" id="edge19_Node000017_Node000018" title=" " alt="" coords="681,272,820,276,820,281,681,277"/>
+<area shape="poly" id="edge24_Node000020_Node000017" title=" " alt="" coords="397,338,427,328,450,311,460,303,475,294,525,280,527,285,477,299,463,307,454,315,429,333,399,343"/>
+<area shape="poly" id="edge25_Node000020_Node000019" title=" " alt="" coords="425,340,523,329,524,334,426,345"/>
+<area shape="rect" id="Node000021" href="$df/d20/mcut_8cpp.html#ad9fb9aaed5e50994d235914dc3ae04f5" title="Query specific information about a connected component." alt="" coords="476,408,745,434"/>
+<area shape="poly" id="edge22_Node000020_Node000021" title=" " alt="" coords="364,365,477,394,515,402,513,407,475,399,362,370"/>
+<area shape="rect" id="Node000022" href="$d2/d04/frontend_8cpp.html#aca38d57653c6f50948d918658eddbdc8" title=" " alt="" coords="812,405,990,445"/>
+<area shape="poly" id="edge23_Node000021_Node000022" title=" " alt="" coords="746,420,797,421,797,426,746,425"/>
+<area shape="poly" id="edge29_Node000023_Node000017" title=" " alt="" coords="415,291,525,279,526,285,415,297"/>
+<area shape="poly" id="edge30_Node000023_Node000019" title=" " alt="" coords="415,308,524,314,524,320,415,313"/>
+<area shape="rect" id="Node000024" href="$df/d20/mcut_8cpp.html#aa719d46addd538f17754be8f6e82b015" title="Query the connected components available in a context." alt="" coords="487,359,735,384"/>
+<area shape="poly" id="edge27_Node000023_Node000024" title=" " alt="" coords="388,316,429,326,477,345,507,353,506,358,475,350,427,331,387,321"/>
+<area shape="rect" id="Node000025" href="$d2/d04/frontend_8cpp.html#ac35efc09f62956e35cde5e4eb7cf7ec9" title=" " alt="" coords="793,355,1009,380"/>
+<area shape="poly" id="edge28_Node000024_Node000025" title=" " alt="" coords="735,367,779,367,779,372,735,372"/>
+<area shape="rect" id="Node000027" href="$d2/d04/frontend_8cpp.html#a930d253bb57c37581055fe9c9e5f1f8b" title=" " alt="" coords="491,457,730,483"/>
+<area shape="poly" id="edge32_Node000026_Node000027" title=" " alt="" coords="395,430,518,452,517,457,394,436"/>
+<area shape="rect" id="Node000029" href="$d2/d04/frontend_8cpp.html#a2dd3ce3528fc1b0ea3137be9904dca1e" title=" " alt="" coords="539,507,683,532"/>
+<area shape="poly" id="edge34_Node000028_Node000029" title=" " alt="" coords="383,503,524,512,524,517,383,509"/>
+</map>

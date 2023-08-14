@@ -1,0 +1,186 @@
+var _device_manager_8hpp =
+[
+    [ "Slic3r::AmsTray", "d7/d58/class_slic3r_1_1_ams_tray.html", "d7/d58/class_slic3r_1_1_ams_tray" ],
+    [ "Slic3r::Ams", "d6/d46/class_slic3r_1_1_ams.html", "d6/d46/class_slic3r_1_1_ams" ],
+    [ "Slic3r::FirmwareInfo", "de/db8/namespace_slic3r.html#df/d0e/class_slic3r_1_1_firmware_info", [
+      [ "description", "de/db8/namespace_slic3r.html#ae273ffe88327e51d4eda336fd71d3bf5", null ],
+      [ "module_type", "de/db8/namespace_slic3r.html#a2a60bf39a4b46c8f467d2cf05f967e86", null ],
+      [ "name", "de/db8/namespace_slic3r.html#a55f3de146b321021d09279eea5a8f7bc", null ],
+      [ "url", "de/db8/namespace_slic3r.html#aa664265217cec474464cfb740cc2d8a3", null ],
+      [ "version", "de/db8/namespace_slic3r.html#adefee98487683f7fc2cd7ebc89648c47", null ]
+    ] ],
+    [ "Slic3r::HMSItem", "dc/d19/class_slic3r_1_1_h_m_s_item.html", "dc/d19/class_slic3r_1_1_h_m_s_item" ],
+    [ "Slic3r::DisValue", "de/db8/namespace_slic3r.html#d9/d15/struct_slic3r_1_1_dis_value", [
+      [ "distance", "de/db8/namespace_slic3r.html#a0934aa133f1516f2614733d085dce0fa", null ],
+      [ "is_same_color", "de/db8/namespace_slic3r.html#a1f7a63fbe5baf37fbecaddcef9f43ac0", null ],
+      [ "is_type_match", "de/db8/namespace_slic3r.html#a8be40458dccd8fe7cef18bdaa6a2f3cc", null ],
+      [ "tray_id", "de/db8/namespace_slic3r.html#a8875e169a6f3b0b05bf243741d8b97fd", null ]
+    ] ],
+    [ "Slic3r::MachineObject", "dc/d24/class_slic3r_1_1_machine_object.html", "dc/d24/class_slic3r_1_1_machine_object" ],
+    [ "Slic3r::MachineObject::ModuleVersionInfo", "dc/d24/class_slic3r_1_1_machine_object.html#db/def/class_slic3r_1_1_machine_object_1_1_module_version_info", [
+      [ "hw_ver", "dc/d24/class_slic3r_1_1_machine_object.html#ae7bebb03cdf6f2a11088749cff708be4", null ],
+      [ "name", "dc/d24/class_slic3r_1_1_machine_object.html#aa20e044efbab49f3280144fcbe7123b9", null ],
+      [ "sn", "dc/d24/class_slic3r_1_1_machine_object.html#af9501c4147e6336f3f46fc0fa360e184", null ],
+      [ "sw_new_ver", "dc/d24/class_slic3r_1_1_machine_object.html#a8b7ed5990d5c346dd89fcc964c05d508", null ],
+      [ "sw_ver", "dc/d24/class_slic3r_1_1_machine_object.html#a3dd5c9afa7eb25445b49997a9349ffee", null ]
+    ] ],
+    [ "Slic3r::MachineObject::ExtrusionRatioInfo", "dc/d24/class_slic3r_1_1_machine_object.html#d0/d7b/class_slic3r_1_1_machine_object_1_1_extrusion_ratio_info", [
+      [ "k", "dc/d24/class_slic3r_1_1_machine_object.html#a422247c235ca3cdff5a9f74cf172d0b3", null ],
+      [ "n", "dc/d24/class_slic3r_1_1_machine_object.html#a9f43cb91832334b43e3023402b0ea024", null ],
+      [ "name", "dc/d24/class_slic3r_1_1_machine_object.html#a9b69d8e903be33713c00cc38a031d14d", null ],
+      [ "setting_id", "dc/d24/class_slic3r_1_1_machine_object.html#a7838fa64a0f7d69d804278b01fca8ca4", null ]
+    ] ],
+    [ "Slic3r::DeviceManager", "db/d79/class_slic3r_1_1_device_manager.html", "db/d79/class_slic3r_1_1_device_manager" ],
+    [ "BED_TEMP_LIMIT", "df/df3/_device_manager_8hpp.html#a8ebe5ad76db5416cd888820c738e7e3c", null ],
+    [ "DISCONNECT_TIMEOUT", "df/df3/_device_manager_8hpp.html#aee71f6737968df192b273af852e4ae10", null ],
+    [ "END_SEQ_ID", "df/df3/_device_manager_8hpp.html#a82071f00bdd81009afa0ca78cf78ca7b", null ],
+    [ "EXTRUSION_OMIT_TIME", "df/df3/_device_manager_8hpp.html#aaf667eb60dbc5ccfff8aa785861b442d", null ],
+    [ "FILAMENT_DEF_TEMP", "df/df3/_device_manager_8hpp.html#af39831fb6292b0da454c1b438cce31e2", null ],
+    [ "FILAMENT_MAX_TEMP", "df/df3/_device_manager_8hpp.html#aa8ffedb94d65573038c0d7d9d4bd2e1c", null ],
+    [ "FILAMENT_MIN_TEMP", "df/df3/_device_manager_8hpp.html#a95fb4a6e8e18bb6607051a21b9f3cd19", null ],
+    [ "GET_VERSION_RETRYS", "df/df3/_device_manager_8hpp.html#a0c83a9de9bbb394f02ca06ceae58b4fa", null ],
+    [ "HOLD_COUNT_CAMERA", "df/df3/_device_manager_8hpp.html#a52d71dcf3a7cc81a86bd2df0890dd513", null ],
+    [ "HOLD_COUNT_MAX", "df/df3/_device_manager_8hpp.html#af2c93166793210f6ffbfe37d38b8d52f", null ],
+    [ "HOLD_TIMEOUT", "df/df3/_device_manager_8hpp.html#a727b2d7cd11a97cf5940e3713f2683bc", null ],
+    [ "PUSHINFO_TIMEOUT", "df/df3/_device_manager_8hpp.html#a7db84c6daf890d7c5eb690f42ba8cbd8", null ],
+    [ "REQUEST_PUSH_MIN_TIME", "df/df3/_device_manager_8hpp.html#ab264572e45505fa4f3945ea835b77c76", null ],
+    [ "REQUEST_START_MIN_TIME", "df/df3/_device_manager_8hpp.html#acb69ded04ea37367fd503ac811a06164", null ],
+    [ "RETRY_INTERNAL", "df/df3/_device_manager_8hpp.html#a5fb479068018aaec6cef887038dcae17", null ],
+    [ "START_SEQ_ID", "df/df3/_device_manager_8hpp.html#a4db3970125bd70e6771f85b550f43c18", null ],
+    [ "TIMEOUT_FOR_STRAT", "df/df3/_device_manager_8hpp.html#a1dd4d5c261ed28887a331577e0da28e8", null ],
+    [ "UpgradeDownloadFailed", "df/df3/_device_manager_8hpp.html#a812fc86480a52789b90608344df0e12e", null ],
+    [ "UpgradeFlashFailed", "df/df3/_device_manager_8hpp.html#a77561edcc942bc422930d3878235db29", null ],
+    [ "UpgradeNoError", "df/df3/_device_manager_8hpp.html#afad1c3001f2305b0c93f30beddd440f6", null ],
+    [ "UpgradePrinting", "df/df3/_device_manager_8hpp.html#a6944a793f5666c409f9a99a9e5edc53d", null ],
+    [ "UpgradeVerfifyFailed", "df/df3/_device_manager_8hpp.html#a1fa53c7bb8ab061fe5edfef2bbc9f929", null ],
+    [ "USE_LOCAL_SOCKET_BIND", "df/df3/_device_manager_8hpp.html#acf74f534bacc0ae37a4df5d6679649d5", null ],
+    [ "VIRTUAL_TRAY_ID", "df/df3/_device_manager_8hpp.html#ac356f9db2482b0efbb9ef21d8869126b", null ],
+    [ "AmsOptionType", "df/df3/_device_manager_8hpp.html#aee834dc38c035034fddb7ab5a84d2afc", [
+      [ "AMS_OP_STARTUP_READ", "df/df3/_device_manager_8hpp.html#aee834dc38c035034fddb7ab5a84d2afca97527851445402e6f984254b5c49673b", null ],
+      [ "AMS_OP_TRAY_READ", "df/df3/_device_manager_8hpp.html#aee834dc38c035034fddb7ab5a84d2afca462feef3c7a26f19428c5db11d6b5966", null ],
+      [ "AMS_OP_CALIBRATE_REMAIN", "df/df3/_device_manager_8hpp.html#aee834dc38c035034fddb7ab5a84d2afcaac9a0da2e8e961d4f96920dc36ae16c1", null ]
+    ] ],
+    [ "AmsRfidState", "df/df3/_device_manager_8hpp.html#a2a9431c4cd6d4b7cf83e4d57ac64ab89", [
+      [ "AMS_RFID_INIT", "df/df3/_device_manager_8hpp.html#a2a9431c4cd6d4b7cf83e4d57ac64ab89ab223ec8734b4c156fa91cf7b1b21e765", null ],
+      [ "AMS_RFID_LOADING", "df/df3/_device_manager_8hpp.html#a2a9431c4cd6d4b7cf83e4d57ac64ab89a90460314375562927bfb439841087843", null ],
+      [ "AMS_REID_DONE", "df/df3/_device_manager_8hpp.html#a2a9431c4cd6d4b7cf83e4d57ac64ab89ad42700a23668e8bbc0d889e11b049801", null ]
+    ] ],
+    [ "AmsRfidStatus", "df/df3/_device_manager_8hpp.html#a54c6509dd7510c795e785fbc6a0e0d53", [
+      [ "AMS_RFID_IDLE", "df/df3/_device_manager_8hpp.html#a54c6509dd7510c795e785fbc6a0e0d53a421e364c01687dc38f376625b85becfd", null ],
+      [ "AMS_RFID_READING", "df/df3/_device_manager_8hpp.html#a54c6509dd7510c795e785fbc6a0e0d53ab9197e5e8697f317670210828b3d8bc7", null ],
+      [ "AMS_RFID_GCODE_TRANS", "df/df3/_device_manager_8hpp.html#a54c6509dd7510c795e785fbc6a0e0d53aa76ecc5e6d3d76cba6ce22f0737f0bcc", null ],
+      [ "AMS_RFID_GCODE_RUNNING", "df/df3/_device_manager_8hpp.html#a54c6509dd7510c795e785fbc6a0e0d53a1d67452643c63447dd5d03bbfd513e80", null ],
+      [ "AMS_RFID_ASSITANT", "df/df3/_device_manager_8hpp.html#a54c6509dd7510c795e785fbc6a0e0d53aa9dbf2f06fa061c764d043e48c93f7b8", null ],
+      [ "AMS_RFID_SWITCH_FILAMENT", "df/df3/_device_manager_8hpp.html#a54c6509dd7510c795e785fbc6a0e0d53a6e5e6ed0db00ebf287e22301925ac827", null ],
+      [ "AMS_RFID_HAS_FILAMENT", "df/df3/_device_manager_8hpp.html#a54c6509dd7510c795e785fbc6a0e0d53a736b07410f6e6bb73ce767686991fc55", null ]
+    ] ],
+    [ "AmsRoadPosition", "df/df3/_device_manager_8hpp.html#a1beca703543c56b217cdaa06ce77ac04", [
+      [ "AMS_ROAD_POSITION_TRAY", "df/df3/_device_manager_8hpp.html#a1beca703543c56b217cdaa06ce77ac04a4baf27c8e10ab5831c7a5d5ef601c728", null ],
+      [ "AMS_ROAD_POSITION_TUBE", "df/df3/_device_manager_8hpp.html#a1beca703543c56b217cdaa06ce77ac04a339064ebd0d858b3aec6b7290033f6a3", null ],
+      [ "AMS_ROAD_POSITION_HOTEND", "df/df3/_device_manager_8hpp.html#a1beca703543c56b217cdaa06ce77ac04a476d932122377c173d0460ae488b090c", null ]
+    ] ],
+    [ "AmsStatusMain", "df/df3/_device_manager_8hpp.html#a1ae7af04bffa497706d4005b24e24647", [
+      [ "AMS_STATUS_MAIN_IDLE", "df/df3/_device_manager_8hpp.html#a1ae7af04bffa497706d4005b24e24647a432c14f2a7372108b47fab0efb0a8e0a", null ],
+      [ "AMS_STATUS_MAIN_FILAMENT_CHANGE", "df/df3/_device_manager_8hpp.html#a1ae7af04bffa497706d4005b24e24647a6dc5bf975e50b86298f4785df148bda3", null ],
+      [ "AMS_STATUS_MAIN_RFID_IDENTIFYING", "df/df3/_device_manager_8hpp.html#a1ae7af04bffa497706d4005b24e24647a926b6e08390cc27cccda2dc889b32cff", null ],
+      [ "AMS_STATUS_MAIN_ASSIST", "df/df3/_device_manager_8hpp.html#a1ae7af04bffa497706d4005b24e24647adfb6aec905751e206bebaaf1cbcde385", null ],
+      [ "AMS_STATUS_MAIN_CALIBRATION", "df/df3/_device_manager_8hpp.html#a1ae7af04bffa497706d4005b24e24647a94fe4bbee5d71e2b5da864056b987bcd", null ],
+      [ "AMS_STATUS_MAIN_SELF_CHECK", "df/df3/_device_manager_8hpp.html#a1ae7af04bffa497706d4005b24e24647a358758fe1a33a650b51aca7c1f46613a", null ],
+      [ "AMS_STATUS_MAIN_DEBUG", "df/df3/_device_manager_8hpp.html#a1ae7af04bffa497706d4005b24e24647a728e6bfb7294e6b20cb724e3c1f6475e", null ],
+      [ "AMS_STATUS_MAIN_UNKNOWN", "df/df3/_device_manager_8hpp.html#a1ae7af04bffa497706d4005b24e24647ab6ed6120c3aa69e7b5266850a730891e", null ]
+    ] ],
+    [ "AmsStep", "df/df3/_device_manager_8hpp.html#a8ba51565126595658d198ad60819153b", [
+      [ "AMS_STEP_INIT", "df/df3/_device_manager_8hpp.html#a8ba51565126595658d198ad60819153bab808f98717ee735960e13cf6116b8e26", null ],
+      [ "AMS_STEP_HEAT_EXTRUDER", "df/df3/_device_manager_8hpp.html#a8ba51565126595658d198ad60819153bad4dca038956ba3dd38e0397391d3ead9", null ],
+      [ "AMS_STEP_LOADING", "df/df3/_device_manager_8hpp.html#a8ba51565126595658d198ad60819153ba9836f4c42679b260fa30c0cfebc4caca", null ],
+      [ "AMS_STEP_COMPLETED", "df/df3/_device_manager_8hpp.html#a8ba51565126595658d198ad60819153ba154613b2381a7248aa4caafbfbc64f62", null ]
+    ] ],
+    [ "HMSMessageLevel", "df/df3/_device_manager_8hpp.html#ac34f48b076974d33f72628f0cc2cb48e", [
+      [ "HMS_UNKNOWN", "df/df3/_device_manager_8hpp.html#ac34f48b076974d33f72628f0cc2cb48ea1ce6aeea616858ca5bf1f938f7e2d995", null ],
+      [ "HMS_FATAL", "df/df3/_device_manager_8hpp.html#ac34f48b076974d33f72628f0cc2cb48eae60f368801d5545ee77f2d86d9b7c3ed", null ],
+      [ "HMS_SERIOUS", "df/df3/_device_manager_8hpp.html#ac34f48b076974d33f72628f0cc2cb48ea3d4d3e0a389f4f4a897325ba25f34f12", null ],
+      [ "HMS_COMMON", "df/df3/_device_manager_8hpp.html#ac34f48b076974d33f72628f0cc2cb48ea914d400ed05aaba5b2ab8452868d8517", null ],
+      [ "HMS_INFO", "df/df3/_device_manager_8hpp.html#ac34f48b076974d33f72628f0cc2cb48ead130a9948ccc11fbac7901b4eb49a4d8", null ],
+      [ "HMS_MSG_LEVEL_MAX", "df/df3/_device_manager_8hpp.html#ac34f48b076974d33f72628f0cc2cb48ea8b24745d11f37e9733178dd6ee067e9f", null ]
+    ] ],
+    [ "ModuleID", "df/df3/_device_manager_8hpp.html#a7e8078b8e07e603e1544ac8d95d17956", [
+      [ "MODULE_UKNOWN", "df/df3/_device_manager_8hpp.html#a7e8078b8e07e603e1544ac8d95d17956abb6566eb5d767f4e4760a36543e04e6f", null ],
+      [ "MODULE_01", "df/df3/_device_manager_8hpp.html#a7e8078b8e07e603e1544ac8d95d17956a1cdd6f3783d2e4e4d099268e64423308", null ],
+      [ "MODULE_02", "df/df3/_device_manager_8hpp.html#a7e8078b8e07e603e1544ac8d95d17956a51ae85e0dcba49f8388deb981fa6319b", null ],
+      [ "MODULE_MC", "df/df3/_device_manager_8hpp.html#a7e8078b8e07e603e1544ac8d95d17956a1ae908ec60d4022a5c0f894c5686f354", null ],
+      [ "MODULE_04", "df/df3/_device_manager_8hpp.html#a7e8078b8e07e603e1544ac8d95d17956a03ed7bd8ef86611f6f84d286553d514b", null ],
+      [ "MODULE_MAINBOARD", "df/df3/_device_manager_8hpp.html#a7e8078b8e07e603e1544ac8d95d17956a101de6aa2eafea885db145a481e9d9a8", null ],
+      [ "MODULE_06", "df/df3/_device_manager_8hpp.html#a7e8078b8e07e603e1544ac8d95d17956a73815f7ecf35944611bd0c3fa4cabdd6", null ],
+      [ "MODULE_AMS", "df/df3/_device_manager_8hpp.html#a7e8078b8e07e603e1544ac8d95d17956af41c8452fe6208b34aa9312301ee1779", null ],
+      [ "MODULE_TH", "df/df3/_device_manager_8hpp.html#a7e8078b8e07e603e1544ac8d95d17956a739b69f3eb1d8a10cd60c8a97aaff84c", null ],
+      [ "MODULE_09", "df/df3/_device_manager_8hpp.html#a7e8078b8e07e603e1544ac8d95d17956ac36fcd181691af6b2759c402275abe79", null ],
+      [ "MODULE_10", "df/df3/_device_manager_8hpp.html#a7e8078b8e07e603e1544ac8d95d17956a8998dea717b13c8c9a547fbc181b1047", null ],
+      [ "MODULE_11", "df/df3/_device_manager_8hpp.html#a7e8078b8e07e603e1544ac8d95d17956a1287be5c57c54d36a0c2840e044c0815", null ],
+      [ "MODULE_XCAM", "df/df3/_device_manager_8hpp.html#a7e8078b8e07e603e1544ac8d95d17956ab757608ac15f8b5f77e4866df3133c30", null ],
+      [ "MODULE_13", "df/df3/_device_manager_8hpp.html#a7e8078b8e07e603e1544ac8d95d17956a5c670adc5dc65bf18f1f672df74f2c5a", null ],
+      [ "MODULE_14", "df/df3/_device_manager_8hpp.html#a7e8078b8e07e603e1544ac8d95d17956a885c9cd8b77abf991a9a31a8beca6bbb", null ],
+      [ "MODULE_15", "df/df3/_device_manager_8hpp.html#a7e8078b8e07e603e1544ac8d95d17956a3b64d2c97b70775cac7178c1d455253c", null ],
+      [ "MODULE_MAX", "df/df3/_device_manager_8hpp.html#a7e8078b8e07e603e1544ac8d95d17956a74aa104370a4331f78a09902db6f0055", null ]
+    ] ],
+    [ "PrinterFirmwareType", "df/df3/_device_manager_8hpp.html#aff742e9f21dfeaef829e5c6049ebab21", [
+      [ "FIRMWARE_TYPE_ENGINEER", "df/df3/_device_manager_8hpp.html#aff742e9f21dfeaef829e5c6049ebab21a3009a3a4de24fb668bbcd60e8d0f1afb", null ],
+      [ "FIRMWARE_TYPE_PRODUCTION", "df/df3/_device_manager_8hpp.html#aff742e9f21dfeaef829e5c6049ebab21a3cea8f0ff2d793ddb40a5bc5aaee0139", null ],
+      [ "FIRMEARE_TYPE_UKNOWN", "df/df3/_device_manager_8hpp.html#aff742e9f21dfeaef829e5c6049ebab21a50ae3a9d5da729a8a2030c877e403714", null ]
+    ] ],
+    [ "PrinterFunction", "df/df3/_device_manager_8hpp.html#ac6a9df68a26d2b9127b54ff3c92f587f", [
+      [ "FUNC_MONITORING", "df/df3/_device_manager_8hpp.html#ac6a9df68a26d2b9127b54ff3c92f587fa9a138ae9ad796edd2fa903561ec3881b", null ],
+      [ "FUNC_TIMELAPSE", "df/df3/_device_manager_8hpp.html#ac6a9df68a26d2b9127b54ff3c92f587fad7ea13bf5ba68687ef0bfda9df29f161", null ],
+      [ "FUNC_RECORDING", "df/df3/_device_manager_8hpp.html#ac6a9df68a26d2b9127b54ff3c92f587fa4992e1bfba95df77a2b7c33993c8bb51", null ],
+      [ "FUNC_FIRSTLAYER_INSPECT", "df/df3/_device_manager_8hpp.html#ac6a9df68a26d2b9127b54ff3c92f587fafd138780db564f7be9f70ee58d926c08", null ],
+      [ "FUNC_AI_MONITORING", "df/df3/_device_manager_8hpp.html#ac6a9df68a26d2b9127b54ff3c92f587faf53f1c16643f7ba6d226a29d54b8a6a7", null ],
+      [ "FUNC_BUILDPLATE_MARKER_DETECT", "df/df3/_device_manager_8hpp.html#ac6a9df68a26d2b9127b54ff3c92f587fae482945a77b56f68f19adf6947900ec4", null ],
+      [ "FUNC_AUTO_RECOVERY_STEP_LOSS", "df/df3/_device_manager_8hpp.html#ac6a9df68a26d2b9127b54ff3c92f587facc9a0c76b906c2a4467d84914c6dd4fc", null ],
+      [ "FUNC_FLOW_CALIBRATION", "df/df3/_device_manager_8hpp.html#ac6a9df68a26d2b9127b54ff3c92f587fa44170c8de9aac578e4bada0adff1e9a3", null ],
+      [ "FUNC_AUTO_LEVELING", "df/df3/_device_manager_8hpp.html#ac6a9df68a26d2b9127b54ff3c92f587fa6959c696bbb97eed5e4fc43c0f891cfe", null ],
+      [ "FUNC_CHAMBER_TEMP", "df/df3/_device_manager_8hpp.html#ac6a9df68a26d2b9127b54ff3c92f587fa85bbb09e62f1ded2f4a91006abbb290e", null ],
+      [ "FUNC_CAMERA_VIDEO", "df/df3/_device_manager_8hpp.html#ac6a9df68a26d2b9127b54ff3c92f587faece51f276fa70a041ab92a46c6bd8d52", null ],
+      [ "FUNC_MEDIA_FILE", "df/df3/_device_manager_8hpp.html#ac6a9df68a26d2b9127b54ff3c92f587fa914633e496042fc87f8ead010e088978", null ],
+      [ "FUNC_REMOTE_TUNNEL", "df/df3/_device_manager_8hpp.html#ac6a9df68a26d2b9127b54ff3c92f587fa7eccffa99b9c2cd27ad41a5a0d0463ce", null ],
+      [ "FUNC_LOCAL_TUNNEL", "df/df3/_device_manager_8hpp.html#ac6a9df68a26d2b9127b54ff3c92f587fac621e387623ec43a0fcf04f516f5189a", null ],
+      [ "FUNC_PRINT_WITHOUT_SD", "df/df3/_device_manager_8hpp.html#ac6a9df68a26d2b9127b54ff3c92f587fa24aa1222a2cecee2ebe6c4bb4ba676e5", null ],
+      [ "FUNC_VIRTUAL_CAMERA", "df/df3/_device_manager_8hpp.html#ac6a9df68a26d2b9127b54ff3c92f587faaef9d3df1d1d8d5bbdd3cdbde30a8fe7", null ],
+      [ "FUNC_USE_AMS", "df/df3/_device_manager_8hpp.html#ac6a9df68a26d2b9127b54ff3c92f587faaf4c1a2e6c764d684389e990ee4f0212", null ],
+      [ "FUNC_ALTER_RESOLUTION", "df/df3/_device_manager_8hpp.html#ac6a9df68a26d2b9127b54ff3c92f587faf1c0774423abab752b9d3cda4ba7a2b7", null ],
+      [ "FUNC_SEND_TO_SDCARD", "df/df3/_device_manager_8hpp.html#ac6a9df68a26d2b9127b54ff3c92f587fa645787bba63e3e6df32efec107ec21b4", null ],
+      [ "FUNC_AUTO_SWITCH_FILAMENT", "df/df3/_device_manager_8hpp.html#ac6a9df68a26d2b9127b54ff3c92f587fa9b7c13d230f9f6e91a863a5333d9d6b5", null ],
+      [ "FUNC_CHAMBER_FAN", "df/df3/_device_manager_8hpp.html#ac6a9df68a26d2b9127b54ff3c92f587fa26ace5d6751d7734c270958f065f496d", null ],
+      [ "FUNC_EXTRUSION_CALI", "df/df3/_device_manager_8hpp.html#ac6a9df68a26d2b9127b54ff3c92f587fa16d40d1ecb72d70f64672c3f52083675", null ],
+      [ "FUNC_VIRTUAL_TYAY", "df/df3/_device_manager_8hpp.html#ac6a9df68a26d2b9127b54ff3c92f587fa85b0623450eff6d7795ed1396892f28c", null ],
+      [ "FUNC_PRINT_ALL", "df/df3/_device_manager_8hpp.html#ac6a9df68a26d2b9127b54ff3c92f587faf93575c568ba37965e3cd4909b3cb2ed", null ],
+      [ "FUNC_FILAMENT_BACKUP", "df/df3/_device_manager_8hpp.html#ac6a9df68a26d2b9127b54ff3c92f587fa214fb554bd6216a530f79a752476da3b", null ],
+      [ "FUNC_MAX", "df/df3/_device_manager_8hpp.html#ac6a9df68a26d2b9127b54ff3c92f587fa7b017f500b1e6fa189f1742439e080d1", null ]
+    ] ],
+    [ "PRINTING_STAGE", "df/df3/_device_manager_8hpp.html#ab8e92754b10586443bd7cfdf28b5ec04", [
+      [ "PRINTING_STAGE_PRINTING", "df/df3/_device_manager_8hpp.html#ab8e92754b10586443bd7cfdf28b5ec04ae66a17fbd88a48c406bf36d16ee309b2", null ],
+      [ "PRINTING_STAGE_BED_LEVELING", "df/df3/_device_manager_8hpp.html#ab8e92754b10586443bd7cfdf28b5ec04aa5b465e5e31c770bf817438e5588e3ae", null ],
+      [ "PRINTING_STAGE_HEADBED", "df/df3/_device_manager_8hpp.html#ab8e92754b10586443bd7cfdf28b5ec04ac8297ef08a9e2b179295e6605a7a9c56", null ],
+      [ "PRINTING_STAGE_XY_MECH_MODE", "df/df3/_device_manager_8hpp.html#ab8e92754b10586443bd7cfdf28b5ec04a942cd19cae2e8f046c610d5a63cd204c", null ],
+      [ "PRINTING_STAGE_CHANGE_MATERIAL", "df/df3/_device_manager_8hpp.html#ab8e92754b10586443bd7cfdf28b5ec04a927ad6d733d3dea8e84be88946079a2c", null ],
+      [ "PRINTING_STAGE_M400_PAUSE", "df/df3/_device_manager_8hpp.html#ab8e92754b10586443bd7cfdf28b5ec04a87baca6c80f9bb52f0484cecabc48d8c", null ],
+      [ "PRINTING_STAGE_FILAMENT_RUNOUT_PAUSE", "df/df3/_device_manager_8hpp.html#ab8e92754b10586443bd7cfdf28b5ec04a1ca7aca4f6f130e54ac56cadcdd4e7be", null ],
+      [ "PRINTING_STAGE_HOTEND_HEATING", "df/df3/_device_manager_8hpp.html#ab8e92754b10586443bd7cfdf28b5ec04a0a1933aad46c0d439dc8f897e41dcab3", null ],
+      [ "PRINTING_STAGE_EXTRUDER_SCAN", "df/df3/_device_manager_8hpp.html#ab8e92754b10586443bd7cfdf28b5ec04a78666d7f81fbbb92e1dd1ab7b0d3155b", null ],
+      [ "PRINTING_STAGE_BED_SCAN", "df/df3/_device_manager_8hpp.html#ab8e92754b10586443bd7cfdf28b5ec04ab3b0f7ddee0c0518410d4b4d936514cb", null ],
+      [ "PRINTING_STAGE_FIRST_LAYER_SCAN", "df/df3/_device_manager_8hpp.html#ab8e92754b10586443bd7cfdf28b5ec04a12df58ae2a76e9306cb8798990fa1dfb", null ],
+      [ "PRINTING_STAGE_SURFACE_TYPE_IDENT", "df/df3/_device_manager_8hpp.html#ab8e92754b10586443bd7cfdf28b5ec04aad81e57bf561e655b85171987e017736", null ],
+      [ "PRINTING_STAGE_SCANNER_PARAM_CALI", "df/df3/_device_manager_8hpp.html#ab8e92754b10586443bd7cfdf28b5ec04a7c1e8cc7040f1dcace61b0adac3d6b01", null ],
+      [ "PRINTING_STAGE_TOOHEAD_HOMING", "df/df3/_device_manager_8hpp.html#ab8e92754b10586443bd7cfdf28b5ec04aee535d0ee1d8e516490dec40f46db8f9", null ],
+      [ "PRINTING_STAGE_NOZZLE_TIP_CLEANING", "df/df3/_device_manager_8hpp.html#ab8e92754b10586443bd7cfdf28b5ec04a7d333227e61857b708c6b6166210a62d", null ],
+      [ "PRINTING_STAGE_COUNT", "df/df3/_device_manager_8hpp.html#ab8e92754b10586443bd7cfdf28b5ec04a3f92de18d1d816a767b6fa6abbe71b02", null ]
+    ] ],
+    [ "PrintingSpeedLevel", "df/df3/_device_manager_8hpp.html#a48b12b7a73fe757b1a98fb580620b4ae", [
+      [ "SPEED_LEVEL_INVALID", "df/df3/_device_manager_8hpp.html#a48b12b7a73fe757b1a98fb580620b4aeace15862ec6f16f27777a2d303823c671", null ],
+      [ "SPEED_LEVEL_SILENCE", "df/df3/_device_manager_8hpp.html#a48b12b7a73fe757b1a98fb580620b4aea45e03378949069599ddbf3accbb0ca6c", null ],
+      [ "SPEED_LEVEL_NORMAL", "df/df3/_device_manager_8hpp.html#a48b12b7a73fe757b1a98fb580620b4aea18f23013588b5e5233427fae9419a234", null ],
+      [ "SPEED_LEVEL_RAPID", "df/df3/_device_manager_8hpp.html#a48b12b7a73fe757b1a98fb580620b4aeac680671d89619b566d1a2cb5d268329b", null ],
+      [ "SPEED_LEVEL_RAMPAGE", "df/df3/_device_manager_8hpp.html#a48b12b7a73fe757b1a98fb580620b4aea57db9f602d52795f7207f89129cb9cbb", null ],
+      [ "SPEED_LEVEL_COUNT", "df/df3/_device_manager_8hpp.html#a48b12b7a73fe757b1a98fb580620b4aea060c4c9bd49feb5bfc174eeb4669f8c3", null ]
+    ] ],
+    [ "correct_filament_temperature", "df/df3/_device_manager_8hpp.html#aff8dda0e67d62f09b451df24ba2dc274", null ],
+    [ "get_stage_string", "df/df3/_device_manager_8hpp.html#a58e9e46eafee8b071d8b5c183f3a120a", null ]
+];

@@ -1,0 +1,27 @@
+var namespace_slic3r_1_1_clipper_utils =
+[
+    [ "EmptyPathsProvider", "da/d27/class_slic3r_1_1_clipper_utils_1_1_empty_paths_provider.html", "da/d27/class_slic3r_1_1_clipper_utils_1_1_empty_paths_provider" ],
+    [ "ExPolygonProvider", "df/d70/struct_slic3r_1_1_clipper_utils_1_1_ex_polygon_provider.html", "df/d70/struct_slic3r_1_1_clipper_utils_1_1_ex_polygon_provider" ],
+    [ "ExPolygonsProvider", "d8/d76/struct_slic3r_1_1_clipper_utils_1_1_ex_polygons_provider.html", "d8/d76/struct_slic3r_1_1_clipper_utils_1_1_ex_polygons_provider" ],
+    [ "MultiPointsProvider", "d6/dbc/class_slic3r_1_1_clipper_utils_1_1_multi_points_provider.html", "d6/dbc/class_slic3r_1_1_clipper_utils_1_1_multi_points_provider" ],
+    [ "PathsProvider", "d7/d82/class_slic3r_1_1_clipper_utils_1_1_paths_provider.html", "d7/d82/class_slic3r_1_1_clipper_utils_1_1_paths_provider" ],
+    [ "PathsProviderIteratorBase", "de/dc6/class_slic3r_1_1_clipper_utils_1_1_paths_provider_iterator_base.html", "de/dc6/class_slic3r_1_1_clipper_utils_1_1_paths_provider_iterator_base" ],
+    [ "SinglePathProvider", "de/d99/class_slic3r_1_1_clipper_utils_1_1_single_path_provider.html", "de/d99/class_slic3r_1_1_clipper_utils_1_1_single_path_provider" ],
+    [ "SurfacesProvider", "d2/d93/struct_slic3r_1_1_clipper_utils_1_1_surfaces_provider.html", "d2/d93/struct_slic3r_1_1_clipper_utils_1_1_surfaces_provider" ],
+    [ "SurfacesPtrProvider", "da/d0f/struct_slic3r_1_1_clipper_utils_1_1_surfaces_ptr_provider.html", "da/d0f/struct_slic3r_1_1_clipper_utils_1_1_surfaces_ptr_provider" ],
+    [ "PolygonsProvider", "d5/dd6/namespace_slic3r_1_1_clipper_utils.html#aeec42aea2cdc4f2a9a7d7f5862de1240", null ],
+    [ "PolylinesProvider", "d5/dd6/namespace_slic3r_1_1_clipper_utils.html#a1ff22190a929a1ab0264d5ffbe9f8e8c", null ],
+    [ "ZPoint", "d5/dd6/namespace_slic3r_1_1_clipper_utils.html#aced651048e56056b06bffbea82c99de6", null ],
+    [ "ZPoints", "d5/dd6/namespace_slic3r_1_1_clipper_utils.html#a8d078dd07b153ade92c1b86af97a316c", null ],
+    [ "clip_clipper_polygon_with_subject_bbox", "d5/dd6/namespace_slic3r_1_1_clipper_utils.html#a62e66e6cd48099bffb23f3531b9c21ac", null ],
+    [ "clip_clipper_polygon_with_subject_bbox", "d5/dd6/namespace_slic3r_1_1_clipper_utils.html#ad971924392afd821b0f0485e3b3f09fb", null ],
+    [ "clip_clipper_polygon_with_subject_bbox", "d5/dd6/namespace_slic3r_1_1_clipper_utils.html#ae1a27e7ab0b8004dfd0b04aa17947521", null ],
+    [ "clip_clipper_polygon_with_subject_bbox", "d5/dd6/namespace_slic3r_1_1_clipper_utils.html#aebb05fac95032d4b0995568fced47864", null ],
+    [ "clip_clipper_polygon_with_subject_bbox", "d5/dd6/namespace_slic3r_1_1_clipper_utils.html#ad621592c79b991dd7d75493fa6376a1c", null ],
+    [ "clip_clipper_polygon_with_subject_bbox", "d5/dd6/namespace_slic3r_1_1_clipper_utils.html#a802eda08cce14d16e9b3e0653a803b97", null ],
+    [ "clip_clipper_polygon_with_subject_bbox_templ", "d5/dd6/namespace_slic3r_1_1_clipper_utils.html#ac6027d5656880514b1e954e79a195241", null ],
+    [ "clip_clipper_polygon_with_subject_bbox_templ", "d5/dd6/namespace_slic3r_1_1_clipper_utils.html#a0b325c77f1ac87c00077a3bb1c2b5195", null ],
+    [ "clip_clipper_polygons_with_subject_bbox", "d5/dd6/namespace_slic3r_1_1_clipper_utils.html#ac86dbbad89210cf8467d46ee39bee1dc", null ],
+    [ "clip_clipper_polygons_with_subject_bbox", "d5/dd6/namespace_slic3r_1_1_clipper_utils.html#a1f6c6743cdf723b069d63222597c8fc6", null ],
+    [ "clip_clipper_polygons_with_subject_bbox", "d5/dd6/namespace_slic3r_1_1_clipper_utils.html#aa6e536f0717a1b0df648d6e192d401c1", null ]
+];

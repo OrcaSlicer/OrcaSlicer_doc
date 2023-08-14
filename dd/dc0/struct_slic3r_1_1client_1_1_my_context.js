@@ -1,0 +1,28 @@
+var struct_slic3r_1_1client_1_1_my_context =
+[
+    [ "evaluate_full_macro", "dd/dc0/struct_slic3r_1_1client_1_1_my_context.html#a9bdaa164341e25ad1d681165f9f1601f", null ],
+    [ "evaluate_index", "dd/dc0/struct_slic3r_1_1client_1_1_my_context.html#a5d8fa8646e96e86acd4b192465186dd3", null ],
+    [ "has", "dd/dc0/struct_slic3r_1_1client_1_1_my_context.html#af3beeeec67d0ff2ac81b0af0e0e6f92d", null ],
+    [ "legacy_variable_expansion", "dd/dc0/struct_slic3r_1_1client_1_1_my_context.html#ab46ac15ab9ba92d208706fc859e0a006", null ],
+    [ "legacy_variable_expansion2", "dd/dc0/struct_slic3r_1_1client_1_1_my_context.html#a15516658e9edd4ad3d6964e31b53d3c1", null ],
+    [ "option", "dd/dc0/struct_slic3r_1_1client_1_1_my_context.html#aa253a27a83afbb56c5aa92f189719874", null ],
+    [ "option", "dd/dc0/struct_slic3r_1_1client_1_1_my_context.html#a548bc3909295a2e70d4a94327b9fee2c", null ],
+    [ "option_throw", "dd/dc0/struct_slic3r_1_1client_1_1_my_context.html#a68117a7662c9d57b1be8f0e7aff5bae6", null ],
+    [ "option_throw", "dd/dc0/struct_slic3r_1_1client_1_1_my_context.html#a3cc55e3d522ab504bbd4b3e593c88e07", null ],
+    [ "optptr", "dd/dc0/struct_slic3r_1_1client_1_1_my_context.html#a6d27e3744c3c45f6535324ab55081ec4", null ],
+    [ "process_error_message", "dd/dc0/struct_slic3r_1_1client_1_1_my_context.html#ad92ae999b234ccee62c3bd2d532a1bb4", null ],
+    [ "random", "dd/dc0/struct_slic3r_1_1client_1_1_my_context.html#a3fca06e1adba68a97835a17ca22fe2df", null ],
+    [ "resolve_symbol", "dd/dc0/struct_slic3r_1_1client_1_1_my_context.html#a57624272cb23b44de81ac564a2050e3e", null ],
+    [ "resolve_variable", "dd/dc0/struct_slic3r_1_1client_1_1_my_context.html#ae60460893de407c158b0186d415506a5", null ],
+    [ "scalar_variable_reference", "dd/dc0/struct_slic3r_1_1client_1_1_my_context.html#a4e2ddc52120e8a096667a08fe2d5f4ae", null ],
+    [ "throw_exception", "dd/dc0/struct_slic3r_1_1client_1_1_my_context.html#a879193ea758c4d8901cac4570e8a419e", null ],
+    [ "vector_variable_reference", "dd/dc0/struct_slic3r_1_1client_1_1_my_context.html#a3f7f498d8df9eb99f7c6712d0e63ea6d", null ],
+    [ "config", "dd/dc0/struct_slic3r_1_1client_1_1_my_context.html#aa1ba22637799045de8f179f1129c514b", null ],
+    [ "config_override", "dd/dc0/struct_slic3r_1_1client_1_1_my_context.html#ac6b8c3e288d22aedd148f1a614e25ca9", null ],
+    [ "context_data", "dd/dc0/struct_slic3r_1_1client_1_1_my_context.html#af9c4797a4bd5998245e0b924d6962d6b", null ],
+    [ "current_extruder_id", "dd/dc0/struct_slic3r_1_1client_1_1_my_context.html#ac8ba7e810803ebabf05a18e05a74acbd", null ],
+    [ "error_message", "dd/dc0/struct_slic3r_1_1client_1_1_my_context.html#a840d70b5fbccaa228da44a33f4b21afc", null ],
+    [ "external_config", "dd/dc0/struct_slic3r_1_1client_1_1_my_context.html#ab09b76c18f269ce196f797b3dc3d674b", null ],
+    [ "just_boolean_expression", "dd/dc0/struct_slic3r_1_1client_1_1_my_context.html#ad6e32bbafb9a2e96e5a79f8139c25045", null ],
+    [ "tag_to_error_message", "dd/dc0/struct_slic3r_1_1client_1_1_my_context.html#a2e1203cf14261e2ac9cedab7f429627d", null ]
+];

@@ -1,0 +1,19 @@
+<map id="cdt::triangulator_t::insert_vertex_and_flip_fixed_edges" name="cdt::triangulator_t::insert_vertex_and_flip_fixed_edges">
+<area shape="rect" id="Node000001" title="Flip fixed edges and return a list of flipped fixed edges." alt="" coords="5,97,138,153"/>
+<area shape="rect" id="Node000002" href="$d0/d5a/namespacecdt.html#a078d6877bcebba769d78d16d7a437b57" title="Advance vertex or neighbor index counter&#45;clockwise." alt="" coords="235,5,307,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,94,141,66,185,40,220,27,222,31,187,45,144,70,107,99"/>
+<area shape="rect" id="Node000003" href="$d0/d5a/namespacecdt.html#a23bbc36240e89a98d3983a90cb0ea135" title="Advance vertex or neighbor index clockwise." alt="" coords="239,55,303,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="138,103,224,78,225,83,139,108"/>
+<area shape="rect" id="Node000004" href="$d0/d5a/namespacecdt.html#aed737e4df0cd31c67860cad1b814d9c0" title="Given triangle and a vertex find opposed triangle." alt="" coords="186,105,356,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="138,122,171,122,171,128,138,128"/>
+<area shape="rect" id="Node000007" href="$d0/d5a/namespacecdt.html#ad3e13196dbbc2d6fab1560de32ad6931" title="Index of triangle&#39;s vertex opposed to a triangle." alt="" coords="189,170,353,211"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="139,144,194,162,192,167,137,149"/>
+<area shape="rect" id="Node000009" href="$d0/d5a/namespacecdt.html#aabc0c7d96947ba23de03650c2c21f113" title="Constant representing no valid neighbor for a triangle." alt="" coords="206,235,336,260"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="101,151,140,187,187,220,201,226,198,231,184,224,136,191,97,155"/>
+<area shape="rect" id="Node000005" href="$d0/d5a/namespacecdt.html#abbc1fed7a4a8d3f2463ccd0b67cbe400" title="Index of triangle&#39;s neighbor opposed to a vertex." alt="" coords="404,105,549,145"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="357,122,389,122,389,128,357,128"/>
+<area shape="rect" id="Node000006" href="$d0/d5a/namespacecdt.html#aab40c56b37e87641d9750faff9b92026" title="Opposed neighbor index from vertex index." alt="" coords="597,105,782,145"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="550,122,582,122,582,128,550,128"/>
+<area shape="rect" id="Node000008" href="$d0/d5a/namespacecdt.html#a106f4285b3780759a623c514a2f99c21" title="Opposed vertex index from neighbor index." alt="" coords="407,170,546,211"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="354,188,393,188,393,193,354,193"/>
+</map>

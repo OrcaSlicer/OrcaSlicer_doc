@@ -1,0 +1,20 @@
+<map id="Slic3r::GUI::CameraUtils::ray_from_persp_screen_pos" name="Slic3r::GUI::CameraUtils::ray_from_persp_screen_pos">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1230,39,1423,79"/>
+<area shape="rect" id="Node000002" href="$d1/ded/class_slic3r_1_1_g_u_i_1_1_camera_utils.html#a51d817e41317bed8b21baec63aeda681" title="Create ray(point and direction) for screen coordinate." alt="" coords="1015,39,1182,79"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1215,62,1182,62,1182,56,1215,56"/>
+<area shape="rect" id="Node000003" href="$d1/ded/class_slic3r_1_1_g_u_i_1_1_camera_utils.html#a642238eb40068eb647509da684bd06dd" title="Unproject mouse coordinate to get position in space where z coor is zero Platter surface should be in..." alt="" coords="785,5,953,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1000,47,953,40,954,35,1001,42"/>
+<area shape="rect" id="Node000004" href="$d4/de7/class_slic3r_1_1_g_u_i_1_1_mesh_raycaster.html#a539f475092959887bd3c2828eb1d53f0" title=" " alt="" coords="771,71,967,111"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="1001,75,967,80,967,75,1000,70"/>
+<area shape="rect" id="Node000005" href="$dc/d96/class_slic3r_1_1_g_u_i_1_1_g_l_gizmo_advanced_cut.html#a1c1d0bc9970f6ae7847b93e9fca4c1c1" title=" " alt="" coords="516,37,723,78"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="756,79,723,74,724,69,757,73"/>
+<area shape="rect" id="Node000007" href="$dc/d96/class_slic3r_1_1_g_u_i_1_1_g_l_gizmo_advanced_cut.html#a22ba60e9f7176ef23fb777e5baccf8bc" title=" " alt="" coords="516,103,723,143"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="757,108,724,112,723,107,756,103"/>
+<area shape="rect" id="Node000006" href="$dc/d96/class_slic3r_1_1_g_u_i_1_1_g_l_gizmo_advanced_cut.html#ad429274be933375d68af79fda287ab1d" title=" " alt="" coords="5,67,213,107"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="501,67,213,84,213,78,501,62"/>
+<area shape="rect" id="Node000008" href="$dc/d96/class_slic3r_1_1_g_u_i_1_1_g_l_gizmo_advanced_cut.html#a46abbab74e71832f6e549e7d16f9a937" title=" " alt="" coords="261,95,468,135"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="501,122,468,121,468,116,501,117"/>
+<area shape="rect" id="Node000009" href="$dc/d96/class_slic3r_1_1_g_u_i_1_1_g_l_gizmo_advanced_cut.html#a155f1dfe7ff98f650711b2ee7c43c49b" title=" " alt="" coords="261,160,468,201"/>
+<area shape="poly" id="edge9_Node000007_Node000009" title=" " alt="" coords="512,150,459,162,458,157,511,145"/>
+<area shape="poly" id="edge8_Node000008_Node000006" title=" " alt="" coords="246,105,213,101,213,96,246,99"/>
+</map>

@@ -1,0 +1,42 @@
+<map id="orgQhull::QhullFacet::getFacetT" name="orgQhull::QhullFacet::getFacetT">
+<area shape="rect" id="Node000001" title=" " alt="" coords="428,399,568,439"/>
+<area shape="rect" id="Node000002" href="$d3/d21/classorg_qhull_1_1_qhull_facet.html#a3e2d69372e966dc160d739f7e94ed986" title="For QhullSet&lt;QhullFacet&gt;" alt="" coords="231,5,372,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="491,384,482,319,463,235,448,190,429,146,406,104,378,66,356,49,360,44,382,62,411,101,434,144,453,188,468,233,487,318,497,383"/>
+<area shape="rect" id="Node000003" href="$de/da9/classorg_qhull_1_1_qhull_facet__test.html#adccede50987a32d4125a9d168a5430a1" title=" " alt="" coords="5,35,175,75"/>
+<area shape="poly" id="edge20_Node000001_Node000003" title=" " alt="" coords="492,384,483,323,464,249,449,210,430,173,407,140,378,110,345,94,293,81,175,64,175,59,294,75,346,89,382,106,411,136,435,171,454,208,469,247,488,322,497,383"/>
+<area shape="rect" id="Node000004" href="$d3/d21/classorg_qhull_1_1_qhull_facet.html#a0300c960d9b05417af97569b04038582" title="Return voronoi center or facet centrum. Derived from qh_printcenter [io_r.c] if printFormat=qh_PRINTt..." alt="" coords="231,120,372,161"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="486,385,472,339,450,283,419,226,378,176,362,163,365,159,382,172,423,223,455,281,477,337,491,384"/>
+<area shape="rect" id="Node000005" href="$db/d5b/classorg_qhull_1_1_qhull_ridge.html#ad97140073cbf858839d8d20a6a919783" title="Return True if nextRidge3d Simplicial facets may have incomplete ridgeSets Does not use qh_errexit()" alt="" coords="231,185,372,226"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="480,387,440,314,412,275,378,241,360,229,363,224,382,237,416,272,445,311,485,384"/>
+<area shape="rect" id="Node000008" href="$d3/d21/classorg_qhull_1_1_qhull_facet.html#a3282c7ccbac9b96b32e03f6739dd0e27" title="Return innerplane clearly below the vertices from io_r.c[qh_PRINTinner]." alt="" coords="231,251,372,291"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="469,390,428,347,378,307,357,294,359,290,382,302,432,343,473,386"/>
+<area shape="rect" id="Node000010" href="$db/d5b/classorg_qhull_1_1_qhull_ridge.html#a5b3a2f55e2e406802a5b7d5a815e1ba0" title="Return next ridge and optional vertex for a 3d facet and ridge Does not use qh_errexit()" alt="" coords="231,316,372,357"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="435,395,379,371,352,360,354,355,381,366,437,390"/>
+<area shape="rect" id="Node000011" href="$da/d21/_qhull_facet_8cpp.html#abd839bf4e30fd67253a167d5cc3124f3" title=" " alt="" coords="259,381,344,407"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="413,411,343,402,344,396,414,405"/>
+<area shape="rect" id="Node000012" href="$da/d21/_qhull_facet_8cpp.html#a3a95209cac051a6fbe75ab138e1d59e4" title="Print header for facet to stream. Space prefix. From qh_printfacetheader [io_r.c]." alt="" coords="259,430,344,456"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="414,432,344,441,343,435,413,427"/>
+<area shape="rect" id="Node000013" href="$da/d21/_qhull_facet_8cpp.html#a6ab316490e72e12e4df8f3f91d1fb23b" title="Print ridges of facet to stream. Same as qh_printfacetridges [io_r.c]." alt="" coords="48,596,132,621"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="486,454,469,487,447,523,417,558,381,585,350,600,317,610,249,621,185,622,133,618,133,612,185,617,249,616,316,605,348,595,379,581,414,554,442,520,465,484,481,451"/>
+<area shape="rect" id="Node000014" href="$d7/d34/_qhull_facet_set_8cpp.html#aea6014246cf80d9520bdc5a15f62448a" title="Print facet identifiers to stream. Space prefix. From qh_printfacetheader [io_r.c]." alt="" coords="259,545,344,571"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="473,453,433,495,381,535,345,550,343,545,379,530,429,491,469,449"/>
+<area shape="rect" id="Node000015" href="$db/d5b/classorg_qhull_1_1_qhull_ridge.html#a692454d94dd34e5da20c213b06b88e15" title=" " alt="" coords="231,645,372,686"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="487,454,471,493,448,539,418,587,382,629,357,647,354,643,378,625,414,583,443,537,466,491,482,452"/>
+<area shape="rect" id="Node000017" href="$d3/d21/classorg_qhull_1_1_qhull_facet.html#a84d039ad7fa7e5a6cf18343e66c9fa7a" title="Return outerplane clearly above all points from io_r.c[qh_PRINTouter]." alt="" coords="231,480,372,521"/>
+<area shape="poly" id="edge17_Node000001_Node000017" title=" " alt="" coords="435,448,381,471,354,482,352,477,379,466,433,443"/>
+<area shape="rect" id="Node000018" href="$d1/d48/classorg_qhull_1_1_qhull_point_set__test.html#a5c9028113df828e4ef6bd0b0ec173193" title=" " alt="" coords="223,711,380,751"/>
+<area shape="poly" id="edge19_Node000001_Node000018" title=" " alt="" coords="493,455,481,508,459,573,427,640,406,671,382,700,365,712,362,708,378,696,402,668,422,637,454,571,476,506,488,454"/>
+<area shape="rect" id="Node000019" href="$de/da9/classorg_qhull_1_1_qhull_facet__test.html#a6caf4534b9db8cd1233ffad44df03c66" title=" " alt="" coords="231,776,372,817"/>
+<area shape="poly" id="edge21_Node000001_Node000019" title=" " alt="" coords="497,454,488,519,468,601,453,645,434,688,411,728,382,765,367,777,363,773,378,761,406,725,429,685,448,643,463,600,482,518,492,454"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="216,40,175,46,175,41,216,35"/>
+<area shape="rect" id="Node000006" href="$de/da9/classorg_qhull_1_1_qhull_facet__test.html#ad7151333c2cfd6653d5bf90023283168" title=" " alt="" coords="20,153,160,194"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="216,196,160,187,161,182,217,190"/>
+<area shape="rect" id="Node000007" href="$d3/dc9/classorg_qhull_1_1_qhull_ridge__test.html#a372271923da9bea1333ab6d8b5c30ca7" title=" " alt="" coords="19,219,161,259"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="217,222,162,230,161,225,216,216"/>
+<area shape="rect" id="Node000009" href="$de/da9/classorg_qhull_1_1_qhull_facet__test.html#a02fa7e589f76bd56eb3ddc3e8a99c6ef" title=" " alt="" coords="20,383,160,423"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="235,301,224,307,165,346,117,384,114,380,162,342,221,302,232,296"/>
+<area shape="poly" id="edge15_Node000015_Node000013" title=" " alt="" coords="216,645,132,622,133,617,217,640"/>
+<area shape="rect" id="Node000016" href="$d3/dc9/classorg_qhull_1_1_qhull_ridge__test.html#a2b78d33784d82672fd5c393984daed4c" title=" " alt="" coords="19,645,161,686"/>
+<area shape="poly" id="edge16_Node000015_Node000016" title=" " alt="" coords="216,668,161,668,161,663,216,663"/>
+<area shape="poly" id="edge18_Node000017_Node000009" title=" " alt="" coords="234,476,222,471,130,426,132,421,224,466,236,471"/>
+</map>

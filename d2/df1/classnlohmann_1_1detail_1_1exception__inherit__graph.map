@@ -1,0 +1,15 @@
+<map id="nlohmann::detail::exception" name="nlohmann::detail::exception">
+<area shape="rect" id="Node000001" title="general exception of the basic_json class" alt="" coords="157,144,337,169"/>
+<area shape="rect" id="Node000003" href="$d4/d5f/classnlohmann_1_1detail_1_1invalid__iterator.html" title="exception indicating errors with iterators" alt="" coords="385,5,546,46"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="274,132,324,95,384,57,409,44,411,49,386,61,327,99,277,136"/>
+<area shape="rect" id="Node000004" href="$d5/d1b/classnlohmann_1_1detail_1_1other__error.html" title="exception indicating other library errors" alt="" coords="389,71,542,111"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="305,136,394,109,396,115,307,141"/>
+<area shape="rect" id="Node000005" href="$d2/d67/classnlohmann_1_1detail_1_1out__of__range.html" title="exception indicating access out of the defined range" alt="" coords="395,136,537,177"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="352,154,394,154,394,159,352,159"/>
+<area shape="rect" id="Node000006" href="$d5/d1a/classnlohmann_1_1detail_1_1parse__error.html" title="exception indicating a parse error" alt="" coords="388,201,544,242"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="307,171,396,198,394,203,305,176"/>
+<area shape="rect" id="Node000007" href="$da/d1c/classnlohmann_1_1detail_1_1type__error.html" title="exception indicating executing a member function with a wrong type" alt="" coords="391,267,540,307"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="277,176,327,213,386,251,411,264,409,269,384,256,324,218,274,181"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,144,109,169"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="124,154,156,154,156,159,124,159"/>
+</map>

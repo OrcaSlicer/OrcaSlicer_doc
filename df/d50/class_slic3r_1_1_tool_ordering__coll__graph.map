@@ -1,0 +1,35 @@
+<map id="Slic3r::ToolOrdering" name="Slic3r::ToolOrdering">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1543,33,1678,59"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="1264,55,1392,95"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1406,64,1542,50,1543,55,1407,70"/>
+<area shape="rect" id="Node000003" href="$dc/d78/class_slic3r_1_1_layer_tools.html" title=" " alt="" coords="890,114,1016,140"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1030,117,1221,93,1263,85,1264,91,1222,98,1031,122"/>
+<area shape="rect" id="Node000010" href="$d7/da2/class_slic3r_1_1_wiping_extrusions.html" title=" " alt="" coords="1246,205,1410,231"/>
+<area shape="poly" id="edge17_Node000010_Node000003" title=" " alt="" coords="989,145,1030,167,1077,186,1163,204,1245,213,1245,218,1162,210,1076,191,1028,172,986,150"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="498,33,645,74"/>
+<area shape="poly" id="edge19_Node000001_Node000004" title=" " alt="" coords="660,49,1434,34,1519,34,1543,35,1543,41,1519,39,1434,39,660,54"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="660,75,671,78,787,100,890,116,889,121,786,106,670,83,658,81"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="236,41,351,67"/>
+<area shape="poly" id="edge18_Node000002_Node000005" title=" " alt="" coords="357,34,375,31,435,23,497,19,606,16,718,17,935,29,1125,47,1263,63,1263,69,1125,52,935,34,718,23,606,21,497,24,436,28,375,36,358,40"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="366,51,497,51,497,56,366,56"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="49,185,87,211"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="98,176,270,65,273,69,101,180"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="511,252,632,277"/>
+<area shape="poly" id="edge12_Node000012_Node000006" title=" " alt="" coords="102,199,511,254,510,259,102,205"/>
+<area shape="rect" id="Node000007" href="$db/d8b/struct_slic3r_1_1_custom_g_code_1_1_item.html" title=" " alt="" coords="497,99,646,139"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="661,123,670,123,890,125,890,131,670,129,661,128"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="254,106,333,132"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="348,116,496,116,496,122,348,122"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="5,99,131,139"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="145,116,253,116,253,122,145,122"/>
+<area shape="poly" id="edge9_Node000003_Node000010" title=" " alt="" coords="1288,200,1221,174,1113,149,1015,135,1016,130,1114,144,1222,168,1290,196"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="853,298,1053,369"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="1067,313,1144,295,1221,272,1266,251,1304,229,1307,233,1269,255,1223,276,1145,301,1068,318"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="601,284,633,306,671,323,717,334,763,339,853,341,853,346,763,345,716,339,669,328,631,311,598,289"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="876,228,1030,269"/>
+<area shape="poly" id="edge16_Node000014_Node000012" title=" " alt="" coords="647,259,829,252,876,250,876,255,829,257,647,264"/>
+<area shape="poly" id="edge13_Node000010_Node000014" title=" " alt="" coords="1045,251,1131,251,1221,244,1287,228,1288,234,1222,249,1131,256,1045,256"/>
+<area shape="rect" id="Node000015" href="$de/d87/class_slic3r_1_1_print_object.html" title=" " alt="" coords="508,202,635,228"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="651,212,737,214,830,222,877,229,876,234,829,227,736,220,650,217"/>
+<area shape="poly" id="edge15_Node000015_Node000015" title=" " alt="" coords="543,186,553,178,572,176,589,178,599,184,602,193,597,203,592,201,597,193,595,187,587,183,572,181,555,183,547,190"/>
+</map>

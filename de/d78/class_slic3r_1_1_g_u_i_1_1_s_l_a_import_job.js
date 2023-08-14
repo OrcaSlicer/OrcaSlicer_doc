@@ -1,0 +1,38 @@
+var class_slic3r_1_1_g_u_i_1_1_s_l_a_import_job =
+[
+    [ "priv", "d0/d0c/class_slic3r_1_1_g_u_i_1_1_s_l_a_import_job_1_1priv.html", "d0/d0c/class_slic3r_1_1_g_u_i_1_1_s_l_a_import_job_1_1priv" ],
+    [ "JobPrepareState", "de/d78/class_slic3r_1_1_g_u_i_1_1_s_l_a_import_job.html#a4250ad5ca28536531eda588fe8d08889", [
+      [ "PREPARE_STATE_DEFAULT", "de/d78/class_slic3r_1_1_g_u_i_1_1_s_l_a_import_job.html#a4250ad5ca28536531eda588fe8d08889a7a68ed2692ab9bcc60e77e218117e3e7", null ],
+      [ "PREPARE_STATE_MENU", "de/d78/class_slic3r_1_1_g_u_i_1_1_s_l_a_import_job.html#a4250ad5ca28536531eda588fe8d08889a50a0b3bb635eaf7136f7a73ec3b9cd63", null ]
+    ] ],
+    [ "SLAImportJob", "de/d78/class_slic3r_1_1_g_u_i_1_1_s_l_a_import_job.html#ab76bce77acba36fbeaff61aa3a8903bd", null ],
+    [ "~SLAImportJob", "de/d78/class_slic3r_1_1_g_u_i_1_1_s_l_a_import_job.html#a234b67ca65111599644a9a67aacfb654", null ],
+    [ "cancel", "de/d78/class_slic3r_1_1_g_u_i_1_1_s_l_a_import_job.html#a299272c207c958a71846af4ec7ca95bc", null ],
+    [ "finalize", "de/d78/class_slic3r_1_1_g_u_i_1_1_s_l_a_import_job.html#afffe7edee62fdfe2d0e16103c430d195", null ],
+    [ "is_finalized", "de/d78/class_slic3r_1_1_g_u_i_1_1_s_l_a_import_job.html#aef53170c0f7f19286bd472d93c599a42", null ],
+    [ "is_running", "de/d78/class_slic3r_1_1_g_u_i_1_1_s_l_a_import_job.html#aedee10c3a9fe41501f29e81e43d01351", null ],
+    [ "join", "de/d78/class_slic3r_1_1_g_u_i_1_1_s_l_a_import_job.html#a83c2e39805aa4076e45fdbdf96e11273", null ],
+    [ "on_exception", "de/d78/class_slic3r_1_1_g_u_i_1_1_s_l_a_import_job.html#a019d77f73a1b77fe1206cec3af18738e", null ],
+    [ "prepare", "de/d78/class_slic3r_1_1_g_u_i_1_1_s_l_a_import_job.html#ae4537e080814d59e40f013e0d4d10cf8", null ],
+    [ "process", "de/d78/class_slic3r_1_1_g_u_i_1_1_s_l_a_import_job.html#af38ba0fb553fdc4446c432e3207176f1", null ],
+    [ "reset", "de/d78/class_slic3r_1_1_g_u_i_1_1_s_l_a_import_job.html#a2138e38b6ebc76b7f74f483e6010c517", null ],
+    [ "run", "de/d78/class_slic3r_1_1_g_u_i_1_1_s_l_a_import_job.html#afac1b4a92b17284303e548bea7e91d7c", null ],
+    [ "show_networking_test", "de/d78/class_slic3r_1_1_g_u_i_1_1_s_l_a_import_job.html#acca11678494448f676a312fde36dd437", null ],
+    [ "start", "de/d78/class_slic3r_1_1_g_u_i_1_1_s_l_a_import_job.html#ad5f82286788377ada5d5a5ba297c00f4", null ],
+    [ "status_range", "de/d78/class_slic3r_1_1_g_u_i_1_1_s_l_a_import_job.html#a170ec6912b22333fb1559c59aeb50cb2", null ],
+    [ "update_percent_finish", "de/d78/class_slic3r_1_1_g_u_i_1_1_s_l_a_import_job.html#ad5c7447d6e12f036b77eeb6ac1754eaa", null ],
+    [ "update_status", "de/d78/class_slic3r_1_1_g_u_i_1_1_s_l_a_import_job.html#a2713906ad7956faa3631a3c9f63b8cfd", null ],
+    [ "was_canceled", "de/d78/class_slic3r_1_1_g_u_i_1_1_s_l_a_import_job.html#aad1cc0c7f96e146267f67076afe8290a", null ],
+    [ "m_canceled", "de/d78/class_slic3r_1_1_g_u_i_1_1_s_l_a_import_job.html#a3f67544aa0e4b4786583dcb79b4f6d2f", null ],
+    [ "m_finalized", "de/d78/class_slic3r_1_1_g_u_i_1_1_s_l_a_import_job.html#ab8378bd230bc2550222a8a126a3bf8f5", null ],
+    [ "m_finalizing", "de/d78/class_slic3r_1_1_g_u_i_1_1_s_l_a_import_job.html#a6752cacf956811f6c1af45a9b5e4883e", null ],
+    [ "m_plater", "de/d78/class_slic3r_1_1_g_u_i_1_1_s_l_a_import_job.html#adbe48dbeed0a6e31e048acbbf9a1ac29", null ],
+    [ "m_progress", "de/d78/class_slic3r_1_1_g_u_i_1_1_s_l_a_import_job.html#abde4c4906544c4c71a3a89022474fd5c", null ],
+    [ "m_range", "de/d78/class_slic3r_1_1_g_u_i_1_1_s_l_a_import_job.html#a7e45cd2ee023b79989e5721a30c479ab", null ],
+    [ "m_running", "de/d78/class_slic3r_1_1_g_u_i_1_1_s_l_a_import_job.html#ab092bb193766756e4356d88a81a844ab", null ],
+    [ "m_thread", "de/d78/class_slic3r_1_1_g_u_i_1_1_s_l_a_import_job.html#a042a9f7e17ec6975a6ffcc03c68dbb8a", null ],
+    [ "m_thread_evt_id", "de/d78/class_slic3r_1_1_g_u_i_1_1_s_l_a_import_job.html#afb8506c37ca854a68e3dda7eb8cd6768", null ],
+    [ "m_worker_error", "de/d78/class_slic3r_1_1_g_u_i_1_1_s_l_a_import_job.html#a8ab878a77918eac4023411915d136e2c", null ],
+    [ "only_on_partplate", "de/d78/class_slic3r_1_1_g_u_i_1_1_s_l_a_import_job.html#aa1a19a0eadcdec4756f71e04f2903978", null ],
+    [ "p", "de/d78/class_slic3r_1_1_g_u_i_1_1_s_l_a_import_job.html#a22a62a94c4e1b3acfd4bba4c382d2fac", null ]
+];

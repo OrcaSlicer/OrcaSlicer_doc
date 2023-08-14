@@ -1,0 +1,30 @@
+<map id="Slic3r::GUI::CanRoads" name="Slic3r::GUI::CanRoads">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1816,136,1972,162"/>
+<area shape="rect" id="Node000002" href="$d1/def/class_slic3r_1_1_g_u_i_1_1_a_m_s_road.html" title=" " alt="" coords="1558,136,1712,162"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1727,146,1815,146,1815,152,1727,152"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="1327,5,1412,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1427,18,1481,28,1535,48,1564,67,1590,91,1626,134,1622,137,1586,95,1561,71,1532,53,1480,33,1426,24"/>
+<area shape="rect" id="Node000004" href="$d1/d6b/struct_slic3r_1_1_g_u_i_1_1_a_m_sinfo.html" title=" " alt="" coords="1297,136,1442,162"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="1457,146,1557,146,1557,152,1457,152"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="369,101,449,127"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="463,113,869,122,1273,137,1297,139,1297,144,1273,142,869,127,463,118"/>
+<area shape="rect" id="Node000008" href="$d9/d45/namespace_slic3r_1_1_g_u_i.html#dd/d8e/struct_slic3r_1_1_g_u_i_1_1_caninfo" title=" " alt="" coords="722,227,862,252"/>
+<area shape="poly" id="edge8_Node000008_Node000005" title=" " alt="" coords="461,130,515,145,566,154,608,156,649,161,699,176,743,199,777,224,774,229,740,204,697,181,648,166,607,162,566,159,513,150,460,135"/>
+<area shape="rect" id="Node000013" href="$d5/db9/class_scalable_bitmap.html" title=" " alt="" coords="886,56,998,82"/>
+<area shape="poly" id="edge16_Node000013_Node000005" title=" " alt="" coords="463,102,514,96,719,78,885,68,885,74,719,83,514,101,464,108"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="5,94,131,135"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="145,112,369,112,369,117,145,117"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="1022,159,1150,200"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="1165,168,1297,154,1297,159,1165,174"/>
+<area shape="poly" id="edge12_Node000002_Node000008" title=" " alt="" coords="876,238,998,234,1155,219,1310,199,1558,160,1559,165,1311,204,1155,224,998,239,877,243"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="876,231,936,223,997,211,1036,198,1038,203,999,216,937,228,877,236"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="328,232,490,258"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="505,241,722,238,722,243,505,246"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="10,232,126,258"/>
+<area shape="poly" id="edge11_Node000007_Node000010" title=" " alt="" coords="134,226,154,222,528,202,1021,180,1022,185,528,207,155,227,135,231"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="141,242,327,242,327,248,141,248"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="514,285,698,325"/>
+<area shape="poly" id="edge14_Node000012_Node000010" title=" " alt="" coords="135,259,155,263,346,286,514,298,513,303,346,291,154,268,134,264"/>
+<area shape="poly" id="edge13_Node000002_Node000012" title=" " alt="" coords="713,305,941,308,1371,308,1412,303,1452,290,1490,271,1525,248,1583,199,1621,160,1624,164,1587,203,1528,253,1493,276,1454,295,1413,308,1371,313,940,313,713,310"/>
+<area shape="poly" id="edge15_Node000002_Node000013" title=" " alt="" coords="1013,71,1245,91,1389,107,1534,126,1571,133,1570,138,1533,131,1389,112,1244,96,1013,76"/>
+</map>

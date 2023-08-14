@@ -1,0 +1,33 @@
+<map id="Slic3r::NormalUtils::create_normals" name="Slic3r::NormalUtils::create_normals">
+<area shape="rect" id="Node000001" title="Create normals for each vertex by averaging neighbor triangles normal." alt="" coords="5,185,137,226"/>
+<area shape="rect" id="Node000002" href="$d6/d6f/class_slic3r_1_1_normal_utils.html#a0ce883827bc22179bcfb5cf98a1724cc" title=" " alt="" coords="192,258,349,314"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="124,224,187,249,185,254,122,229"/>
+<area shape="rect" id="Node000013" href="$d6/d6f/class_slic3r_1_1_normal_utils.html#a7b70adf16b95e99e41f1ea8abd613b96" title=" " alt="" coords="185,178,356,234"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="137,203,170,203,170,208,137,208"/>
+<area shape="rect" id="Node000014" href="$d6/d6f/class_slic3r_1_1_normal_utils.html#a831a1110d823dee72a5db935898df92b" title=" " alt="" coords="189,98,352,154"/>
+<area shape="poly" id="edge15_Node000001_Node000014" title=" " alt="" coords="122,182,185,157,187,162,124,187"/>
+<area shape="rect" id="Node000003" href="$d6/d6f/class_slic3r_1_1_normal_utils.html#a291be835b65d18a5add697f476fb6dbd" title="Create normal for triangle defined by indices from vertices." alt="" coords="404,192,564,233"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="348,256,408,236,410,241,350,261"/>
+<area shape="rect" id="Node000005" href="$d6/d6f/class_slic3r_1_1_normal_utils.html#af92d5d143776b88bf1076e532ec692a1" title="Calculate angle of trinagle side." alt="" coords="419,265,550,306"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="349,283,403,283,403,288,349,288"/>
+<area shape="rect" id="Node000007" href="$de/db8/namespace_slic3r.html#aa3fa458858b2d5a3b0bfb1108f9f781f" title=" " alt="" coords="434,120,535,145"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="338,255,354,244,369,228,378,212,387,196,402,178,441,151,444,155,406,182,391,199,383,215,374,231,358,248,341,260"/>
+<area shape="rect" id="Node000004" href="$de/db8/namespace_slic3r.html#a7313a4003e3762315f96e309b5570e36" title=" " alt="" coords="631,218,725,244"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="565,217,616,222,616,228,565,223"/>
+<area shape="rect" id="Node000006" href="$d4/df0/_array_cwise_unary_ops_8h.html#a4ae93c48c742ccd51e0ec59fa85b49bd" title=" " alt="" coords="653,273,703,299"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="550,283,638,283,638,288,550,288"/>
+<area shape="rect" id="Node000008" href="$de/db8/namespace_slic3r.html#a1eea52f5cabe9f6172fcec07fb0fed76" title=" " alt="" coords="629,70,727,96"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="535,117,615,96,616,101,536,122"/>
+<area shape="rect" id="Node000009" href="$d6/dba/_wipe_tower_dialog_8cpp.html#a031c2862b832be718b216d1f101f88cd" title=" " alt="" coords="652,120,704,145"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="535,130,637,130,637,135,535,135"/>
+<area shape="rect" id="Node000010" href="$d4/df0/_array_cwise_unary_ops_8h.html#a656b9217a2fcb6de59dc8d1eb3079cc7" title=" " alt="" coords="656,169,700,195"/>
+<area shape="poly" id="edge9_Node000007_Node000010" title=" " alt="" coords="536,143,643,170,641,175,535,148"/>
+<area shape="rect" id="Node000011" href="$de/db8/namespace_slic3r.html#a513afc9a9ff0d9199826dffec9c83a3a" title=" " alt="" coords="612,5,744,46"/>
+<area shape="poly" id="edge10_Node000007_Node000011" title=" " alt="" coords="506,117,611,55,620,51,622,55,614,60,509,121"/>
+<area shape="rect" id="Node000012" href="$de/db8/namespace_slic3r.html#ac3653c2f803d7987db0ebb70ed9eaf5f" title=" " alt="" coords="792,13,955,39"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="744,23,777,23,777,28,744,28"/>
+<area shape="poly" id="edge13_Node000013_Node000003" title=" " alt="" coords="356,206,389,207,389,212,356,211"/>
+<area shape="poly" id="edge14_Node000013_Node000007" title=" " alt="" coords="352,175,430,148,431,153,354,180"/>
+<area shape="poly" id="edge16_Node000014_Node000003" title=" " alt="" coords="342,152,420,184,418,188,340,157"/>
+<area shape="poly" id="edge17_Node000014_Node000007" title=" " alt="" coords="352,126,419,128,419,133,352,131"/>
+</map>

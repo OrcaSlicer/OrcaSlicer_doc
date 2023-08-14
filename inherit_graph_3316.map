@@ -1,0 +1,57 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$d4/d3d/class_slic3r_1_1_model_config.html" title=" " alt="" coords="5,5,141,31"/>
+<area shape="rect" id="Node000001" href="$d7/d58/class_slic3r_1_1_model_config_object.html" title=" " alt="" coords="205,5,379,31"/>
+<area shape="poly" id="edge1209_Node000000_Node000001" title=" " alt="" coords="155,16,205,16,205,21,155,21"/>
+<area shape="rect" id="Node000002" href="$d9/d98/class_slic3r_1_1_object_base.html" title=" " alt="" coords="8,351,138,376"/>
+<area shape="poly" id="edge1215_Node000002_Node000001" title=" " alt="" coords="73,335,80,274,98,194,113,152,132,111,157,73,187,40,203,29,206,33,190,44,161,77,137,114,118,154,103,196,85,275,78,336"/>
+<area shape="rect" id="Node000003" href="$d9/de0/class_slic3r_1_1_cut_object_base.html" title=" " alt="" coords="216,55,368,80"/>
+<area shape="poly" id="edge1210_Node000002_Node000003" title=" " alt="" coords="75,336,85,283,105,216,120,182,138,148,160,117,187,89,215,74,217,79,190,94,164,120,142,151,124,184,110,218,90,284,80,337"/>
+<area shape="rect" id="Node000004" href="$df/d0a/class_slic3r_1_1_g_u_i_1_1_g_l_gizmos_manager.html" title=" " alt="" coords="189,104,395,130"/>
+<area shape="poly" id="edge1211_Node000002_Node000004" title=" " alt="" coords="78,336,91,292,112,239,144,185,164,160,187,139,205,128,208,132,190,143,168,164,148,188,117,241,96,294,83,337"/>
+<area shape="rect" id="Node000005" href="$d7/ddf/class_slic3r_1_1_g_u_i_1_1_part_plate.html" title=" " alt="" coords="218,153,366,179"/>
+<area shape="poly" id="edge1212_Node000002_Node000005" title=" " alt="" coords="82,336,98,301,120,261,150,222,187,188,216,174,219,179,190,192,154,225,125,264,102,304,87,338"/>
+<area shape="rect" id="Node000006" href="$d4/d7a/class_slic3r_1_1_g_u_i_1_1_part_plate_list.html" title=" " alt="" coords="207,203,377,228"/>
+<area shape="poly" id="edge1213_Node000002_Node000006" title=" " alt="" coords="89,336,129,286,157,259,187,237,211,227,213,231,190,242,160,263,133,289,93,340"/>
+<area shape="rect" id="Node000007" href="$dd/d8d/class_slic3r_1_1_model.html" title=" " alt="" coords="243,252,341,278"/>
+<area shape="poly" id="edge1214_Node000002_Node000007" title=" " alt="" coords="100,339,140,312,188,286,242,270,244,275,190,291,143,316,103,344"/>
+<area shape="rect" id="Node000008" href="$d2/d67/class_slic3r_1_1_model_instance.html" title=" " alt="" coords="218,301,366,327"/>
+<area shape="poly" id="edge1216_Node000002_Node000008" title=" " alt="" coords="147,344,231,325,232,330,148,349"/>
+<area shape="rect" id="Node000009" href="$d9/d6d/class_slic3r_1_1_model_material.html" title=" " alt="" coords="220,351,364,376"/>
+<area shape="poly" id="edge1217_Node000002_Node000009" title=" " alt="" coords="153,361,220,361,220,366,153,366"/>
+<area shape="rect" id="Node000010" href="$d0/d23/class_slic3r_1_1_model_object.html" title=" " alt="" coords="224,400,360,426"/>
+<area shape="poly" id="edge1218_Node000002_Node000010" title=" " alt="" coords="148,378,232,397,231,402,147,383"/>
+<area shape="rect" id="Node000011" href="$d0/d02/class_slic3r_1_1_model_volume.html" title=" " alt="" coords="221,449,363,475"/>
+<area shape="poly" id="edge1219_Node000002_Node000011" title=" " alt="" coords="103,383,143,411,190,436,222,447,220,452,188,441,140,415,100,388"/>
+<area shape="rect" id="Node000012" href="$de/dae/class_slic3r_1_1_model_wipe_tower.html" title=" " alt="" coords="211,499,373,524"/>
+<area shape="poly" id="edge1220_Node000002_Node000012" title=" " alt="" coords="93,387,133,438,160,464,190,485,213,496,211,500,187,490,157,468,129,441,89,391"/>
+<area shape="rect" id="Node000013" href="$da/d88/class_slic3r_1_1_object_with_timestamp.html" title=" " alt="" coords="196,548,388,574"/>
+<area shape="poly" id="edge1221_Node000002_Node000013" title=" " alt="" coords="87,389,102,423,125,463,154,502,190,535,210,545,207,550,187,539,150,505,120,466,98,426,82,391"/>
+<area shape="rect" id="Node000016" href="$dc/d88/class_slic3r_1_1_print_base.html" title="Printing involves slicing and export of device dependent instructions." alt="" coords="232,597,352,623"/>
+<area shape="poly" id="edge1224_Node000002_Node000016" title=" " alt="" coords="83,390,96,433,117,486,148,539,168,563,190,584,210,596,233,603,231,608,208,600,187,588,164,567,144,542,112,488,91,435,78,391"/>
+<area shape="rect" id="Node000022" href="$dd/d44/class_slic3r_1_1_print_object_base.html" title=" " alt="" coords="213,691,371,716"/>
+<area shape="poly" id="edge1230_Node000002_Node000022" title=" " alt="" coords="83,390,96,440,118,503,149,571,191,634,226,665,263,688,260,692,223,670,187,637,145,574,113,505,91,441,78,392"/>
+<area shape="rect" id="Node000027" href="$d4/d1f/struct_slic3r_1_1_undo_redo_1_1_selection.html" title=" " alt="" coords="199,740,385,766"/>
+<area shape="poly" id="edge1235_Node000002_Node000027" title=" " alt="" coords="77,391,82,460,97,551,112,599,132,646,158,689,190,727,205,737,202,742,187,731,153,692,127,648,107,600,92,552,76,460,72,392"/>
+<area shape="rect" id="Node000014" href="$db/dca/class_slic3r_1_1_facets_annotation.html" title=" " alt="" coords="471,425,635,451"/>
+<area shape="poly" id="edge1222_Node000013_Node000014" title=" " alt="" coords="387,539,393,535,409,517,416,498,424,479,441,460,469,446,471,451,445,464,429,482,421,500,414,520,397,539,390,543"/>
+<area shape="rect" id="Node000015" href="$dd/d06/class_slic3r_1_1_layer_height_profile.html" title=" " alt="" coords="468,475,637,500"/>
+<area shape="poly" id="edge1223_Node000013_Node000015" title=" " alt="" coords="373,541,394,534,418,522,442,510,482,498,484,503,444,515,420,527,396,539,375,546"/>
+<area shape="rect" id="Node000017" href="$db/d72/class_slic3r_1_1_print_base_with_state.html" title=" " alt="" coords="464,525,641,565"/>
+<area shape="poly" id="edge1225_Node000016_Node000017" title=" " alt="" coords="365,591,394,584,473,563,475,568,396,589,366,596"/>
+<area shape="rect" id="Node000019" href="$db/d72/class_slic3r_1_1_print_base_with_state.html" title=" " alt="" coords="454,590,652,631"/>
+<area shape="poly" id="edge1227_Node000016_Node000019" title=" " alt="" coords="366,608,453,608,453,613,366,613"/>
+<area shape="rect" id="Node000021" href="$db/d72/class_slic3r_1_1_print_base_with_state.html" title=" " alt="" coords="458,655,647,696"/>
+<area shape="poly" id="edge1229_Node000016_Node000021" title=" " alt="" coords="361,625,469,652,468,657,360,630"/>
+<area shape="rect" id="Node000018" href="$d5/d8f/class_slic3r_1_1_print.html" title=" " alt="" coords="742,532,831,558"/>
+<area shape="poly" id="edge1226_Node000017_Node000018" title=" " alt="" coords="656,542,742,542,742,548,656,548"/>
+<area shape="rect" id="Node000020" href="$dd/dc9/class_slic3r_1_1_s_l_a_print.html" title="This class is the high level FSM for the SLA printing process." alt="" coords="729,597,844,623"/>
+<area shape="poly" id="edge1228_Node000019_Node000020" title=" " alt="" coords="667,608,729,608,729,613,667,613"/>
+<area shape="rect" id="Node000023" href="$d6/d0d/class_slic3r_1_1_print_object_base_with_state.html" title=" " alt="" coords="455,720,650,775"/>
+<area shape="poly" id="edge1231_Node000022_Node000023" title=" " alt="" coords="385,716,455,728,454,734,384,722"/>
+<area shape="rect" id="Node000025" href="$d6/d0d/class_slic3r_1_1_print_object_base_with_state.html" title=" " alt="" coords="443,800,662,855"/>
+<area shape="poly" id="edge1233_Node000022_Node000025" title=" " alt="" coords="386,719,397,725,413,740,422,756,430,771,445,785,463,797,460,801,441,790,426,774,417,758,409,743,393,730,383,724"/>
+<area shape="rect" id="Node000024" href="$de/d87/class_slic3r_1_1_print_object.html" title=" " alt="" coords="723,735,850,760"/>
+<area shape="poly" id="edge1232_Node000023_Node000024" title=" " alt="" coords="665,745,722,745,722,750,665,750"/>
+<area shape="rect" id="Node000026" href="$d1/daf/class_slic3r_1_1_s_l_a_print_object.html" title=" " alt="" coords="710,815,863,840"/>
+<area shape="poly" id="edge1234_Node000025_Node000026" title=" " alt="" coords="677,825,710,825,710,830,677,830"/>
+</map>

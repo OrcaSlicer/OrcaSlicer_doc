@@ -1,0 +1,27 @@
+var class_slic3r_1_1_g_u_i_1_1_plater_1_1priv_1_1_jobs =
+[
+    [ "Jobs", "d6/ded/class_slic3r_1_1_g_u_i_1_1_plater_1_1priv_1_1_jobs.html#a71d4592972232c2a6b7771537d8cbb57", null ],
+    [ "add_job", "d6/ded/class_slic3r_1_1_g_u_i_1_1_plater_1_1priv_1_1_jobs.html#acf9bbb8e3e2f7f2e3bedefd168aadda7", null ],
+    [ "arrange", "d6/ded/class_slic3r_1_1_g_u_i_1_1_plater_1_1priv_1_1_jobs.html#aa7f0670fb0eb2d1accdfbcb09691e9e0", null ],
+    [ "before_start", "d6/ded/class_slic3r_1_1_g_u_i_1_1_plater_1_1priv_1_1_jobs.html#afd08085a09b9ad6afddbe96e1442a78e", null ],
+    [ "cancel_all", "d6/ded/class_slic3r_1_1_g_u_i_1_1_plater_1_1priv_1_1_jobs.html#a51f5edd7896de4c9bfa0f736b7ab0962", null ],
+    [ "fill_bed", "d6/ded/class_slic3r_1_1_g_u_i_1_1_plater_1_1priv_1_1_jobs.html#a0e6db4a6d5b43f255891f1dd25d71637", null ],
+    [ "import_sla_arch", "d6/ded/class_slic3r_1_1_g_u_i_1_1_plater_1_1priv_1_1_jobs.html#af1d06f9568220c5b92a978aaa6094541", null ],
+    [ "is_any_running", "d6/ded/class_slic3r_1_1_g_u_i_1_1_plater_1_1priv_1_1_jobs.html#ab0362cfb4e8274c5cfa4b45337d86054", null ],
+    [ "join_all", "d6/ded/class_slic3r_1_1_g_u_i_1_1_plater_1_1priv_1_1_jobs.html#a2e023c16b4161740513e68c3662b5cf3", null ],
+    [ "optimize_rotation", "d6/ded/class_slic3r_1_1_g_u_i_1_1_plater_1_1priv_1_1_jobs.html#a7bba86128634f73590a5e06f85d9495e", null ],
+    [ "orient", "d6/ded/class_slic3r_1_1_g_u_i_1_1_plater_1_1priv_1_1_jobs.html#a45051b90c3587866054b5214cb237517", null ],
+    [ "print", "d6/ded/class_slic3r_1_1_g_u_i_1_1_plater_1_1priv_1_1_jobs.html#aa4e126a609e9dd938d91969a53b4a985", null ],
+    [ "start", "d6/ded/class_slic3r_1_1_g_u_i_1_1_plater_1_1priv_1_1_jobs.html#a74ee9d8c28fba0058a45718dfeddf519", null ],
+    [ "stop_all", "d6/ded/class_slic3r_1_1_g_u_i_1_1_plater_1_1priv_1_1_jobs.html#addde8d6698fc50b648bf20a096a83a7f", null ],
+    [ "ABORT_WAIT_MAX_MS", "d6/ded/class_slic3r_1_1_g_u_i_1_1_plater_1_1priv_1_1_jobs.html#a2551f778eca0e02f804845d47a850df9", null ],
+    [ "m", "d6/ded/class_slic3r_1_1_g_u_i_1_1_plater_1_1priv_1_1_jobs.html#a62e37fb7843555b837645dfe38007281", null ],
+    [ "m_arrange_id", "d6/ded/class_slic3r_1_1_g_u_i_1_1_plater_1_1priv_1_1_jobs.html#a673574c8dfe15eb83590f360d18948ef", null ],
+    [ "m_fill_bed_id", "d6/ded/class_slic3r_1_1_g_u_i_1_1_plater_1_1priv_1_1_jobs.html#adc3a9eae893155b7ba5ab9550de1d5be", null ],
+    [ "m_jobs", "d6/ded/class_slic3r_1_1_g_u_i_1_1_plater_1_1priv_1_1_jobs.html#a2e903e32f9e89c29a61318216f07c021", null ],
+    [ "m_orient_id", "d6/ded/class_slic3r_1_1_g_u_i_1_1_plater_1_1priv_1_1_jobs.html#af70392ff13f1efb51bde56f6eb01bce8", null ],
+    [ "m_pri", "d6/ded/class_slic3r_1_1_g_u_i_1_1_plater_1_1priv_1_1_jobs.html#af09295038f38dccdc72ccfb6f6b40e6b", null ],
+    [ "m_print_id", "d6/ded/class_slic3r_1_1_g_u_i_1_1_plater_1_1priv_1_1_jobs.html#a94e1548c981d63b84eaab8f32bf21308", null ],
+    [ "m_rotoptimize_id", "d6/ded/class_slic3r_1_1_g_u_i_1_1_plater_1_1priv_1_1_jobs.html#a678e7f5f6b2cedd1cd61fb59096c6036", null ],
+    [ "m_sla_import_id", "d6/ded/class_slic3r_1_1_g_u_i_1_1_plater_1_1priv_1_1_jobs.html#a1366ddd39ba2a692556480186011e256", null ]
+];

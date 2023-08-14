@@ -1,0 +1,19 @@
+<map id="nlohmann::detail::binary_writer::write_bson_string" name="nlohmann::detail::binary_writer::write_bson_string">
+<area shape="rect" id="Node000001" title="Writes a BSON element with key name and string value value." alt="" coords="912,39,1082,79"/>
+<area shape="rect" id="Node000002" href="$df/d1a/classnlohmann_1_1detail_1_1binary__writer.html#a7ff58bf1a80018148bed860667ffca07" title="Serializes the JSON value j to BSON and associates it with the key name." alt="" coords="679,39,864,79"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="897,62,864,62,864,56,897,56"/>
+<area shape="rect" id="Node000003" href="$df/d1a/classnlohmann_1_1detail_1_1binary__writer.html#a025212bd170253638b9f05b3b6aa5bf9" title="Writes a BSON element with key name and array value." alt="" coords="461,5,628,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="664,55,628,49,629,44,665,50"/>
+<area shape="rect" id="Node000004" href="$df/d1a/classnlohmann_1_1detail_1_1binary__writer.html#a29b3e0f83a8e5f2307804023109ba2c9" title=" " alt="" coords="458,71,631,111"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="665,77,632,81,631,76,664,71"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="644,29,688,35,688,41,643,34"/>
+<area shape="rect" id="Node000005" href="$df/d1a/classnlohmann_1_1detail_1_1binary__writer.html#a9ffc566db5219b473762462234b47db9" title=" " alt="" coords="226,63,385,103"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="443,90,385,88,386,83,443,85"/>
+<area shape="rect" id="Node000008" href="$df/d1a/classnlohmann_1_1detail_1_1binary__writer.html#a6231302930265eccb3f56c378f7b0661" title="Writes a BSON element with key name and object value." alt="" coords="201,128,410,169"/>
+<area shape="poly" id="edge8_Node000004_Node000008" title=" " alt="" coords="444,118,394,130,393,125,443,113"/>
+<area shape="rect" id="Node000006" href="$d9/dcc/classnlohmann_1_1basic__json.html#a9ebed178fb7dad1a574bcb7c361fb1b8" title="Serializes the given JSON object j to BSON and forwards the corresponding BSON&#45;representation to the ..." alt="" coords="5,31,153,71"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="210,72,153,64,154,59,211,67"/>
+<area shape="rect" id="Node000007" href="$d9/dcc/classnlohmann_1_1basic__json.html#a4a9babd6635e3f7d4af3dec0635073c5" title="Serializes the given JSON object j to BSON and forwards the corresponding BSON&#45;representation to the ..." alt="" coords="5,96,153,137"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="211,100,154,108,153,103,210,94"/>
+<area shape="poly" id="edge9_Node000008_Node000002" title=" " alt="" coords="425,146,526,139,579,132,631,120,685,101,733,77,736,82,687,106,632,126,580,137,527,144,425,152"/>
+</map>

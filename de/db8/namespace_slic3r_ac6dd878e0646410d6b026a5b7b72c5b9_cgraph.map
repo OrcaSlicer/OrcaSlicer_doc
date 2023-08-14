@@ -1,0 +1,115 @@
+<map id="Slic3r::mark_boundary_segments_touching_infill" name="Slic3r::mark_boundary_segments_touching_infill">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,980,177,1021"/>
+<area shape="rect" id="Node000002" href="$de/db8/namespace_slic3r.html#a5f240a84e573ed2d7785a439f4239e1a" title=" " alt="" coords="899,272,1004,297"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="90,979,98,892,118,760,134,685,157,608,186,533,222,462,269,388,314,334,339,312,369,293,448,257,507,239,569,229,631,226,693,229,806,244,894,264,893,270,805,249,692,234,631,231,569,234,508,244,450,261,372,297,343,317,317,338,273,391,227,464,191,535,162,610,140,686,123,761,103,893,96,980"/>
+<area shape="rect" id="Node000003" href="$d2/da7/class_slic3r_1_1_edge_grid_1_1_grid.html#a6677b4c8e235a9ee0bf5abeebbbf12c2" title=" " alt="" coords="239,637,387,678"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="93,979,105,922,129,845,146,803,167,762,192,724,223,689,228,685,231,689,227,693,197,727,171,765,151,806,134,847,110,924,98,980"/>
+<area shape="rect" id="Node000006" href="$de/db8/namespace_slic3r.html#acc84c90acd7305a4657c79516c899700" title=" " alt="" coords="229,703,397,743"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="96,979,111,933,137,873,174,810,197,781,223,754,229,750,232,754,226,758,201,784,179,813,142,876,116,935,101,980"/>
+<area shape="rect" id="Node000007" href="$de/db8/namespace_slic3r.html#a23f34f71b9fb2bca76a61eb9441a1af6" title=" " alt="" coords="242,768,384,809"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="100,978,147,902,182,858,223,820,231,814,234,818,226,824,186,862,151,905,105,981"/>
+<area shape="rect" id="Node000008" href="$de/db8/namespace_slic3r.html#a0c99f9d883edfbdf3d96bd918b5b1a29" title=" " alt="" coords="238,833,388,874"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="110,978,159,932,223,885,235,878,237,883,226,889,163,936,114,981"/>
+<area shape="rect" id="Node000009" href="$de/db8/namespace_slic3r.html#ab85a922d8bfd5dd668de93b9a8cd1aa3" title=" " alt="" coords="240,899,386,939"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="147,977,224,948,240,942,242,948,226,954,149,982"/>
+<area shape="rect" id="Node000013" href="$de/db8/namespace_slic3r.html#a1d1423286c406123371c37ceada9ebae" title=" " alt="" coords="457,120,611,145"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="90,980,94,820,100,703,111,575,128,447,151,329,165,278,182,233,201,197,223,169,246,150,272,136,329,119,388,113,443,115,443,120,388,118,330,124,274,141,249,155,227,173,206,199,187,235,170,280,156,331,133,448,116,575,106,703,99,821,95,980"/>
+<area shape="rect" id="Node000015" href="$db/dcf/class_slic3r_1_1_s_v_g.html#a8008d88fed50359e749596f777a37428" title=" " alt="" coords="471,170,597,196"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="90,979,95,827,102,716,113,595,130,474,153,364,167,315,184,273,202,239,223,213,248,194,276,180,306,170,337,164,399,160,456,165,456,170,399,166,338,169,307,175,278,185,251,198,227,217,206,242,188,275,172,317,158,365,135,475,119,596,107,717,100,828,95,980"/>
+<area shape="rect" id="Node000019" href="$de/db8/namespace_slic3r.html#a6e3ba75aef7600dbb0a294a47d88ecb8" title=" " alt="" coords="248,988,378,1013"/>
+<area shape="poly" id="edge20_Node000001_Node000019" title=" " alt="" coords="177,998,233,998,233,1003,177,1003"/>
+<area shape="rect" id="Node000020" href="$de/db8/namespace_slic3r.html#a7fbf8086aa6866b37be593872e09e169" title="A set of equidistant values starting from &#39;start&#39; (inclusive), ending in the closest multiple of &#39;str..." alt="" coords="271,1037,355,1063"/>
+<area shape="poly" id="edge22_Node000001_Node000020" title=" " alt="" coords="178,1017,258,1035,256,1040,176,1022"/>
+<area shape="rect" id="Node000021" href="$d4/d2d/class_slic3r_1_1_bounding_box.html#afdf8cd62dd83f934bac9758e302c3bd1" title=" " alt="" coords="243,1087,383,1127"/>
+<area shape="poly" id="edge23_Node000001_Node000021" title=" " alt="" coords="127,1019,226,1073,239,1078,236,1083,223,1077,125,1024"/>
+<area shape="rect" id="Node000022" href="$de/db8/namespace_slic3r.html#a439a778ab1751290502c9e345538b88c" title=" " alt="" coords="229,475,397,515"/>
+<area shape="poly" id="edge24_Node000001_Node000022" title=" " alt="" coords="93,979,105,910,130,808,168,692,193,635,222,580,246,550,272,523,276,527,250,553,227,583,198,637,173,694,135,809,110,911,98,980"/>
+<area shape="rect" id="Node000030" href="$dc/d28/class_slic3r_1_1_bounding_box_base.html#af05bfd6f2d56108f60099c6bf5c114ab" title=" " alt="" coords="449,743,618,783"/>
+<area shape="poly" id="edge54_Node000001_Node000030" title=" " alt="" coords="89,979,94,908,100,860,111,809,128,757,151,706,183,661,223,624,269,598,291,592,312,590,355,599,402,623,415,634,423,646,430,671,435,697,441,710,451,722,463,733,460,737,447,726,436,713,430,699,425,672,419,648,412,638,400,628,354,604,312,596,292,597,271,603,226,628,187,664,156,709,133,758,116,810,105,861,99,909,95,980"/>
+<area shape="rect" id="Node000065" href="$de/db8/namespace_slic3r.html#a62e989db5546d1af6cf869f5d09d6e0f" title=" " alt="" coords="245,1152,381,1193"/>
+<area shape="poly" id="edge51_Node000001_Node000065" title=" " alt="" coords="109,1019,158,1077,190,1109,226,1137,236,1143,233,1147,223,1141,187,1113,154,1081,105,1023"/>
+<area shape="rect" id="Node000071" href="$de/db8/namespace_slic3r.html#ad7af7d39d8b5f5f55c23bc90ce329f29" title=" " alt="" coords="269,1217,357,1243"/>
+<area shape="poly" id="edge55_Node000001_Node000071" title=" " alt="" coords="102,1020,120,1059,146,1108,182,1159,226,1202,256,1217,253,1222,223,1207,178,1163,141,1111,115,1062,98,1022"/>
+<area shape="rect" id="Node000072" href="$d2/da7/class_slic3r_1_1_edge_grid_1_1_grid.html#a0c22769ba9922a1c4fb826f25e451bec" title=" " alt="" coords="239,1332,387,1373"/>
+<area shape="poly" id="edge56_Node000001_Node000072" title=" " alt="" coords="98,1020,109,1078,132,1158,149,1200,170,1242,196,1282,227,1317,231,1321,228,1325,223,1321,192,1285,166,1245,144,1202,127,1159,104,1080,93,1021"/>
+<area shape="rect" id="Node000074" href="$d6/d4f/_block_methods_8h.html#a3c8d2bfe6f857a2a270b78759487e3a8" title="This is the const version of segment(Index,Index)." alt="" coords="277,1397,349,1423"/>
+<area shape="poly" id="edge58_Node000001_Node000074" title=" " alt="" coords="96,1021,103,1090,122,1188,139,1240,161,1292,190,1340,226,1382,244,1394,264,1401,262,1406,241,1399,223,1386,186,1343,157,1294,134,1242,117,1189,97,1091,90,1022"/>
+<area shape="rect" id="Node000075" href="$da/de1/struct_slic3r_1_1_contour_intersection_point.html#a750b29a27fb02391d1c1543f58bac07a" title=" " alt="" coords="225,1447,401,1487"/>
+<area shape="poly" id="edge59_Node000001_Node000075" title=" " alt="" coords="95,1021,100,1097,118,1207,135,1267,158,1327,188,1383,227,1433,229,1435,225,1439,223,1437,183,1386,153,1329,130,1269,113,1208,95,1098,90,1021"/>
+<area shape="rect" id="Node000076" href="$da/de1/struct_slic3r_1_1_contour_intersection_point.html#a733e4fd2a4641482836d12dd7de5e0d2" title=" " alt="" coords="225,1512,401,1553"/>
+<area shape="poly" id="edge60_Node000001_Node000076" title=" " alt="" coords="94,1021,96,1107,101,1166,111,1233,127,1303,151,1373,184,1439,227,1497,230,1501,226,1504,223,1501,179,1441,146,1375,122,1304,106,1234,96,1167,91,1107,89,1021"/>
+<area shape="rect" id="Node000077" href="$da/d02/struct_slic3r_1_1_segment_point.html#a6602c207c27464d3605edab4ecb46d88" title=" " alt="" coords="241,1577,385,1618"/>
+<area shape="poly" id="edge61_Node000001_Node000077" title=" " alt="" coords="97,1021,112,1132,138,1295,156,1379,177,1456,201,1519,227,1563,231,1567,227,1571,223,1566,196,1522,172,1457,151,1380,133,1296,106,1133,92,1022"/>
+<area shape="rect" id="Node000078" href="$de/db8/namespace_slic3r.html#a11411acf3df15d1c9fd56b751d4afc78" title=" " alt="" coords="229,1267,397,1307"/>
+<area shape="poly" id="edge62_Node000001_Node000078" title=" " alt="" coords="100,1020,115,1068,140,1130,177,1196,200,1226,226,1253,231,1256,227,1261,223,1257,196,1230,173,1199,135,1132,110,1069,95,1022"/>
+<area shape="rect" id="Node000004" href="$d6/d4f/_block_methods_8h.html#ac820575ee62de615224f350c02085469" title="This is the const version of col()." alt="" coords="514,857,553,883"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="387,676,403,689,417,709,425,730,427,769,429,807,437,825,451,844,474,858,500,865,499,870,472,863,447,848,432,828,424,808,422,769,419,731,413,712,399,693,384,681"/>
+<area shape="rect" id="Node000005" href="$d6/d4f/_block_methods_8h.html#a8dd30d04b6ce8a78abb064008deb8a9c" title="This is the const version of row(). *‍/." alt="" coords="513,808,555,833"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="386,676,403,689,414,703,421,716,427,743,433,769,440,781,451,793,473,806,499,814,497,819,471,811,447,797,435,784,428,770,422,744,416,718,410,706,399,693,382,681"/>
+<area shape="rect" id="Node000010" href="$de/db8/namespace_slic3r.html#af671a4c0b01956ac96face6b03a08167" title=" " alt="" coords="461,956,606,997"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="386,935,447,951,446,956,385,940"/>
+<area shape="rect" id="Node000012" href="$de/db8/namespace_slic3r.html#a1eea52f5cabe9f6172fcec07fb0fed76" title=" " alt="" coords="485,906,582,932"/>
+<area shape="poly" id="edge11_Node000009_Node000012" title=" " alt="" coords="386,916,470,916,470,922,386,922"/>
+<area shape="rect" id="Node000011" href="$de/db8/namespace_slic3r.html#ad3ce5a04984ac62d370737ed09f1bc9d" title=" " alt="" coords="678,964,823,989"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="607,974,663,974,663,979,607,979"/>
+<area shape="rect" id="Node000014" href="$de/db8/namespace_slic3r.html#ac51717140f8f8baf8f5c0e98129ecb18" title=" " alt="" coords="673,5,828,46"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="559,117,665,62,690,50,692,55,668,67,561,121"/>
+<area shape="rect" id="Node000016" href="$db/dcf/class_slic3r_1_1_s_v_g.html#a8993c145ff3851ce687e72829774d235" title=" " alt="" coords="883,113,1020,154"/>
+<area shape="poly" id="edge15_Node000015_Node000016" title=" " alt="" coords="592,167,617,155,631,143,639,130,649,117,665,106,719,92,775,89,829,95,877,106,876,111,828,101,775,95,720,97,667,111,652,121,644,133,635,147,620,160,594,172"/>
+<area shape="rect" id="Node000017" href="$db/dcf/class_slic3r_1_1_s_v_g.html#a725409d4f2d8b05091f250f678800dbd" title=" " alt="" coords="675,121,826,147"/>
+<area shape="poly" id="edge16_Node000015_Node000017" title=" " alt="" coords="593,167,676,148,677,153,594,172"/>
+<area shape="rect" id="Node000018" href="$db/dcf/class_slic3r_1_1_s_v_g.html#a404d56de42cea06fdf005043b2d99d0c" title=" " alt="" coords="675,170,826,196"/>
+<area shape="poly" id="edge18_Node000015_Node000018" title=" " alt="" coords="597,180,660,180,660,186,597,186"/>
+<area shape="poly" id="edge17_Node000017_Node000016" title=" " alt="" coords="827,131,868,131,868,136,827,136"/>
+<area shape="poly" id="edge19_Node000018_Node000016" title=" " alt="" coords="805,167,868,151,869,157,807,172"/>
+<area shape="poly" id="edge21_Node000019_Node000019" title=" " alt="" coords="276,989,269,979,273,969,288,963,313,961,341,964,354,971,352,976,339,969,313,966,289,968,277,973,274,978,280,985"/>
+<area shape="poly" id="edge25_Node000022_Node000013" title=" " alt="" coords="314,474,324,412,346,326,364,280,386,235,414,193,447,156,453,151,456,155,451,160,418,196,391,238,369,283,351,328,329,413,319,475"/>
+<area shape="poly" id="edge35_Node000022_Node000015" title=" " alt="" coords="321,473,369,376,405,316,447,257,474,228,502,203,506,207,478,232,451,261,410,318,374,379,326,475"/>
+<area shape="rect" id="Node000023" href="$dd/dd0/namespace_slic3r_1_1line__alg.html#ae8f652a3e33a31daec85df184c66d325" title=" " alt="" coords="452,581,615,622"/>
+<area shape="poly" id="edge26_Node000022_Node000023" title=" " alt="" coords="350,513,450,567,463,573,461,578,448,572,347,518"/>
+<area shape="rect" id="Node000028" href="$de/db8/namespace_slic3r.html#adb8a52f0ebfe5a551577b3e530b40c47" title=" " alt="" coords="911,616,992,641"/>
+<area shape="poly" id="edge34_Node000022_Node000028" title=" " alt="" coords="335,514,394,579,451,632,506,668,553,692,602,709,667,724,714,734,752,740,789,737,834,725,862,710,888,691,929,650,933,654,892,695,865,715,836,729,790,743,752,745,713,740,666,730,600,714,550,697,504,673,447,636,391,583,331,518"/>
+<area shape="rect" id="Node000029" href="$d3/dfb/namespace_slic3r_1_1_geometry.html#a68fa434786a0eff3fd23b4deb60c33cd" title=" " alt="" coords="457,351,611,407"/>
+<area shape="poly" id="edge36_Node000022_Node000029" title=" " alt="" coords="352,472,465,412,467,417,354,477"/>
+<area shape="poly" id="edge37_Node000022_Node000030" title=" " alt="" coords="343,514,374,543,403,580,414,601,420,620,424,655,430,688,438,705,451,723,461,732,458,736,447,726,433,708,425,690,419,656,414,621,409,603,399,583,370,547,339,518"/>
+<area shape="rect" id="Node000033" href="$de/db8/namespace_slic3r.html#a5ec552d076296fd705739c608edc1580" title=" " alt="" coords="486,482,581,508"/>
+<area shape="poly" id="edge40_Node000022_Node000033" title=" " alt="" coords="397,492,471,492,471,498,397,498"/>
+<area shape="rect" id="Node000058" href="$de/db8/namespace_slic3r.html#ad16926b284c744239c383650205aae65" title=" " alt="" coords="483,532,585,557"/>
+<area shape="poly" id="edge45_Node000022_Node000058" title=" " alt="" coords="397,511,468,527,467,532,396,516"/>
+<area shape="rect" id="Node000063" href="$d3/dfb/namespace_slic3r_1_1_geometry.html#abe2964a99f0ed49223eb8d0c7c00dafb" title=" " alt="" coords="461,271,606,327"/>
+<area shape="poly" id="edge48_Node000022_Node000063" title=" " alt="" coords="326,473,375,408,409,371,447,337,453,333,456,337,451,341,413,374,379,411,330,476"/>
+<area shape="rect" id="Node000064" href="$d4/df0/_array_cwise_unary_ops_8h.html#a656b9217a2fcb6de59dc8d1eb3079cc7" title=" " alt="" coords="729,280,772,305"/>
+<area shape="poly" id="edge50_Node000022_Node000064" title=" " alt="" coords="397,476,532,445,587,429,617,417,628,405,634,393,640,367,646,341,653,327,665,314,688,301,713,293,715,298,690,306,668,318,657,330,651,343,645,368,639,395,632,408,620,421,589,434,533,450,398,481"/>
+<area shape="rect" id="Node000024" href="$d5/df7/_common_cwise_unary_ops_8h.html#aa89d007196125d10fa7d6e19811aca05" title=" " alt="" coords="727,689,774,715"/>
+<area shape="poly" id="edge27_Node000023_Node000024" title=" " alt="" coords="568,620,614,648,667,675,714,691,712,696,665,680,611,653,565,625"/>
+<area shape="rect" id="Node000025" href="$dd/dd0/namespace_slic3r_1_1line__alg.html#a40c38dd07021734519ce9d5f5897e0ae" title=" " alt="" coords="677,566,824,592"/>
+<area shape="poly" id="edge28_Node000023_Node000025" title=" " alt="" coords="616,590,662,586,663,591,616,596"/>
+<area shape="rect" id="Node000026" href="$dd/dd0/namespace_slic3r_1_1line__alg.html#a06c05051babc1927a1f24f9fdd70516e" title=" " alt="" coords="677,640,824,665"/>
+<area shape="poly" id="edge30_Node000023_Node000026" title=" " alt="" coords="617,618,679,633,678,638,615,623"/>
+<area shape="rect" id="Node000027" href="$de/db8/namespace_slic3r.html#a1e045f56a994b8cd4a5b203626cd8272" title=" " alt="" coords="714,493,787,519"/>
+<area shape="poly" id="edge32_Node000023_Node000027" title=" " alt="" coords="595,578,617,567,640,547,665,527,699,514,701,519,668,532,644,551,620,572,597,583"/>
+<area shape="poly" id="edge29_Node000025_Node000025" title=" " alt="" coords="717,567,710,558,714,548,728,542,751,540,776,543,789,550,786,555,775,548,750,545,729,547,718,552,716,557,721,564"/>
+<area shape="poly" id="edge31_Node000026_Node000026" title=" " alt="" coords="717,641,710,631,714,621,728,615,751,613,776,616,789,623,786,628,775,621,750,618,729,620,718,625,716,630,721,638"/>
+<area shape="poly" id="edge33_Node000027_Node000028" title=" " alt="" coords="788,510,836,527,889,564,930,603,926,606,885,568,833,532,786,515"/>
+<area shape="rect" id="Node000031" href="$df/db1/math_8h.html#a5083c48fbfb60dd70808789479f4db53" title=" " alt="" coords="727,840,774,865"/>
+<area shape="poly" id="edge38_Node000030_Node000031" title=" " alt="" coords="596,781,620,793,644,810,668,826,714,842,712,847,665,831,641,814,617,797,593,786"/>
+<area shape="rect" id="Node000032" href="$df/db1/math_8h.html#a04a32cd137f4e2dc222aca71df9edb1b" title=" " alt="" coords="729,790,772,816"/>
+<area shape="poly" id="edge39_Node000030_Node000032" title=" " alt="" coords="619,776,715,794,714,799,618,781"/>
+<area shape="rect" id="Node000034" href="$de/db8/namespace_slic3r.html#af7cda13fb4a1d706c356d6326e791e5e" title=" " alt="" coords="689,329,812,355"/>
+<area shape="poly" id="edge41_Node000033_Node000034" title=" " alt="" coords="581,493,600,485,616,473,633,449,639,425,646,400,665,376,683,364,703,357,705,362,685,369,668,380,651,403,644,426,638,452,620,477,602,489,583,498"/>
+<area shape="rect" id="Node000057" href="$de/db8/namespace_slic3r.html#a843ba2fe16b213f550fb3d55c55a716e" title=" " alt="" coords="684,378,817,404"/>
+<area shape="poly" id="edge44_Node000033_Node000057" title=" " alt="" coords="579,479,617,461,631,449,640,438,650,426,665,414,678,407,680,412,668,419,653,430,644,441,635,453,620,465,581,484"/>
+<area shape="poly" id="edge42_Node000034_Node000002" title=" " alt="" coords="798,326,889,299,890,304,799,331"/>
+<area shape="poly" id="edge43_Node000034_Node000033" title=" " alt="" coords="690,343,668,356,651,379,644,402,638,428,620,453,597,469,572,479,570,474,594,464,616,449,633,425,639,401,646,376,665,352,687,339"/>
+<area shape="poly" id="edge47_Node000058_Node000057" title=" " alt="" coords="584,535,601,528,617,518,628,506,634,494,640,468,646,441,653,428,665,414,671,409,675,413,668,418,657,431,651,443,645,469,639,496,632,509,620,522,604,533,586,540"/>
+<area shape="rect" id="Node000059" href="$de/db8/namespace_slic3r.html#ac641fcda905eaaa213af131e755ad0a5" title=" " alt="" coords="686,428,815,469"/>
+<area shape="poly" id="edge46_Node000058_Node000059" title=" " alt="" coords="584,531,617,518,641,499,665,478,674,473,677,478,668,483,644,503,620,523,586,536"/>
+<area shape="poly" id="edge49_Node000063_Node000064" title=" " alt="" coords="607,294,713,291,714,296,607,299"/>
+<area shape="rect" id="Node000066" href="$d8/dcc/namespacestd.html#af4bc231d061945eb59dbba98a117ece9" title=" " alt="" coords="486,1160,582,1185"/>
+<area shape="poly" id="edge52_Node000065_Node000066" title=" " alt="" coords="381,1170,471,1170,471,1175,381,1175"/>
+<area shape="rect" id="Node000067" href="$d7/d63/classhmesh__t.html#a19678c4e4889230aa87ea59b4ec047c8" title=" " alt="" coords="666,1152,835,1193"/>
+<area shape="poly" id="edge53_Node000066_Node000067" title=" " alt="" coords="582,1170,652,1170,652,1175,582,1175"/>
+<area shape="rect" id="Node000073" href="$de/db8/namespace_slic3r.html#af61cef4113ccd6c7b65581bcfb25e340" title=" " alt="" coords="481,1306,586,1332"/>
+<area shape="poly" id="edge57_Node000072_Node000073" title=" " alt="" coords="387,1339,466,1326,467,1332,388,1344"/>
+<area shape="poly" id="edge63_Node000078_Node000073" title=" " alt="" coords="397,1296,467,1307,466,1312,396,1302"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="nlohmann::basic_json::assert_invariant" name="nlohmann::basic_json::assert_invariant">
+<area shape="rect" id="Node000001" title="checks the class invariants" alt="" coords="5,63,153,103"/>
+<area shape="rect" id="Node000002" href="$d9/dcc/classnlohmann_1_1basic__json.html#a23b495b4c282e4afacf382f5b49af7c7" title="returns an iterator to the first element" alt="" coords="215,5,363,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="152,60,200,47,202,52,154,66"/>
+<area shape="rect" id="Node000003" href="$d9/dcc/classnlohmann_1_1basic__json.html#a931267ec3f09eb67e4382f321b2c52bc" title="returns an iterator to one past the last element" alt="" coords="201,70,377,96"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="153,80,186,80,186,86,153,86"/>
+<area shape="rect" id="Node000006" href="$d9/dcc/classnlohmann_1_1basic__json.html#a4e05a7d5deec758f1d830741b68b4249" title="return whether type is structured" alt="" coords="215,124,363,165"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="152,101,204,117,202,122,150,106"/>
+<area shape="rect" id="Node000004" href="$d1/d7c/classnlohmann_1_1detail_1_1iter__impl.html#a23e50ad4c13aa62d9ac7f60a123823ee" title="set the iterator past the last value" alt="" coords="428,59,570,99"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="377,79,413,78,413,83,377,84"/>
+<area shape="rect" id="Node000005" href="$d2/d2c/classnlohmann_1_1detail_1_1primitive__iterator__t.html#ad26a823483846a12d890c3feed3097eb" title="set iterator to a defined past the end" alt="" coords="620,59,794,99"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="570,76,605,76,605,82,570,82"/>
+<area shape="rect" id="Node000007" href="$d9/dcc/classnlohmann_1_1basic__json.html#ab5b70d60a636b9c5e10f6c8caac60b9e" title="return whether value is an array" alt="" coords="425,124,572,165"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="363,142,410,142,410,147,363,147"/>
+<area shape="rect" id="Node000008" href="$d9/dcc/classnlohmann_1_1basic__json.html#a57e8411a770a6263d6d8f2116c37f3aa" title="return whether value is an object" alt="" coords="425,189,572,230"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="357,163,418,182,416,187,355,168"/>
+</map>

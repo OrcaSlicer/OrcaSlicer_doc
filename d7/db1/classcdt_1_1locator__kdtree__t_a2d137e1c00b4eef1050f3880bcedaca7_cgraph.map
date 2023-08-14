@@ -1,0 +1,40 @@
+<map id="cdt::locator_kdtree_t::add_point" name="cdt::locator_kdtree_t::add_point">
+<area shape="rect" id="Node000001" title="Add point to KD&#45;tree." alt="" coords="5,180,135,220"/>
+<area shape="rect" id="Node000002" href="$de/d05/classkdt_1_1kdtree__t__.html#a8243b3595cc677224b1b5768a857a975" title="Insert a point into kd&#45;tree." alt="" coords="183,187,324,213"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="135,197,168,197,168,203,135,203"/>
+<area shape="rect" id="Node000003" href="$de/d05/classkdt_1_1kdtree__t__.html#a7ef507304dc142080205c91703d3da47" title="Add a new node and return it&#39;s index in nodes buffer." alt="" coords="601,22,790,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="257,186,270,153,294,110,327,66,348,47,371,32,403,19,436,10,506,3,572,6,630,16,629,21,572,12,506,8,437,15,404,24,373,37,351,52,331,70,298,112,275,155,262,188"/>
+<area shape="rect" id="Node000004" href="$de/d05/classkdt_1_1kdtree__t__.html#ad28eb6b6c6a19ca7431cf3e8055eb363" title="Calculate split location, direction, and children boxes." alt="" coords="372,261,553,286"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="285,211,373,247,394,254,392,259,371,252,283,216"/>
+<area shape="rect" id="Node000005" href="$df/db1/math_8h.html#a5083c48fbfb60dd70808789479f4db53" title=" " alt="" coords="672,261,719,286"/>
+<area shape="poly" id="edge21_Node000002_Node000005" title=" " alt="" coords="267,212,309,256,339,279,373,296,421,309,461,309,553,296,657,279,658,284,554,301,461,315,421,314,371,301,336,284,306,260,263,215"/>
+<area shape="rect" id="Node000006" href="$df/db1/math_8h.html#a04a32cd137f4e2dc222aca71df9edb1b" title=" " alt="" coords="674,310,717,336"/>
+<area shape="poly" id="edge22_Node000002_Node000006" title=" " alt="" coords="265,212,306,265,337,294,373,315,411,328,450,336,529,341,602,336,659,328,660,333,603,342,529,346,449,341,409,333,371,320,334,298,302,269,261,215"/>
+<area shape="rect" id="Node000009" href="$de/d05/classkdt_1_1kdtree__t__.html#ac31cc62a2c3c95f1aeb716f141af4e8c" title="Extend a tree by creating new root with old root and a new node as children." alt="" coords="376,47,550,73"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="262,185,306,136,336,107,371,83,384,76,387,81,373,88,340,112,309,139,266,189"/>
+<area shape="rect" id="Node000010" href="$de/d05/classkdt_1_1kdtree__t__.html#a35a8dfc1e1aaca1a580374e6be01edb2" title="Calculate root&#39;s box enclosing all root points." alt="" coords="385,97,541,138"/>
+<area shape="poly" id="edge12_Node000002_Node000010" title=" " alt="" coords="283,184,371,147,387,141,389,146,373,152,285,189"/>
+<area shape="rect" id="Node000012" href="$de/d05/classkdt_1_1kdtree__t__.html#a634cf0b0d7c55a867e6911f14e6740a7" title="Test if point is inside a box." alt="" coords="374,211,551,237"/>
+<area shape="poly" id="edge16_Node000002_Node000012" title=" " alt="" coords="325,206,360,210,359,215,324,211"/>
+<area shape="rect" id="Node000013" href="$de/d05/classkdt_1_1kdtree__t__.html#a47e9dc1be8b82338e82cea2d716ac6da" title="Test which child point belongs to after the split." alt="" coords="376,162,549,188"/>
+<area shape="poly" id="edge23_Node000002_Node000013" title=" " alt="" coords="324,189,361,184,362,190,325,194"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="554,271,657,271,657,276,554,276"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="527,284,661,313,659,318,526,290"/>
+<area shape="rect" id="Node000007" href="$db/d23/classvec2__.html#a9386121ef872e5200f64e59240979637" title=" " alt="" coords="660,211,731,237"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="526,257,645,232,646,237,527,263"/>
+<area shape="rect" id="Node000008" href="$db/d23/classvec2__.html#af96ab43d3b573ac4552fbbe601eb4ad6" title=" " alt="" coords="660,162,731,188"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="529,258,552,247,566,235,575,223,584,209,600,197,644,180,646,185,603,201,588,213,579,226,570,239,555,252,532,262"/>
+<area shape="poly" id="edge9_Node000009_Node000003" title=" " alt="" coords="550,48,586,44,586,49,551,53"/>
+<area shape="poly" id="edge10_Node000009_Node000007" title=" " alt="" coords="536,71,555,83,568,98,575,113,580,143,585,171,591,185,603,198,623,210,646,217,644,223,621,215,600,202,587,188,579,173,575,143,570,115,563,101,552,87,534,76"/>
+<area shape="poly" id="edge11_Node000009_Node000008" title=" " alt="" coords="531,71,555,83,571,100,580,116,588,132,603,147,624,158,646,165,644,170,622,163,600,152,583,135,575,119,567,103,552,88,529,76"/>
+<area shape="poly" id="edge14_Node000010_Node000007" title=" " alt="" coords="534,136,555,147,570,161,579,174,588,186,603,198,646,214,644,219,600,202,584,190,575,177,566,164,552,152,532,141"/>
+<area shape="poly" id="edge15_Node000010_Node000008" title=" " alt="" coords="542,134,646,160,645,165,541,139"/>
+<area shape="rect" id="Node000011" href="$db/d23/classvec2__.html#a6c5d841435b46fca6c6a7934070a4e6e" title=" " alt="" coords="623,97,768,138"/>
+<area shape="poly" id="edge13_Node000010_Node000011" title=" " alt="" coords="541,115,609,115,609,120,541,120"/>
+<area shape="poly" id="edge17_Node000012_Node000005" title=" " alt="" coords="527,235,658,263,657,268,526,240"/>
+<area shape="poly" id="edge18_Node000012_Node000006" title=" " alt="" coords="532,235,555,246,570,259,579,272,588,285,603,297,631,309,660,316,659,321,629,314,600,301,584,288,575,275,566,262,552,250,529,240"/>
+<area shape="poly" id="edge19_Node000012_Node000007" title=" " alt="" coords="552,221,645,221,645,227,552,227"/>
+<area shape="poly" id="edge20_Node000012_Node000008" title=" " alt="" coords="526,208,645,183,646,188,527,213"/>
+<area shape="poly" id="edge24_Node000013_Node000007" title=" " alt="" coords="527,186,646,211,645,216,526,191"/>
+<area shape="poly" id="edge25_Node000013_Node000008" title=" " alt="" coords="550,172,645,172,645,177,550,177"/>
+</map>

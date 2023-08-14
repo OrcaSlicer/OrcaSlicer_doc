@@ -1,0 +1,35 @@
+<map id="json_diff::diff2all" name="json_diff::diff2all">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,102,122,128"/>
+<area shape="rect" id="Node000002" href="$d9/dcc/classnlohmann_1_1basic__json.html#a5c99855f3e35ff35558cb46139b785f8" title="checks whether the container is empty." alt="" coords="170,5,317,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="88,99,168,57,181,50,184,55,171,61,90,104"/>
+<area shape="rect" id="Node000003" href="$dc/d6c/classjson__diff.html#a932a768d216936e3d0852fa58b77e525" title=" " alt="" coords="184,95,303,135"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="122,112,169,112,169,118,122,118"/>
+<area shape="rect" id="Node000004" href="$dc/d6c/classjson__diff.html#afe6282fb117d921eabd2f918856bf840" title=" " alt="" coords="184,184,303,225"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="93,126,189,175,187,179,90,131"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="209,95,207,85,213,76,225,70,243,68,264,71,275,77,273,82,262,76,243,73,226,75,216,80,212,86,214,94"/>
+<area shape="poly" id="edge6_Node000004_Node000004" title=" " alt="" coords="209,184,207,174,213,165,225,159,243,157,264,160,275,167,273,171,262,165,243,163,226,165,216,169,212,175,214,183"/>
+<area shape="rect" id="Node000005" href="$d9/dcc/classnlohmann_1_1basic__json.html#a02ed1d1f38310ccc2fbb02d2b75387a2" title="helper to access iterator member functions in range&#45;based for" alt="" coords="365,151,512,191"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="303,192,350,183,351,189,303,197"/>
+<area shape="rect" id="Node000006" href="$d9/dcc/classnlohmann_1_1basic__json.html#a11641b35219676b225d9bd15c7677659" title="access specified object element with default value" alt="" coords="365,216,512,257"/>
+<area shape="poly" id="edge7_Node000004_Node000006" title=" " alt="" coords="303,211,351,219,350,225,303,217"/>
+<area shape="rect" id="Node000007" href="$da/d1c/classnlohmann_1_1detail_1_1type__error.html#a838a5e301cf97289c2d106b9ace1470f" title=" " alt="" coords="560,101,710,142"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="489,213,511,201,535,180,559,158,576,147,579,152,562,162,538,184,514,205,492,218"/>
+<area shape="rect" id="Node000010" href="$d9/dcc/classnlohmann_1_1basic__json.html#a931267ec3f09eb67e4382f321b2c52bc" title="returns an iterator to one past the last element" alt="" coords="760,181,936,207"/>
+<area shape="poly" id="edge11_Node000006_Node000010" title=" " alt="" coords="508,213,560,202,655,192,745,189,745,195,655,198,561,207,509,218"/>
+<area shape="rect" id="Node000013" href="$d9/dcc/classnlohmann_1_1basic__json.html#acdf9b3aab82dcf443dd91ca5ec06b80c" title="find an element in a JSON object" alt="" coords="561,216,709,257"/>
+<area shape="poly" id="edge14_Node000006_Node000013" title=" " alt="" coords="513,234,547,234,547,239,513,239"/>
+<area shape="rect" id="Node000014" href="$d9/dcc/classnlohmann_1_1basic__json.html#a57e8411a770a6263d6d8f2116c37f3aa" title="return whether value is an object" alt="" coords="774,245,922,286"/>
+<area shape="poly" id="edge17_Node000006_Node000014" title=" " alt="" coords="507,255,561,266,663,272,759,270,759,275,663,278,560,271,506,260"/>
+<area shape="rect" id="Node000015" href="$d9/dcc/classnlohmann_1_1basic__json.html#ab8811fc4eab6091b32b34b3ac3e90474" title="return the type as string" alt="" coords="561,331,709,371"/>
+<area shape="poly" id="edge18_Node000006_Node000015" title=" " alt="" coords="473,255,562,310,581,321,579,326,559,315,470,259"/>
+<area shape="rect" id="Node000008" href="$de/df2/classnlohmann_1_1detail_1_1exception.html#aa353a7dba4fd179f7224b8a2a238a264" title=" " alt="" coords="758,44,938,85"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="709,99,755,86,757,92,711,104"/>
+<area shape="rect" id="Node000009" href="$de/df2/classnlohmann_1_1detail_1_1exception.html#abf41a7e9178356314082284e6cfea278" title=" " alt="" coords="758,109,938,150"/>
+<area shape="poly" id="edge10_Node000007_Node000009" title=" " alt="" coords="710,122,743,123,743,128,710,127"/>
+<area shape="rect" id="Node000011" href="$d1/d7c/classnlohmann_1_1detail_1_1iter__impl.html#a23e50ad4c13aa62d9ac7f60a123823ee" title="set the iterator past the last value" alt="" coords="986,173,1128,214"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="936,191,971,191,971,196,936,196"/>
+<area shape="rect" id="Node000012" href="$d2/d2c/classnlohmann_1_1detail_1_1primitive__iterator__t.html#ad26a823483846a12d890c3feed3097eb" title="set iterator to a defined past the end" alt="" coords="1176,173,1350,214"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="1129,191,1162,191,1162,196,1129,196"/>
+<area shape="poly" id="edge15_Node000013_Node000010" title=" " alt="" coords="709,219,765,207,767,213,710,224"/>
+<area shape="poly" id="edge16_Node000013_Node000014" title=" " alt="" coords="710,244,760,251,759,256,709,249"/>
+</map>

@@ -1,0 +1,37 @@
+<map id="Slic3r::MachineObject::command_ams_switch" name="Slic3r::MachineObject::command_ams_switch">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,211,169,251"/>
+<area shape="rect" id="Node000002" href="$db/d79/class_slic3r_1_1_device_manager.html#a01b36d78d67470511360ed31315c5f7b" title=" " alt="" coords="217,55,370,95"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,208,252,102,255,107,117,212"/>
+<area shape="rect" id="Node000007" href="$dc/d24/class_slic3r_1_1_machine_object.html#a6e796db0760bf1976d6d6e22fd0a0075" title=" " alt="" coords="219,211,368,251"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="169,228,204,228,204,234,169,234"/>
+<area shape="rect" id="Node000017" href="$de/db8/namespace_slic3r.html#a06b86e5331aac1c640f8f7f40d798175" title=" " alt="" coords="248,308,339,333"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="137,250,249,299,247,304,135,254"/>
+<area shape="rect" id="Node000003" href="$de/db8/namespace_slic3r.html#a21f22c9580247e3d688ae94c3f10fb16" title=" " alt="" coords="425,13,561,39"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="369,53,423,40,424,45,371,59"/>
+<area shape="rect" id="Node000006" href="$de/db8/namespace_slic3r.html#a98b4dcd95032a990c6541512e9719696" title=" " alt="" coords="423,62,563,88"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="370,72,408,72,408,78,370,78"/>
+<area shape="rect" id="Node000004" href="$dd/dd5/namespaceboost_1_1nowide.html#abdfef0fb660e3fb6bd08580c6898a595" title="Convert NULL terminated UTF source string to NULL terminated output string of size at most output_siz..." alt="" coords="618,13,762,39"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="561,23,603,23,603,28,561,28"/>
+<area shape="rect" id="Node000005" href="$dd/dd5/namespaceboost_1_1nowide.html#abc7dfc4ebb4c462ec51da24506496b33" title="Template function that converts a buffer of UTF sequences in range [source_begin,source_end) to the o..." alt="" coords="831,5,973,46"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="763,23,816,23,816,28,763,28"/>
+<area shape="rect" id="Node000008" href="$d9/dcc/classnlohmann_1_1basic__json.html#a476756fb08e7f2416aad116d137977f4" title="serialization" alt="" coords="419,112,566,153"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="331,208,417,163,430,157,432,162,419,168,334,212"/>
+<area shape="rect" id="Node000009" href="$d7/daf/class_slic3r_1_1_network_agent.html#adf872f1763a697f3f882854d3c5a1324" title=" " alt="" coords="420,177,565,218"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="368,216,405,210,406,215,369,221"/>
+<area shape="rect" id="Node000010" href="$dc/d24/class_slic3r_1_1_machine_object.html#ade0d002135681d1324249eda765ddac3" title=" " alt="" coords="418,243,567,283"/>
+<area shape="poly" id="edge9_Node000007_Node000010" title=" " alt="" coords="369,240,404,246,403,251,368,246"/>
+<area shape="rect" id="Node000016" href="$d7/daf/class_slic3r_1_1_network_agent.html#a91a2ef99b273ad7c180541158d965320" title=" " alt="" coords="420,308,565,349"/>
+<area shape="poly" id="edge15_Node000007_Node000016" title=" " alt="" coords="335,250,419,293,432,299,430,304,417,297,333,254"/>
+<area shape="rect" id="Node000011" href="$dc/d24/class_slic3r_1_1_machine_object.html#ae1afb548f6934d4fba8f6840c9bd485b" title=" " alt="" coords="615,177,765,218"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="555,240,612,221,614,226,557,245"/>
+<area shape="rect" id="Node000013" href="$dc/d24/class_slic3r_1_1_machine_object.html#aba1eee500ff3251d244a2cbec8e93fae" title=" " alt="" coords="615,243,765,283"/>
+<area shape="poly" id="edge12_Node000010_Node000013" title=" " alt="" coords="568,260,601,260,601,266,568,266"/>
+<area shape="rect" id="Node000014" href="$dc/d24/class_slic3r_1_1_machine_object.html#a097b9f2ab8ef7b440a536f56bdafcdcb" title=" " alt="" coords="615,308,765,349"/>
+<area shape="poly" id="edge13_Node000010_Node000014" title=" " alt="" coords="557,281,614,300,612,305,555,286"/>
+<area shape="rect" id="Node000012" href="$d7/daf/class_slic3r_1_1_network_agent.html#a55a0161b96c9ea5d6f82dbd027fbf117" title=" " alt="" coords="829,177,975,218"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="765,195,815,195,815,200,765,200"/>
+<area shape="rect" id="Node000015" href="$d7/daf/class_slic3r_1_1_network_agent.html#aabd2d34e09722a876409e5ac43e2ff5c" title=" " alt="" coords="813,308,991,349"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="765,326,798,326,798,331,765,331"/>
+<area shape="rect" id="Node000018" href="$de/db8/namespace_slic3r.html#a9cee7b60f26f304ff21ca61b33e11b8d" title=" " alt="" coords="420,373,566,399"/>
+<area shape="poly" id="edge17_Node000017_Node000018" title=" " alt="" coords="336,331,438,365,436,370,334,336"/>
+</map>

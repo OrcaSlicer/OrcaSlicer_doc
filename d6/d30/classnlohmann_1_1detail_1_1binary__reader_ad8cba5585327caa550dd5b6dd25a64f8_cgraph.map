@@ -1,0 +1,28 @@
+<map id="nlohmann::detail::binary_reader::get_msgpack_string" name="nlohmann::detail::binary_reader::get_msgpack_string">
+<area shape="rect" id="Node000001" title="reads a MessagePack string" alt="" coords="5,151,195,191"/>
+<area shape="rect" id="Node000002" href="$d5/d1a/classnlohmann_1_1detail_1_1parse__error.html#ae77bd584cb9101140790219af7fec1ce" title="create a parse error exception" alt="" coords="682,71,839,111"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="124,148,175,111,208,94,242,80,298,67,355,59,470,54,578,60,668,71,667,77,577,65,470,60,355,65,299,73,243,86,210,98,178,116,127,152"/>
+<area shape="rect" id="Node000006" href="$d6/d30/classnlohmann_1_1detail_1_1binary__reader.html#a9c413c9a1bade1ce345740f4d69156f0" title=" " alt="" coords="666,164,855,205"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="137,189,186,214,243,232,347,251,430,256,513,249,618,232,660,222,700,208,702,213,661,227,619,238,514,255,430,262,347,257,242,238,184,218,135,194"/>
+<area shape="rect" id="Node000007" href="$d6/d30/classnlohmann_1_1detail_1_1binary__reader.html#ac356c6364fe0273d3303fb7a447f4ef6" title=" " alt="" coords="247,117,407,158"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="195,154,232,149,233,154,195,160"/>
+<area shape="rect" id="Node000009" href="$d6/d30/classnlohmann_1_1detail_1_1binary__reader.html#a61a0bd8bbe7b560bd429fa990ba3ba1a" title=" " alt="" coords="459,117,618,158"/>
+<area shape="poly" id="edge15_Node000001_Node000009" title=" " alt="" coords="134,148,184,123,242,103,289,95,326,94,411,103,454,111,453,116,411,108,326,99,290,100,243,108,186,128,136,153"/>
+<area shape="rect" id="Node000010" href="$d6/d30/classnlohmann_1_1detail_1_1binary__reader.html#a540919db22df36512f05a88945c13263" title="create a string by reading characters from the input" alt="" coords="247,183,407,223"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="195,182,233,187,232,192,195,187"/>
+<area shape="rect" id="Node000011" href="$d6/d30/classnlohmann_1_1detail_1_1binary__reader.html#a7d323283c60a0b89ee5eeadf5cb9a5ad" title=" " alt="" coords="243,297,411,338"/>
+<area shape="poly" id="edge14_Node000001_Node000011" title=" " alt="" coords="127,190,179,232,244,277,265,288,262,293,241,281,176,236,124,194"/>
+<area shape="rect" id="Node000003" href="$de/df2/classnlohmann_1_1detail_1_1exception.html#aa353a7dba4fd179f7224b8a2a238a264" title=" " alt="" coords="903,5,1083,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="834,68,903,48,905,53,836,73"/>
+<area shape="rect" id="Node000004" href="$de/df2/classnlohmann_1_1detail_1_1exception.html#abf41a7e9178356314082284e6cfea278" title=" " alt="" coords="903,71,1083,111"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="839,88,888,88,888,94,839,94"/>
+<area shape="rect" id="Node000005" href="$d5/d1a/classnlohmann_1_1detail_1_1parse__error.html#aefe74adeaa48781464ba2fd2ec63d221" title=" " alt="" coords="915,136,1071,177"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="836,109,905,129,903,134,834,114"/>
+<area shape="rect" id="Node000008" href="$d6/d30/classnlohmann_1_1detail_1_1binary__reader.html#ad222095c0b21a87824cb10629299629a" title="get next character from the input" alt="" coords="459,183,618,223"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="396,156,457,175,456,180,394,161"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="407,135,444,135,444,140,407,140"/>
+<area shape="poly" id="edge9_Node000009_Node000002" title=" " alt="" coords="618,118,667,108,668,113,619,124"/>
+<area shape="poly" id="edge10_Node000009_Node000006" title=" " alt="" coords="619,152,652,159,651,164,618,157"/>
+<area shape="poly" id="edge12_Node000010_Node000008" title=" " alt="" coords="407,200,444,200,444,206,407,206"/>
+<area shape="poly" id="edge13_Node000010_Node000009" title=" " alt="" coords="394,180,456,160,457,166,396,185"/>
+</map>

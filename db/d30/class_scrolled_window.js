@@ -1,0 +1,26 @@
+var class_scrolled_window =
+[
+    [ "ScrolledWindow", "db/d30/class_scrolled_window.html#ad5e09fd788c6b4f20535cfa59a044638", null ],
+    [ "GetPanel", "db/d30/class_scrolled_window.html#a6543360502d5b58fb779513d0ebf1a96", null ],
+    [ "IsBothDirections", "db/d30/class_scrolled_window.html#a25f58f73c618bca18b537eecc70ae792", null ],
+    [ "OnMouseWheel", "db/d30/class_scrolled_window.html#a8b162b4b5c8bcbb60c9a02ecde91e939", null ],
+    [ "OnScroll", "db/d30/class_scrolled_window.html#a3aabf46ec4ce473ca0fd1d548a079270", null ],
+    [ "OnSize", "db/d30/class_scrolled_window.html#acadd9ee7738989d3980a96442958aeab", null ],
+    [ "Refresh", "db/d30/class_scrolled_window.html#aaa6b2c26d73c3c6df27c0308741f6ffb", null ],
+    [ "SetBackgroundColour", "db/d30/class_scrolled_window.html#a5e04be0e0ecc8bdfe97a4be0fb3e58af", null ],
+    [ "SetMarginColor", "db/d30/class_scrolled_window.html#a419809e06a9a86cc90a37bc176ae0c56", null ],
+    [ "SetScrollbarColor", "db/d30/class_scrolled_window.html#a457055f2512d8142bc1f06349e3e2c55", null ],
+    [ "SetScrollbars", "db/d30/class_scrolled_window.html#ac1190be42cdf5f3f57edb6d313307799", null ],
+    [ "SetScrollbarTip", "db/d30/class_scrolled_window.html#abe33dc1f814830cced0d438b772c957e", null ],
+    [ "SetTipColor", "db/d30/class_scrolled_window.html#a01bd869b0748c37b0c36f115133f0359", null ],
+    [ "SetVirtualSize", "db/d30/class_scrolled_window.html#a32631aace2db33135a8bfc5bb4400499", null ],
+    [ "SetVirtualSize", "db/d30/class_scrolled_window.html#a78e635523ef29477720b9c17db3128d2", null ],
+    [ "m_bothDirections", "db/d30/class_scrolled_window.html#ad45476c20570964dbc7196a394dc1076", null ],
+    [ "m_bottomScrollbar", "db/d30/class_scrolled_window.html#ab3a5cdf4cd2535242699f645acc0b00c", null ],
+    [ "m_horizontalSplitter", "db/d30/class_scrolled_window.html#ae1e37441c6bcdc67bc7d8dcebd89f8c4", null ],
+    [ "m_marginWidth", "db/d30/class_scrolled_window.html#ab6d685226ae0feb9213b79f511acefc6", null ],
+    [ "m_rightScrollbar", "db/d30/class_scrolled_window.html#a3d1e375c451b74eae1101deb24265b30", null ],
+    [ "m_scroll_win", "db/d30/class_scrolled_window.html#a9fd2d7b7c84a051600be8a00213a3bbf", null ],
+    [ "m_userPanel", "db/d30/class_scrolled_window.html#a34af97a1658b3e2887bfd66f4f76fd8b", null ],
+    [ "m_verticalSplitter", "db/d30/class_scrolled_window.html#aa3b8fa814f76ac94dd86987ff6f22ebe", null ]
+];

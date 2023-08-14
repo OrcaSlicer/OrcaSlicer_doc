@@ -1,0 +1,32 @@
+<map id="cdt::triangulator_t::insert_point_on_edge" name="cdt::triangulator_t::insert_point_on_edge">
+<area shape="rect" id="Node000001" title="Returns indices of four resulting triangles." alt="" coords="5,272,158,313"/>
+<area shape="rect" id="Node000002" href="$d4/dc7/group___a_p_i.html#ae209212e8db497c3cacf0653435b3c4b" title=" " alt="" coords="217,5,372,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="86,271,100,227,124,170,158,110,180,82,204,57,210,52,213,56,207,61,184,85,163,113,129,172,105,229,91,272"/>
+<area shape="rect" id="Node000003" href="$d4/dc7/group___a_p_i.html#a14cb4872f71c8708fd81aeb8d928d6ad" title=" " alt="" coords="213,71,376,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="91,270,134,199,166,158,204,122,212,117,215,121,207,126,170,162,138,202,95,273"/>
+<area shape="rect" id="Node000004" href="$d4/dc7/group___a_p_i.html#aeaa6d885abecfdbf28161f982ba0b684" title=" " alt="" coords="233,136,356,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="101,269,146,228,204,186,218,179,220,184,207,191,150,232,105,273"/>
+<area shape="rect" id="Node000007" href="$dd/d2c/namespacecdt_1_1detail.html#aeff6076f8ec661d4be027943ba4cb132" title="Needed for c++03 compatibility (no uniform initialization available)" alt="" coords="240,201,349,227"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="124,269,205,235,225,228,227,234,207,240,126,274"/>
+<area shape="rect" id="Node000008" href="$d0/d5a/namespacecdt.html#a078d6877bcebba769d78d16d7a437b57" title="Advance vertex or neighbor index counter&#45;clockwise." alt="" coords="259,250,330,276"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="158,279,244,267,244,272,158,284"/>
+<area shape="rect" id="Node000009" href="$d4/dc7/group___a_p_i.html#a8a632518e1186d72ca1eb26461f0e18a" title=" " alt="" coords="227,300,362,341"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="158,300,213,307,212,312,158,305"/>
+<area shape="rect" id="Node000011" href="$d0/d5a/namespacecdt.html#a23bbc36240e89a98d3983a90cb0ea135" title="Advance vertex or neighbor index clockwise." alt="" coords="262,365,327,391"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="122,311,207,350,249,364,247,369,205,355,120,316"/>
+<area shape="rect" id="Node000012" href="$d0/d5a/namespacecdt.html#ad3e13196dbbc2d6fab1560de32ad6931" title="Index of triangle&#39;s vertex opposed to a triangle." alt="" coords="212,415,377,455"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="103,311,148,356,207,401,215,405,213,410,204,405,145,360,99,315"/>
+<area shape="rect" id="Node000014" href="$d5/d5e/structcdt_1_1triangle__t.html#aa165b3c727219d120c76d19a6fe6afd0" title=" " alt="" coords="224,480,365,505"/>
+<area shape="poly" id="edge14_Node000001_Node000014" title=" " alt="" coords="94,312,111,346,136,387,168,429,207,465,216,471,214,475,204,469,164,433,131,390,106,348,89,314"/>
+<area shape="rect" id="Node000015" href="$d4/dc7/group___a_p_i.html#a3d78ba3b1780e468b91e3e954d9f33d1" title=" " alt="" coords="206,529,383,570"/>
+<area shape="poly" id="edge15_Node000001_Node000015" title=" " alt="" coords="91,312,106,355,130,409,163,466,184,492,207,516,212,519,208,523,204,520,180,496,159,469,125,412,101,357,86,314"/>
+<area shape="rect" id="Node000005" href="$d0/d5a/namespacecdt.html#aabc0c7d96947ba23de03650c2c21f113" title="Constant representing no valid neighbor for a triangle." alt="" coords="436,221,566,247"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="354,175,384,186,453,213,451,217,382,191,352,180"/>
+<area shape="rect" id="Node000006" href="$d0/d5a/namespacecdt.html#a86f26f19ffe0d83af85a76c6e076bb1a" title="Constant representing no valid vertex for a triangle." alt="" coords="446,144,556,169"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="356,154,430,154,430,159,356,159"/>
+<area shape="poly" id="edge10_Node000009_Node000005" title=" " alt="" coords="354,297,382,286,458,251,460,256,384,291,356,302"/>
+<area shape="rect" id="Node000010" href="$d0/d5a/namespacecdt.html#a4110a13846bdfbee1bec0d783d139ea1" title="If triangle has a given neighbor return neighbor&#45;index, throw otherwise." alt="" coords="437,300,565,341"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="362,318,422,318,422,323,362,323"/>
+<area shape="rect" id="Node000013" href="$d0/d5a/namespacecdt.html#a106f4285b3780759a623c514a2f99c21" title="Opposed vertex index from neighbor index." alt="" coords="431,415,570,455"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="377,432,416,432,416,438,377,438"/>
+</map>

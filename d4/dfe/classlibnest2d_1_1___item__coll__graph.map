@@ -1,0 +1,27 @@
+<map id="libnest2d::_Item&lt; RawShape &gt;" name="libnest2d::_Item&lt; RawShape &gt;">
+<area shape="rect" id="Node000001" title="An item to be placed on a bin." alt="" coords="1076,95,1278,120"/>
+<area shape="rect" id="Node000002" href="$da/d33/classlibnest2d_1_1_radians.html" title="Data type representing radians. It supports conversion to degrees." alt="" coords="797,5,927,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="930,33,1053,66,1135,91,1133,97,1051,71,929,38"/>
+<area shape="rect" id="Node000003" href="$de/d35/classlibnest2d_1_1_double.html" title="Only for the Radian and Degrees classes to behave as doubles." alt="" coords="529,5,651,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="666,16,797,16,797,21,666,21"/>
+<area shape="rect" id="Node000004" href="$dd/d06/structlibnest2d_1_1___item_1_1_b_b_cache.html" title=" " alt="" coords="767,55,957,96"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="972,84,1076,95,1076,100,971,89"/>
+<area shape="rect" id="Node000005" href="$dd/d1a/classlibnest2d_1_1___box.html" title=" " alt="" coords="503,63,677,88"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="692,73,766,73,766,78,692,78"/>
+<area shape="rect" id="Node000006" href="$d1/d15/structlibnest2d_1_1_point_pair.html" title="A point pair base class for other point pairs (segment, box, ...)." alt="" coords="222,16,389,42"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="405,42,480,54,511,59,510,65,479,59,404,47"/>
+<area shape="rect" id="Node000007" href="$dd/d1a/classlibnest2d_1_1___box.html" title="An abstraction of a box;." alt="" coords="234,65,378,91"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="393,75,503,74,503,79,393,80"/>
+<area shape="rect" id="Node000008" href="$d1/d15/structlibnest2d_1_1_point_pair.html" title="A point pair base class for other point pairs (segment, box, ...)." alt="" coords="5,65,173,91"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="188,76,233,76,233,81,188,81"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="801,120,923,146"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="937,128,1052,121,1079,118,1080,124,1052,126,937,133"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="532,116,648,142"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="662,127,801,129,801,135,662,133"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="286,116,325,142"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="340,126,532,126,532,132,340,132"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="822,171,902,196"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="916,173,981,162,1051,147,1140,118,1141,123,1053,152,982,167,917,179"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="527,166,653,207"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="667,183,821,181,822,187,668,188"/>
+</map>

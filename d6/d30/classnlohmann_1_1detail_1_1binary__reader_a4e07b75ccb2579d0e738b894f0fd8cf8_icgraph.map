@@ -1,0 +1,51 @@
+<map id="nlohmann::detail::binary_reader::parse_bson_element_list" name="nlohmann::detail::binary_reader::parse_bson_element_list">
+<area shape="rect" id="Node000001" title="Read a BSON element list (as specified in the BSON&#45;spec)" alt="" coords="873,399,1089,439"/>
+<area shape="rect" id="Node000002" href="$d6/d30/classnlohmann_1_1detail_1_1binary__reader.html#a23eb89a222e22533e9fd43e76722f44f" title="Reads an array from the BSON input and passes it to the SAX&#45;parser." alt="" coords="643,341,818,382"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="874,397,818,384,819,379,875,392"/>
+<area shape="rect" id="Node000004" href="$d6/d30/classnlohmann_1_1detail_1_1binary__reader.html#abf2051ba57d9ea9b378a2e7c14e22b34" title="Reads in a BSON&#45;object and passes it to the SAX&#45;parser." alt="" coords="636,456,825,497"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="876,446,823,458,822,453,875,441"/>
+<area shape="rect" id="Node000003" href="$d6/d30/classnlohmann_1_1detail_1_1binary__reader.html#a23bde2450d7a5772bf5051e36ff560a4" title="Read a BSON document element of the given element_type." alt="" coords="396,383,588,439"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="629,385,589,394,588,388,628,380"/>
+<area shape="poly" id="edge3_Node000003_Node000001" title=" " alt="" coords="603,410,872,415,872,420,603,415"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="639,454,588,440,589,435,641,449"/>
+<area shape="rect" id="Node000005" href="$d6/d30/classnlohmann_1_1detail_1_1binary__reader.html#ab4afd9ee276bbb15a0f898061aad94dd" title=" " alt="" coords="413,463,572,503"/>
+<area shape="poly" id="edge6_Node000004_Node000005" title=" " alt="" coords="621,482,573,483,572,478,621,477"/>
+<area shape="rect" id="Node000006" href="$d9/dcc/classnlohmann_1_1basic__json.html#a2afe89884edf72412a0624982324755d" title=" " alt="" coords="201,5,348,46"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="399,458,394,453,376,427,364,402,357,377,354,352,357,304,367,257,377,209,381,161,379,137,373,112,362,87,346,61,333,48,337,45,350,57,367,84,378,110,384,136,386,161,382,210,372,258,362,305,359,352,362,376,369,400,381,424,398,449,402,454"/>
+<area shape="rect" id="Node000007" href="$d9/dcc/classnlohmann_1_1basic__json.html#a4e02793f2691aa29ab7cb69fddafbf5c" title="Create a JSON value from an input in BSON format." alt="" coords="201,71,348,111"/>
+<area shape="poly" id="edge8_Node000005_Node000007" title=" " alt="" coords="399,458,394,453,379,431,368,410,359,369,360,329,367,289,374,249,377,209,369,168,346,126,333,114,337,110,350,123,374,167,382,209,380,250,372,290,365,329,364,369,373,409,383,429,398,449,402,454"/>
+<area shape="rect" id="Node000009" href="$d9/dcc/classnlohmann_1_1basic__json.html#a4118d0ec23d9eeafc236b9524d220e94" title="Create a JSON value from an input in BSON format." alt="" coords="201,136,348,177"/>
+<area shape="poly" id="edge10_Node000005_Node000009" title=" " alt="" coords="399,458,394,453,372,419,363,386,363,353,368,321,372,290,373,258,365,225,346,191,333,179,336,175,350,188,370,223,378,257,377,290,373,322,369,354,369,385,377,417,398,449,402,454"/>
+<area shape="rect" id="Node000010" href="$d9/dcc/classnlohmann_1_1basic__json.html#a4a67e47f4bcde55214475f47f8314c1f" title=" " alt="" coords="201,201,348,242"/>
+<area shape="poly" id="edge11_Node000005_Node000010" title=" " alt="" coords="399,457,394,453,376,428,368,403,367,378,368,354,368,306,362,282,346,257,332,244,336,241,350,253,366,279,374,305,373,354,372,378,374,402,381,425,398,449,403,454"/>
+<area shape="rect" id="Node000011" href="$d9/dcc/classnlohmann_1_1basic__json.html#a44dd5635fb2da4710f6cd6e42b72773f" title="create a JSON value from an input in CBOR format" alt="" coords="201,267,348,307"/>
+<area shape="poly" id="edge12_Node000005_Node000011" title=" " alt="" coords="398,457,394,453,381,436,373,420,368,387,364,355,358,339,346,322,331,310,334,306,350,319,363,336,370,353,374,386,378,418,385,433,398,449,402,453"/>
+<area shape="rect" id="Node000013" href="$d9/dcc/classnlohmann_1_1basic__json.html#aba4f6fc79cc405fb212ea3d992334e71" title="create a JSON value from an input in CBOR format" alt="" coords="201,332,348,373"/>
+<area shape="poly" id="edge14_Node000005_Node000013" title=" " alt="" coords="401,457,394,453,378,437,369,420,361,404,346,388,328,375,331,371,350,384,365,401,374,418,382,433,398,449,404,453"/>
+<area shape="rect" id="Node000014" href="$d9/dcc/classnlohmann_1_1basic__json.html#a84b3d89de8e774a2609dc4c0a1273f62" title=" " alt="" coords="201,397,348,438"/>
+<area shape="poly" id="edge15_Node000005_Node000014" title=" " alt="" coords="408,461,344,441,346,436,409,455"/>
+<area shape="rect" id="Node000015" href="$d9/dcc/classnlohmann_1_1basic__json.html#adbcab52fca1e25b3311ef14e71a57590" title="create a JSON value from an input in MessagePack format" alt="" coords="201,463,348,503"/>
+<area shape="poly" id="edge16_Node000005_Node000015" title=" " alt="" coords="398,486,348,486,348,480,398,480"/>
+<area shape="rect" id="Node000017" href="$d9/dcc/classnlohmann_1_1basic__json.html#a94dbeb08bcd13821512957dcbf3f00bd" title="create a JSON value from an input in MessagePack format" alt="" coords="201,528,348,569"/>
+<area shape="poly" id="edge18_Node000005_Node000017" title=" " alt="" coords="409,511,346,530,344,525,408,505"/>
+<area shape="rect" id="Node000018" href="$d9/dcc/classnlohmann_1_1basic__json.html#a47201396899371881a46562bffb922da" title=" " alt="" coords="201,593,348,634"/>
+<area shape="poly" id="edge19_Node000005_Node000018" title=" " alt="" coords="453,515,404,548,349,583,325,595,323,590,347,578,401,544,450,510"/>
+<area shape="rect" id="Node000019" href="$d9/dcc/classnlohmann_1_1basic__json.html#aa81f62db69978b90ff701f05c72e03a7" title="create a JSON value from an input in UBJSON format" alt="" coords="201,659,348,699"/>
+<area shape="poly" id="edge20_Node000005_Node000019" title=" " alt="" coords="471,517,420,581,386,616,350,648,330,660,327,656,346,644,383,613,416,578,467,513"/>
+<area shape="rect" id="Node000021" href="$d9/dcc/classnlohmann_1_1basic__json.html#a9dbb422350fed520ce8c1ca8762c0251" title="create a JSON value from an input in UBJSON format" alt="" coords="201,724,348,765"/>
+<area shape="poly" id="edge22_Node000005_Node000021" title=" " alt="" coords="480,518,459,561,431,613,394,666,350,713,332,726,329,721,346,709,390,662,426,610,455,558,475,515"/>
+<area shape="rect" id="Node000022" href="$d9/dcc/classnlohmann_1_1basic__json.html#aef9ef0a817ecde8bf270653e8706c150" title=" " alt="" coords="201,789,348,830"/>
+<area shape="poly" id="edge23_Node000005_Node000022" title=" " alt="" coords="485,519,468,574,440,643,401,714,377,748,350,778,333,791,330,787,346,774,373,745,397,711,435,640,462,572,480,517"/>
+<area shape="rect" id="Node000023" href="$d9/dcc/classnlohmann_1_1basic__json.html#a12b382c6407da5543827ce4b24bb5008" title="generate SAX events" alt="" coords="201,855,348,895"/>
+<area shape="poly" id="edge24_Node000005_Node000023" title=" " alt="" coords="488,519,474,585,449,671,430,717,408,762,381,805,350,844,334,856,331,852,346,840,377,802,404,760,426,715,444,670,469,584,483,517"/>
+<area shape="rect" id="Node000024" href="$d9/dcc/classnlohmann_1_1basic__json.html#ab62241c2694a054818edf2f66d72f113" title=" " alt="" coords="201,920,348,961"/>
+<area shape="poly" id="edge25_Node000005_Node000024" title=" " alt="" coords="491,519,480,597,457,700,439,755,415,810,386,862,350,909,335,921,332,917,346,905,381,859,410,807,434,753,452,698,475,596,486,518"/>
+<area shape="rect" id="Node000008" href="$d9/dcc/classnlohmann_1_1basic__json.html#ae2612581e4788ddffc2f45d5e4cc04fc" title=" " alt="" coords="5,71,153,111"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="186,94,153,94,153,88,186,88"/>
+<area shape="rect" id="Node000012" href="$d9/dcc/classnlohmann_1_1basic__json.html#a188755c8cda27e2afb03c016c14125d8" title=" " alt="" coords="5,267,153,307"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="186,290,153,290,153,284,186,284"/>
+<area shape="rect" id="Node000016" href="$d9/dcc/classnlohmann_1_1basic__json.html#a0d69d3102639759d5202a6f764760d23" title=" " alt="" coords="5,463,153,503"/>
+<area shape="poly" id="edge17_Node000015_Node000016" title=" " alt="" coords="186,486,153,486,153,480,186,480"/>
+<area shape="rect" id="Node000020" href="$d9/dcc/classnlohmann_1_1basic__json.html#ab6eeda23c34cee79d8d72f1a8691a8de" title=" " alt="" coords="5,659,153,699"/>
+<area shape="poly" id="edge21_Node000019_Node000020" title=" " alt="" coords="186,682,153,682,153,676,186,676"/>
+</map>

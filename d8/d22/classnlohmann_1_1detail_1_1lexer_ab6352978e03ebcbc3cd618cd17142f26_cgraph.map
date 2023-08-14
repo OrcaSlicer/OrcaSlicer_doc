@@ -1,0 +1,16 @@
+<map id="nlohmann::detail::lexer::scan_string" name="nlohmann::detail::lexer::scan_string">
+<area shape="rect" id="Node000001" title="scan a string literal" alt="" coords="5,91,158,132"/>
+<area shape="rect" id="Node000002" href="$d8/d22/classnlohmann_1_1detail_1_1lexer.html#a36ffc3c33c3aea18291ead7a30fa7cc6" title="add a character to token_buffer" alt="" coords="406,14,587,39"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,89,146,51,174,33,205,20,257,8,310,3,363,4,410,8,410,14,362,9,311,9,258,13,207,25,177,38,149,56,104,93"/>
+<area shape="rect" id="Node000003" href="$d8/d22/classnlohmann_1_1detail_1_1lexer.html#a9cd3e4cf04d19be521beb8868c1a2fc9" title=" " alt="" coords="408,99,586,125"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="158,109,393,109,393,114,158,114"/>
+<area shape="rect" id="Node000004" href="$d8/d22/classnlohmann_1_1detail_1_1lexer.html#adcf663a9878f58544790f1b6faad2e42" title="get codepoint from 4 hex characters following \u" alt="" coords="206,149,358,189"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="155,130,195,142,194,147,154,135"/>
+<area shape="rect" id="Node000005" href="$d8/d22/classnlohmann_1_1detail_1_1lexer.html#af6fe701b8b3ca5f4a1b58db4658bdf87" title="check if the next byte(s) are inside a given range" alt="" coords="206,34,358,75"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="154,88,194,77,195,82,155,93"/>
+<area shape="rect" id="Node000006" href="$d8/d22/classnlohmann_1_1detail_1_1lexer.html#a3bda093837339813916d11fb6e396606" title="reset token_buffer; current character is beginning of token" alt="" coords="206,214,358,255"/>
+<area shape="poly" id="edge8_Node000001_Node000006" title=" " alt="" coords="110,130,154,164,207,199,218,205,216,209,204,203,151,168,107,135"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="358,146,431,126,432,131,359,151"/>
+<area shape="poly" id="edge6_Node000005_Node000002" title=" " alt="" coords="358,42,391,37,392,43,359,47"/>
+<area shape="poly" id="edge7_Node000005_Node000003" title=" " alt="" coords="359,72,432,92,431,97,358,77"/>
+</map>

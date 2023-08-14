@@ -1,0 +1,45 @@
+<map id="hid_open" name="hid_open">
+<area shape="rect" id="Node000001" title="Open a HID device using a Vendor ID (VID), Product ID (PID) and optionally a serial number." alt="" coords="5,255,79,280"/>
+<area shape="rect" id="Node000002" href="$d4/dc7/group___a_p_i.html#gaae7d1c3e90835556ddc73fabe3a9ca9d" title="Enumerate the HID Devices." alt="" coords="146,132,253,158"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="58,252,168,165,171,169,62,256"/>
+<area shape="rect" id="Node000013" href="$d4/dc7/group___a_p_i.html#gafc2d2adf71db3784b783b9a554527aa4" title="Free an enumeration Linked List." alt="" coords="127,304,272,330"/>
+<area shape="poly" id="edge14_Node000001_Node000013" title=" " alt="" coords="80,276,143,297,142,302,78,281"/>
+<area shape="rect" id="Node000014" href="$d4/dc7/group___a_p_i.html#ga954ecb58b5dfb4a6ef6be3dcd520e42f" title="Open a HID device by its path name." alt="" coords="147,255,252,280"/>
+<area shape="poly" id="edge15_Node000001_Node000014" title=" " alt="" coords="79,265,132,265,132,270,79,270"/>
+<area shape="rect" id="Node000003" href="$da/db5/linux_2hid_8c.html#a9901a71720e5ef8b3a6d1a870a5cf280" title=" " alt="" coords="339,5,462,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="213,129,258,90,319,48,345,35,348,39,321,52,262,95,216,133"/>
+<area shape="rect" id="Node000004" href="$da/db5/linux_2hid_8c.html#a1f0ac1c278c86d20eba750083a16d31c" title=" " alt="" coords="550,31,664,56"/>
+<area shape="poly" id="edge13_Node000002_Node000004" title=" " alt="" coords="226,129,269,110,319,92,432,65,535,49,536,54,433,70,321,97,271,115,229,134"/>
+<area shape="rect" id="Node000005" href="$d4/dc7/group___a_p_i.html#ga142ffc1b0b7a7fa412d3862b2a17164b" title="Initialize the HIDAPI library." alt="" coords="369,205,431,231"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="232,156,321,192,356,203,354,208,319,197,230,161"/>
+<area shape="rect" id="Node000011" href="$da/de4/win_2hid_8c.html#a9a39aaa5bbfea331a279c9360da70173" title=" " alt="" coords="353,156,447,182"/>
+<area shape="poly" id="edge11_Node000002_Node000011" title=" " alt="" coords="253,148,339,159,338,164,252,154"/>
+<area shape="rect" id="Node000012" href="$da/db5/linux_2hid_8c.html#a8b3fe1938cddd3dd9947b840148e08a5" title=" " alt="" coords="337,107,464,132"/>
+<area shape="poly" id="edge12_Node000002_Node000012" title=" " alt="" coords="252,136,322,127,322,132,253,141"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="463,23,535,32,535,37,462,28"/>
+<area shape="rect" id="Node000006" href="$da/db5/linux_2hid_8c.html#a7f3365370fce5357b484e76aa28cc490" title=" " alt="" coords="533,156,681,182"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="431,208,536,183,537,188,432,213"/>
+<area shape="rect" id="Node000007" href="$d4/dc7/group___a_p_i.html#gacf5da9ce37132eba69fc259f17f13023" title="Finalize the HIDAPI library." alt="" coords="574,255,640,280"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="432,223,560,254,559,259,431,228"/>
+<area shape="rect" id="Node000009" href="$da/db5/linux_2hid_8c.html#aa48e7f0bf6fd79773e8ed25f5c5db785" title=" " alt="" coords="532,205,682,231"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="432,216,517,216,517,221,432,221"/>
+<area shape="rect" id="Node000010" href="$da/de4/win_2hid_8c.html#ae0d5480f64f03d303c37275d00980af0" title=" " alt="" coords="547,107,667,132"/>
+<area shape="poly" id="edge10_Node000005_Node000010" title=" " alt="" coords="431,210,455,203,479,192,493,180,502,167,511,154,527,141,536,136,538,141,530,146,515,158,507,170,497,183,482,196,457,208,433,215"/>
+<area shape="rect" id="Node000008" href="$da/db5/linux_2hid_8c.html#a378361880a18df954a4088010b774958" title=" " alt="" coords="734,231,898,256"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="640,261,719,252,719,257,641,266"/>
+<area shape="poly" id="edge9_Node000009_Node000008" title=" " alt="" coords="683,225,719,229,719,234,682,230"/>
+<area shape="poly" id="edge18_Node000014_Node000005" title=" " alt="" coords="252,252,354,227,355,232,253,257"/>
+<area shape="poly" id="edge21_Node000014_Node000011" title=" " alt="" coords="217,252,262,222,319,190,338,183,340,188,321,195,265,226,220,256"/>
+<area shape="rect" id="Node000015" href="$d1/de6/mac_2hid_8c.html#aefd22d7d071bbdc5f02ba4fae2e2e84c" title=" " alt="" coords="344,403,456,428"/>
+<area shape="poly" id="edge16_Node000014_Node000015" title=" " alt="" coords="254,277,274,289,285,302,292,315,298,341,304,366,311,378,322,389,332,397,329,401,318,394,307,381,299,368,293,342,287,317,281,305,270,294,251,282"/>
+<area shape="rect" id="Node000017" href="$d1/de6/mac_2hid_8c.html#a644a99978ab65f7759fb1e8774a9f4fc" title=" " alt="" coords="343,255,457,280"/>
+<area shape="poly" id="edge19_Node000014_Node000017" title=" " alt="" coords="252,265,328,265,328,270,252,270"/>
+<area shape="rect" id="Node000019" href="$da/de4/win_2hid_8c.html#a9c79ade7b74461d062148f08055780a7" title=" " alt="" coords="352,304,449,330"/>
+<area shape="poly" id="edge22_Node000014_Node000019" title=" " alt="" coords="253,278,337,299,336,304,252,283"/>
+<area shape="rect" id="Node000020" href="$da/db5/linux_2hid_8c.html#aa8367d23a06060a60fde2dc6d9852f47" title=" " alt="" coords="320,353,480,379"/>
+<area shape="poly" id="edge23_Node000014_Node000020" title=" " alt="" coords="252,279,273,289,289,302,298,315,307,328,322,340,330,345,327,349,318,344,303,332,294,319,285,306,271,294,250,283"/>
+<area shape="rect" id="Node000016" href="$d1/de6/mac_2hid_8c.html#aecdba5bd917f01a5b7fc1934b6507adc" title=" " alt="" coords="528,403,686,428"/>
+<area shape="poly" id="edge17_Node000015_Node000016" title=" " alt="" coords="457,413,513,413,513,418,457,418"/>
+<area shape="rect" id="Node000018" href="$d1/de6/mac_2hid_8c.html#a9a83ea555e8b09d5988a00804ae53e47" title=" " alt="" coords="541,304,673,330"/>
+<area shape="poly" id="edge20_Node000017_Node000018" title=" " alt="" coords="458,278,537,297,535,303,457,284"/>
+</map>

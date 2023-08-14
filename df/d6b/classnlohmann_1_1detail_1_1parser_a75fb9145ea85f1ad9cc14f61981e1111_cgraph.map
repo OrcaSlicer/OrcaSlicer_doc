@@ -1,0 +1,97 @@
+<map id="nlohmann::detail::parser::parse" name="nlohmann::detail::parser::parse">
+<area shape="rect" id="Node000001" title="public parser interface" alt="" coords="5,371,166,411"/>
+<area shape="rect" id="Node000002" href="$d5/d1a/classnlohmann_1_1detail_1_1parse__error.html#ae77bd584cb9101140790219af7fec1ce" title="create a parse error exception" alt="" coords="461,157,617,198"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,368,149,321,179,296,212,274,270,246,331,223,446,192,447,197,333,228,272,251,215,279,183,300,153,325,106,372"/>
+<area shape="rect" id="Node000006" href="$df/d6b/classnlohmann_1_1detail_1_1parser.html#a94e7f8a0f880c20c8a48f591f56cbd85" title=" " alt="" coords="459,92,619,133"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="95,369,139,296,173,255,212,220,268,186,328,160,388,140,443,126,445,131,389,145,330,165,270,191,215,224,176,259,144,299,99,371"/>
+<area shape="rect" id="Node000008" href="$d8/d22/classnlohmann_1_1detail_1_1lexer.html#ae000b7571480e528dee4b281f63d5b15" title="return the last read token (for errors only). Will never contain EOF (an arbitrary value that is not ..." alt="" coords="681,5,834,46"/>
+<area shape="poly" id="edge40_Node000001_Node000008" title=" " alt="" coords="91,369,107,327,133,272,168,213,212,160,271,108,324,76,382,54,458,34,511,23,566,18,667,16,667,22,566,23,512,28,460,39,384,59,326,81,274,113,216,164,172,216,138,274,112,329,96,371"/>
+<area shape="rect" id="Node000010" href="$d8/d22/classnlohmann_1_1detail_1_1lexer.html#a948c80b8bd8a3095b544e4655e1ca37e" title="return position of last read token" alt="" coords="463,549,615,590"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="162,367,221,358,286,356,320,359,353,367,384,378,413,396,429,411,437,428,441,463,443,499,449,517,461,535,465,538,461,542,457,538,444,519,438,500,435,464,432,430,424,414,409,400,381,383,351,372,319,365,286,361,221,363,162,373"/>
+<area shape="rect" id="Node000011" href="$df/d6b/classnlohmann_1_1detail_1_1parser.html#a1212088ee1e23633a76b2ed80514de79" title="get next token from lexer" alt="" coords="459,615,619,655"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="167,396,316,415,378,427,413,439,429,459,438,479,440,519,441,560,447,580,461,600,464,603,460,607,457,603,443,582,436,561,435,519,433,480,425,462,409,444,377,432,315,421,166,402"/>
+<area shape="rect" id="Node000030" href="$dc/d68/classnlohmann_1_1detail_1_1json__sax__dom__parser.html#ad1b9f3681fadbbb2e0127f5c8a99c662" title=" " alt="" coords="218,453,407,494"/>
+<area shape="poly" id="edge41_Node000001_Node000030" title=" " alt="" coords="144,409,241,445,240,450,142,414"/>
+<area shape="rect" id="Node000031" href="$d6/d69/classnlohmann_1_1detail_1_1json__sax__dom__callback__parser.html#a167fd9bf385d3d08bcbbba8a927c0eff" title=" " alt="" coords="223,518,402,574"/>
+<area shape="poly" id="edge42_Node000001_Node000031" title=" " alt="" coords="107,410,154,456,215,503,223,508,221,513,212,508,150,460,103,413"/>
+<area shape="rect" id="Node000032" href="$dc/d68/classnlohmann_1_1detail_1_1json__sax__dom__parser.html#a7bc7d26e6a6f30185310de42cb2e820d" title=" " alt="" coords="214,597,411,638"/>
+<area shape="poly" id="edge43_Node000001_Node000032" title=" " alt="" coords="97,411,114,448,140,494,173,542,215,584,221,587,217,592,212,588,169,546,135,497,109,450,92,413"/>
+<area shape="rect" id="Node000033" href="$d6/d69/classnlohmann_1_1detail_1_1json__sax__dom__callback__parser.html#afb54d6937ee5d5a40e1db94422998aec" title=" " alt="" coords="223,662,402,718"/>
+<area shape="poly" id="edge44_Node000001_Node000033" title=" " alt="" coords="94,411,108,459,132,522,168,589,190,620,216,648,219,651,215,655,212,652,186,623,163,592,127,524,103,461,89,413"/>
+<area shape="rect" id="Node000034" href="$df/d6b/classnlohmann_1_1detail_1_1parser.html#a678fdebccc8ddd3242c67b6bce2f8f1a" title=" " alt="" coords="232,288,393,329"/>
+<area shape="poly" id="edge45_Node000001_Node000034" title=" " alt="" coords="142,368,240,332,241,337,144,373"/>
+<area shape="rect" id="Node000003" href="$de/df2/classnlohmann_1_1detail_1_1exception.html#aa353a7dba4fd179f7224b8a2a238a264" title=" " alt="" coords="667,299,848,339"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="598,196,621,209,646,229,669,252,716,288,713,292,666,256,642,233,618,213,595,201"/>
+<area shape="rect" id="Node000004" href="$de/df2/classnlohmann_1_1detail_1_1exception.html#abf41a7e9178356314082284e6cfea278" title=" " alt="" coords="667,403,848,443"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="606,196,621,209,635,227,643,245,649,278,653,313,659,330,670,349,689,372,712,392,709,396,685,376,665,353,654,333,648,314,643,279,638,246,630,230,617,213,602,201"/>
+<area shape="rect" id="Node000005" href="$d5/d1a/classnlohmann_1_1detail_1_1parse__error.html#aefe74adeaa48781464ba2fd2ec63d221" title=" " alt="" coords="679,201,836,242"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="618,191,665,200,664,206,617,196"/>
+<area shape="rect" id="Node000007" href="$d8/d22/classnlohmann_1_1detail_1_1lexer.html#afe2f78f0bad1d08f67dc417278a59f29" title="return syntax error message" alt="" coords="681,136,834,177"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="620,126,667,135,666,141,619,131"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="588,89,666,57,685,49,687,54,668,61,590,94"/>
+<area shape="rect" id="Node000009" href="$de/d77/classnlohmann_1_1detail_1_1lexer__base.html#a3e49458ca35019e4db8a45629f5be192" title="return name of values of type token_type (only used for errors)" alt="" coords="674,71,841,111"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="619,102,659,98,659,103,620,107"/>
+<area shape="rect" id="Node000012" href="$d8/d22/classnlohmann_1_1detail_1_1lexer.html#a40320a8fef5f1f03b60c8b2f2f40af4d" title=" " alt="" coords="681,615,834,655"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="620,632,666,632,666,638,620,638"/>
+<area shape="rect" id="Node000013" href="$d8/d22/classnlohmann_1_1detail_1_1lexer.html#afdc68706ad20be93977cd0f97043ea7f" title="scan a comment" alt="" coords="896,581,1048,622"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="834,621,881,613,881,618,834,626"/>
+<area shape="rect" id="Node000016" href="$d8/d22/classnlohmann_1_1detail_1_1lexer.html#ad89dec0ac0f4e851925a0499e043b18b" title=" " alt="" coords="896,436,1048,477"/>
+<area shape="poly" id="edge15_Node000012_Node000016" title=" " alt="" coords="774,613,826,558,894,497,915,482,918,487,897,501,829,561,778,616"/>
+<area shape="rect" id="Node000021" href="$d8/d22/classnlohmann_1_1detail_1_1lexer.html#aab51a28e32c1957329141baff8eda1c4" title="scan a number literal" alt="" coords="896,968,1048,1009"/>
+<area shape="poly" id="edge20_Node000012_Node000021" title=" " alt="" coords="773,654,953,954,949,957,769,657"/>
+<area shape="rect" id="Node000025" href="$d8/d22/classnlohmann_1_1detail_1_1lexer.html#ab6352978e03ebcbc3cd618cd17142f26" title="scan a string literal" alt="" coords="896,793,1048,834"/>
+<area shape="poly" id="edge26_Node000012_Node000025" title=" " alt="" coords="785,654,937,782,933,786,782,658"/>
+<area shape="rect" id="Node000028" href="$d8/d22/classnlohmann_1_1detail_1_1lexer.html#a7cd7d55de2cd398660bc243c7229caf9" title="skip the UTF&#45;8 byte order mark" alt="" coords="896,647,1048,687"/>
+<area shape="poly" id="edge35_Node000012_Node000028" title=" " alt="" coords="834,644,881,651,881,656,834,649"/>
+<area shape="rect" id="Node000029" href="$d8/d22/classnlohmann_1_1detail_1_1lexer.html#a449f3f3703dfbf8b757e12f002668604" title=" " alt="" coords="896,511,1048,551"/>
+<area shape="poly" id="edge38_Node000012_Node000029" title=" " alt="" coords="800,612,914,556,916,561,802,617"/>
+<area shape="rect" id="Node000014" href="$d8/d22/classnlohmann_1_1detail_1_1lexer.html#a9cd3e4cf04d19be521beb8868c1a2fc9" title=" " alt="" coords="1298,685,1476,711"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="1047,578,1093,570,1145,566,1198,568,1249,580,1286,598,1318,622,1368,671,1364,675,1315,626,1283,603,1247,586,1197,574,1145,571,1094,575,1048,583"/>
+<area shape="rect" id="Node000015" href="$d8/d22/classnlohmann_1_1detail_1_1lexer.html#ab5811afe1c3efb0b769f7733b8373c6f" title="unget current character (read it again on next get)" alt="" coords="1096,595,1248,635"/>
+<area shape="poly" id="edge14_Node000013_Node000015" title=" " alt="" coords="1049,604,1082,606,1081,612,1048,609"/>
+<area shape="poly" id="edge16_Node000016_Node000014" title=" " alt="" coords="1049,458,1096,464,1148,475,1201,493,1250,518,1292,553,1328,594,1356,636,1375,670,1371,673,1351,638,1323,597,1288,557,1247,523,1199,498,1147,481,1095,469,1048,463"/>
+<area shape="rect" id="Node000017" href="$df/db1/math_8h.html#a3a54064875b1b215da4904e90278a089" title=" " alt="" coords="1144,393,1200,419"/>
+<area shape="poly" id="edge17_Node000016_Node000017" title=" " alt="" coords="1048,434,1129,414,1130,419,1049,440"/>
+<area shape="rect" id="Node000018" href="$dd/d2d/math_8cpp.html#af4fb32373387854416da6c38850971b2" title=" " alt="" coords="1342,369,1432,395"/>
+<area shape="poly" id="edge18_Node000017_Node000018" title=" " alt="" coords="1201,400,1328,386,1328,391,1201,405"/>
+<area shape="rect" id="Node000019" href="$df/db1/math_8h.html#a5ac9a8399d477c88e7ab2e9e406015c6" title=" " alt="" coords="1332,418,1442,444"/>
+<area shape="poly" id="edge19_Node000017_Node000019" title=" " alt="" coords="1201,406,1318,420,1317,426,1200,412"/>
+<area shape="poly" id="edge22_Node000021_Node000014" title=" " alt="" coords="1041,1007,1090,1016,1144,1019,1198,1012,1223,1003,1247,990,1261,979,1270,967,1278,942,1283,912,1294,877,1370,723,1374,725,1299,879,1288,913,1284,943,1274,970,1265,983,1250,995,1225,1008,1199,1017,1144,1024,1090,1021,1040,1012"/>
+<area shape="poly" id="edge25_Node000021_Node000015" title=" " alt="" coords="982,966,1046,844,1094,747,1149,647,1154,649,1098,750,1050,847,987,969"/>
+<area shape="rect" id="Node000022" href="$d8/d22/classnlohmann_1_1detail_1_1lexer.html#a36ffc3c33c3aea18291ead7a30fa7cc6" title="add a character to token_buffer" alt="" coords="1296,890,1478,916"/>
+<area shape="poly" id="edge21_Node000021_Node000022" title=" " alt="" coords="1016,1007,1064,1026,1123,1041,1186,1046,1217,1043,1247,1034,1285,1013,1319,984,1346,954,1367,926,1371,930,1350,957,1322,988,1288,1017,1249,1039,1219,1048,1186,1052,1122,1047,1063,1031,1014,1012"/>
+<area shape="rect" id="Node000023" href="$d8/d22/classnlohmann_1_1detail_1_1lexer.html#a3bda093837339813916d11fb6e396606" title="reset token_buffer; current character is beginning of token" alt="" coords="1096,940,1248,981"/>
+<area shape="poly" id="edge23_Node000021_Node000023" title=" " alt="" coords="1048,975,1081,970,1082,976,1049,980"/>
+<area shape="rect" id="Node000024" href="$d8/d22/classnlohmann_1_1detail_1_1lexer.html#a6d3dffb7bb247a7fd7276d49d3a00dc8" title=" " alt="" coords="1096,1105,1248,1146"/>
+<area shape="poly" id="edge24_Node000021_Node000024" title=" " alt="" coords="998,1007,1043,1045,1097,1085,1115,1096,1113,1100,1095,1089,1040,1049,994,1011"/>
+<area shape="poly" id="edge28_Node000025_Node000014" title=" " alt="" coords="1004,791,1046,767,1095,746,1191,720,1283,705,1284,710,1192,726,1097,751,1049,772,1007,795"/>
+<area shape="poly" id="edge27_Node000025_Node000022" title=" " alt="" coords="1006,832,1048,856,1097,875,1143,886,1190,894,1281,901,1281,906,1190,899,1142,891,1095,880,1046,860,1003,837"/>
+<area shape="poly" id="edge34_Node000025_Node000023" title=" " alt="" coords="995,833,1041,875,1098,919,1115,930,1112,935,1094,924,1037,879,992,836"/>
+<area shape="rect" id="Node000026" href="$d8/d22/classnlohmann_1_1detail_1_1lexer.html#adcf663a9878f58544790f1b6faad2e42" title="get codepoint from 4 hex characters following \u" alt="" coords="1096,760,1248,801"/>
+<area shape="poly" id="edge29_Node000025_Node000026" title=" " alt="" coords="1048,798,1081,793,1082,798,1049,804"/>
+<area shape="rect" id="Node000027" href="$d8/d22/classnlohmann_1_1detail_1_1lexer.html#af6fe701b8b3ca5f4a1b58db4658bdf87" title="check if the next byte(s) are inside a given range" alt="" coords="1096,825,1248,866"/>
+<area shape="poly" id="edge31_Node000025_Node000027" title=" " alt="" coords="1049,823,1082,829,1081,834,1048,828"/>
+<area shape="poly" id="edge30_Node000026_Node000014" title=" " alt="" coords="1226,757,1337,714,1339,719,1228,762"/>
+<area shape="poly" id="edge33_Node000027_Node000014" title=" " alt="" coords="1224,822,1247,810,1310,764,1360,719,1364,723,1313,768,1250,815,1227,827"/>
+<area shape="poly" id="edge32_Node000027_Node000022" title=" " alt="" coords="1250,863,1323,883,1321,888,1248,869"/>
+<area shape="poly" id="edge36_Node000028_Node000014" title=" " alt="" coords="1049,670,1283,687,1283,693,1048,675"/>
+<area shape="poly" id="edge37_Node000028_Node000015" title=" " alt="" coords="1048,645,1081,636,1082,641,1049,650"/>
+<area shape="poly" id="edge39_Node000029_Node000014" title=" " alt="" coords="1048,522,1095,522,1147,526,1199,536,1250,554,1289,579,1323,610,1372,671,1368,674,1319,613,1285,583,1247,559,1198,541,1146,531,1095,527,1048,527"/>
+<area shape="poly" id="edge46_Node000034_Node000002" title=" " alt="" coords="340,285,393,248,458,209,470,202,473,207,460,213,396,252,343,290"/>
+<area shape="poly" id="edge50_Node000034_Node000006" title=" " alt="" coords="325,286,379,218,416,178,457,144,466,138,469,143,461,148,419,182,383,221,330,289"/>
+<area shape="poly" id="edge57_Node000034_Node000008" title=" " alt="" coords="318,287,335,242,364,185,405,127,430,100,458,78,507,52,562,35,616,25,666,21,667,27,617,31,563,40,509,57,460,83,433,104,409,130,369,188,340,244,323,289"/>
+<area shape="poly" id="edge54_Node000034_Node000010" title=" " alt="" coords="390,327,413,345,430,370,437,394,438,441,438,488,445,511,461,535,464,538,460,542,457,538,441,513,433,489,433,441,432,395,425,372,409,349,387,331"/>
+<area shape="poly" id="edge56_Node000034_Node000011" title=" " alt="" coords="347,327,382,357,413,396,427,426,433,453,433,503,432,527,435,550,444,575,461,600,464,603,460,607,457,603,439,577,430,552,427,527,427,503,427,454,422,427,409,399,378,361,343,331"/>
+<area shape="rect" id="Node000035" href="$d2/d67/classnlohmann_1_1detail_1_1out__of__range.html#a238f1bda3b6c92b5970fbf9187ccd325" title=" " alt="" coords="468,419,610,459"/>
+<area shape="poly" id="edge47_Node000034_Node000035" title=" " alt="" coords="381,327,413,345,428,360,437,375,446,389,461,404,468,409,465,413,457,408,442,392,433,378,424,363,409,349,378,331"/>
+<area shape="rect" id="Node000036" href="$d8/d22/classnlohmann_1_1detail_1_1lexer.html#adb1a71f6a3e65ed32c452a318967b61e" title="return floating&#45;point value" alt="" coords="463,223,615,263"/>
+<area shape="poly" id="edge51_Node000034_Node000036" title=" " alt="" coords="384,285,452,265,453,271,386,290"/>
+<area shape="rect" id="Node000037" href="$d8/d22/classnlohmann_1_1detail_1_1lexer.html#a9535d0c72adbe9fe149853ebad5faee8" title="return integer value" alt="" coords="463,288,615,329"/>
+<area shape="poly" id="edge52_Node000034_Node000037" title=" " alt="" coords="393,306,448,306,448,311,393,311"/>
+<area shape="rect" id="Node000038" href="$d8/d22/classnlohmann_1_1detail_1_1lexer.html#abfc85ff04fcb1a5a8d8ea299a4c479e5" title="return unsigned integer value" alt="" coords="461,353,617,394"/>
+<area shape="poly" id="edge53_Node000034_Node000038" title=" " alt="" coords="386,327,453,346,452,351,384,332"/>
+<area shape="rect" id="Node000039" href="$d8/d22/classnlohmann_1_1detail_1_1lexer.html#a0d4629316aaa5c05a9b8adb0cd76705e" title="return current string value (implicitly resets the token; useful only once)" alt="" coords="463,484,615,525"/>
+<area shape="poly" id="edge55_Node000034_Node000039" title=" " alt="" coords="388,327,413,345,426,361,433,377,438,408,443,439,449,454,461,469,465,473,461,477,457,473,445,457,437,440,433,409,428,379,421,364,409,349,385,331"/>
+<area shape="poly" id="edge48_Node000035_Node000003" title=" " alt="" coords="592,416,618,403,713,346,716,350,621,408,594,421"/>
+<area shape="poly" id="edge49_Node000035_Node000004" title=" " alt="" coords="610,431,652,428,653,433,611,436"/>
+</map>

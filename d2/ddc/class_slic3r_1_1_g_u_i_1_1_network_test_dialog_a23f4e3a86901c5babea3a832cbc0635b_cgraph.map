@@ -1,0 +1,80 @@
+<map id="Slic3r::GUI::NetworkTestDialog::start_test_oss_download_thread" name="Slic3r::GUI::NetworkTestDialog::start_test_oss_download_thread">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,562,174,618"/>
+<area shape="rect" id="Node000002" href="$d2/ddc/class_slic3r_1_1_g_u_i_1_1_network_test_dialog.html#a697fee405a0a1b437378751907506f31" title=" " alt="" coords="222,562,390,618"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,587,206,587,206,592,174,592"/>
+<area shape="rect" id="Node000003" href="$d9/dcc/classnlohmann_1_1basic__json.html#a52b18a5b7e68652c65b070900c438c6e" title="access specified array element with bounds checking" alt="" coords="443,170,609,196"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="309,561,323,498,347,415,384,325,408,282,436,241,458,219,483,201,486,206,462,223,440,245,413,285,389,328,352,417,328,500,315,562"/>
+<area shape="rect" id="Node000008" href="$d9/dcc/classnlohmann_1_1basic__json.html#ab5b70d60a636b9c5e10f6c8caac60b9e" title="return whether value is an array" alt="" coords="684,267,831,307"/>
+<area shape="poly" id="edge24_Node000002_Node000008" title=" " alt="" coords="307,561,316,501,338,424,355,384,376,346,403,312,437,285,464,270,493,260,554,250,615,252,671,260,670,266,615,257,554,256,494,265,466,275,439,289,407,316,381,349,359,386,343,425,322,502,312,562"/>
+<area shape="rect" id="Node000013" href="$d9/dcc/classnlohmann_1_1basic__json.html#a23b495b4c282e4afacf382f5b49af7c7" title="returns an iterator to the first element" alt="" coords="453,299,600,339"/>
+<area shape="poly" id="edge14_Node000002_Node000013" title=" " alt="" coords="313,561,329,515,355,458,390,400,412,373,436,349,441,346,444,350,440,353,416,377,395,403,359,461,334,517,318,562"/>
+<area shape="rect" id="Node000014" href="$d9/dcc/classnlohmann_1_1basic__json.html#a931267ec3f09eb67e4382f321b2c52bc" title="returns an iterator to one past the last element" alt="" coords="438,364,614,389"/>
+<area shape="poly" id="edge15_Node000002_Node000014" title=" " alt="" coords="317,560,335,523,361,479,395,435,436,398,444,394,446,398,440,402,399,439,366,482,340,526,321,562"/>
+<area shape="rect" id="Node000017" href="$d9/dcc/classnlohmann_1_1basic__json.html#af1650e004db368459b3c0db041b32adc" title="get a (pointer) value (explicit)" alt="" coords="440,413,613,439"/>
+<area shape="poly" id="edge18_Node000002_Node000017" title=" " alt="" coords="324,560,371,503,402,473,437,447,446,442,448,447,439,452,405,477,375,506,328,563"/>
+<area shape="rect" id="Node000018" href="$d4/dbf/class_slic3r_1_1_http.html#aece8b9cd77673a474fe97331604914aa" title=" " alt="" coords="470,462,583,488"/>
+<area shape="poly" id="edge19_Node000002_Node000018" title=" " alt="" coords="340,559,385,527,437,498,455,490,457,495,439,503,388,532,344,564"/>
+<area shape="rect" id="Node000019" href="$da/d00/class_slic3r_1_1_app_config.html#a95438adefe65d4b7389701341820a81e" title=" " alt="" coords="461,512,592,553"/>
+<area shape="poly" id="edge20_Node000002_Node000019" title=" " alt="" coords="389,565,446,550,447,556,391,570"/>
+<area shape="rect" id="Node000022" href="$de/db8/namespace_slic3r.html#a75172b21afb075cfcb6ebd3612077071" title=" " alt="" coords="451,577,602,603"/>
+<area shape="poly" id="edge23_Node000002_Node000022" title=" " alt="" coords="390,587,436,587,436,592,390,592"/>
+<area shape="rect" id="Node000023" href="$d4/dbf/class_slic3r_1_1_http.html#a5b99355b90895e3bb22536758c592756" title=" " alt="" coords="442,626,611,652"/>
+<area shape="poly" id="edge25_Node000002_Node000023" title=" " alt="" coords="391,606,452,620,451,625,389,611"/>
+<area shape="rect" id="Node000024" href="$d4/dbf/class_slic3r_1_1_http.html#afda74f7b9247f37db6075db0d5d7de67" title=" " alt="" coords="443,676,609,701"/>
+<area shape="poly" id="edge26_Node000002_Node000024" title=" " alt="" coords="352,616,393,640,439,662,455,668,453,673,437,667,391,645,349,620"/>
+<area shape="rect" id="Node000025" href="$d0/d1c/class_slic3r_1_1_semver.html#a8e956cc1ba6f4c7f4ef93a4da9d32670" title=" " alt="" coords="453,725,600,751"/>
+<area shape="poly" id="edge27_Node000002_Node000025" title=" " alt="" coords="332,616,378,665,408,690,439,711,450,717,447,721,437,716,404,694,375,669,328,620"/>
+<area shape="rect" id="Node000035" href="$d9/dcc/classnlohmann_1_1basic__json.html#a15018ade392a844ea32d5188d1a0b9c6" title="deserialize from a compatible input" alt="" coords="453,775,600,815"/>
+<area shape="poly" id="edge36_Node000002_Node000035" title=" " alt="" coords="324,616,370,688,402,727,440,761,446,765,443,769,436,765,398,731,365,691,319,619"/>
+<area shape="rect" id="Node000037" href="$d4/dbf/class_slic3r_1_1_http.html#a743df6b57cf69378d31fb17da67086ad" title=" " alt="" coords="439,840,613,865"/>
+<area shape="poly" id="edge38_Node000002_Node000037" title=" " alt="" coords="317,617,333,663,358,719,394,776,415,802,440,825,447,830,444,835,436,829,411,806,389,779,354,722,328,665,312,619"/>
+<area shape="rect" id="Node000038" href="$d0/d1c/class_slic3r_1_1_semver.html#ab2f02e5e870c3effe924e9e8ed6a36b7" title=" " alt="" coords="463,889,589,930"/>
+<area shape="poly" id="edge39_Node000002_Node000038" title=" " alt="" coords="315,617,329,672,353,741,389,813,413,846,440,876,452,885,448,889,436,880,408,850,385,816,348,743,324,673,310,619"/>
+<area shape="rect" id="Node000039" href="$d2/ddc/class_slic3r_1_1_g_u_i_1_1_network_test_dialog.html#ad485fe7ec94304be650dde1e855fac9c" title=" " alt="" coords="442,955,610,995"/>
+<area shape="poly" id="edge40_Node000002_Node000039" title=" " alt="" coords="313,618,323,683,345,769,361,815,382,860,408,902,440,940,444,944,441,948,436,944,404,905,378,862,356,817,340,770,318,684,307,618"/>
+<area shape="rect" id="Node000004" href="$da/d1c/classnlohmann_1_1detail_1_1type__error.html#a838a5e301cf97289c2d106b9ace1470f" title=" " alt="" coords="683,201,832,242"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="607,194,668,204,667,209,606,199"/>
+<area shape="rect" id="Node000007" href="$d2/d67/classnlohmann_1_1detail_1_1out__of__range.html#a238f1bda3b6c92b5970fbf9187ccd325" title=" " alt="" coords="686,136,829,177"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="609,171,671,164,672,169,610,176"/>
+<area shape="poly" id="edge9_Node000003_Node000008" title=" " alt="" coords="552,194,602,222,663,251,681,259,679,264,661,256,600,226,549,199"/>
+<area shape="rect" id="Node000009" href="$d9/dcc/classnlohmann_1_1basic__json.html#ae07f1fbbf4a6c835696c4d27dc919094" title=" " alt="" coords="684,71,831,111"/>
+<area shape="poly" id="edge10_Node000003_Node000009" title=" " alt="" coords="556,167,661,122,681,114,683,119,663,127,558,172"/>
+<area shape="rect" id="Node000012" href="$d9/dcc/classnlohmann_1_1basic__json.html#ab8811fc4eab6091b32b34b3ac3e90474" title="return the type as string" alt="" coords="684,5,831,46"/>
+<area shape="poly" id="edge13_Node000003_Node000012" title=" " alt="" coords="537,168,587,115,622,84,661,57,673,50,675,55,664,61,626,88,591,119,541,171"/>
+<area shape="rect" id="Node000005" href="$de/df2/classnlohmann_1_1detail_1_1exception.html#aa353a7dba4fd179f7224b8a2a238a264" title=" " alt="" coords="901,136,1081,177"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="832,198,901,179,902,184,833,203"/>
+<area shape="rect" id="Node000006" href="$de/df2/classnlohmann_1_1detail_1_1exception.html#abf41a7e9178356314082284e6cfea278" title=" " alt="" coords="901,201,1081,242"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="832,219,886,219,886,224,832,224"/>
+<area shape="poly" id="edge7_Node000007_Node000005" title=" " alt="" coords="829,154,886,154,886,159,829,159"/>
+<area shape="poly" id="edge8_Node000007_Node000006" title=" " alt="" coords="830,174,902,194,901,199,829,179"/>
+<area shape="rect" id="Node000010" href="$d9/dcc/classnlohmann_1_1basic__json.html#ade91330092a38c86ae056cca64a3647e" title=" " alt="" coords="917,71,1065,111"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="832,88,902,88,902,94,832,94"/>
+<area shape="rect" id="Node000011" href="$d9/dcc/classnlohmann_1_1basic__json.html#a5b7c4b35a0ad9f97474912a08965d7ad" title="return the type of the JSON value (explicit)" alt="" coords="917,5,1065,46"/>
+<area shape="poly" id="edge12_Node000009_Node000011" title=" " alt="" coords="831,68,902,48,904,53,833,73"/>
+<area shape="rect" id="Node000015" href="$d1/d7c/classnlohmann_1_1detail_1_1iter__impl.html#a23e50ad4c13aa62d9ac7f60a123823ee" title="set the iterator past the last value" alt="" coords="686,356,829,397"/>
+<area shape="poly" id="edge16_Node000014_Node000015" title=" " alt="" coords="615,374,671,374,671,379,615,379"/>
+<area shape="rect" id="Node000016" href="$d2/d2c/classnlohmann_1_1detail_1_1primitive__iterator__t.html#ad26a823483846a12d890c3feed3097eb" title="set iterator to a defined past the end" alt="" coords="904,356,1078,397"/>
+<area shape="poly" id="edge17_Node000015_Node000016" title=" " alt="" coords="829,374,889,374,889,379,829,379"/>
+<area shape="rect" id="Node000020" href="$da/d00/class_slic3r_1_1_app_config.html#a00784317aa6ddae279f234a167201475" title=" " alt="" coords="692,512,823,553"/>
+<area shape="poly" id="edge21_Node000019_Node000020" title=" " alt="" coords="592,530,677,530,677,535,592,535"/>
+<area shape="rect" id="Node000021" href="$da/d00/class_slic3r_1_1_app_config.html#acf6d4a1479686546dfe4d1044de077b2" title=" " alt="" coords="916,520,1066,545"/>
+<area shape="poly" id="edge22_Node000020_Node000021" title=" " alt="" coords="824,530,901,530,901,535,824,535"/>
+<area shape="rect" id="Node000026" href="$d0/d1c/class_slic3r_1_1_semver.html#a5580fce772bdb1496152535cfb7581ca" title=" " alt="" coords="677,650,838,676"/>
+<area shape="poly" id="edge28_Node000025_Node000026" title=" " alt="" coords="583,722,613,711,637,698,661,685,680,678,682,683,663,689,640,703,615,716,585,727"/>
+<area shape="rect" id="Node000027" href="$d8/d08/semver_8c.html#aa1c87a7a540706ba01c7a7250d4f1282" title=" " alt="" coords="706,700,809,725"/>
+<area shape="poly" id="edge29_Node000025_Node000027" title=" " alt="" coords="600,727,691,717,691,722,601,732"/>
+<area shape="rect" id="Node000034" href="$d0/d1c/class_slic3r_1_1_semver.html#a525cd8c11e70152e65d45dac24f869b4" title=" " alt="" coords="662,749,853,775"/>
+<area shape="poly" id="edge35_Node000025_Node000034" title=" " alt="" coords="601,743,648,748,647,753,600,748"/>
+<area shape="rect" id="Node000028" href="$d8/d08/semver_8c.html#a206f76149d550148cb2be8039dee03ff" title=" " alt="" coords="947,650,1035,676"/>
+<area shape="poly" id="edge30_Node000027_Node000028" title=" " alt="" coords="809,699,932,673,933,678,810,704"/>
+<area shape="rect" id="Node000029" href="$d8/d08/semver_8c.html#af51e4d44eaed8ca445066fcd7566a904" title=" " alt="" coords="933,700,1049,725"/>
+<area shape="poly" id="edge31_Node000027_Node000029" title=" " alt="" coords="809,710,918,710,918,715,809,715"/>
+<area shape="rect" id="Node000033" href="$d8/d08/semver_8c.html#a6e2fd372beab3136c14898023356d334" title=" " alt="" coords="915,749,1067,775"/>
+<area shape="poly" id="edge34_Node000027_Node000033" title=" " alt="" coords="810,721,913,743,912,748,809,726"/>
+<area shape="rect" id="Node000030" href="$d8/d08/semver_8c.html#a4856b66688a3c9e37dc2fe00b2c87935" title=" " alt="" coords="1131,674,1246,700"/>
+<area shape="poly" id="edge32_Node000029_Node000030" title=" " alt="" coords="1049,702,1115,694,1116,699,1049,708"/>
+<area shape="rect" id="Node000032" href="$d8/d08/semver_8c.html#a7ccc957b051e803b7deddd88aae59230" title=" " alt="" coords="1129,724,1247,749"/>
+<area shape="poly" id="edge33_Node000029_Node000032" title=" " alt="" coords="1049,717,1114,725,1114,730,1049,722"/>
+<area shape="rect" id="Node000036" href="$dc/df0/namespacenlohmann_1_1detail.html#a616a53cc3114fdc113fc44e6af4c3c7f" title=" " alt="" coords="681,799,834,839"/>
+<area shape="poly" id="edge37_Node000035_Node000036" title=" " alt="" coords="601,800,667,807,666,812,600,805"/>
+</map>

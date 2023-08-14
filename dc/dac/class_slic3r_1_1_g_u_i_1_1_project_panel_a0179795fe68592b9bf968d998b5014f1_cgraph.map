@@ -1,0 +1,101 @@
+<map id="Slic3r::GUI::ProjectPanel::ProjectPanel" name="Slic3r::GUI::ProjectPanel::ProjectPanel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,213,174,253"/>
+<area shape="rect" id="Node000002" href="$de/d05/class_web_view.html#a88d357f85ee47313fa6feb2007bf4b53" title=" " alt="" coords="222,56,400,82"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,210,150,151,183,118,220,91,230,85,233,90,223,95,186,122,154,154,107,213"/>
+<area shape="rect" id="Node000006" href="$d9/d45/namespace_slic3r_1_1_g_u_i.html#ac911e01665ff9c00414a1d5d0352de74" title=" " alt="" coords="240,129,382,155"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="127,210,221,165,242,157,244,162,223,170,129,215"/>
+<area shape="rect" id="Node000007" href="$dc/dac/class_slic3r_1_1_g_u_i_1_1_project_panel.html#afb826e7c209b672810159038d4ad6c9b" title=" " alt="" coords="227,179,395,220"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="174,218,212,212,212,217,175,223"/>
+<area shape="rect" id="Node000008" href="$dc/dac/class_slic3r_1_1_g_u_i_1_1_project_panel.html#af9b7f5330b859af97274900ca3b2c99c" title=" " alt="" coords="227,638,395,679"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="104,252,295,623,290,626,99,255"/>
+<area shape="rect" id="Node000042" href="$dc/dac/class_slic3r_1_1_g_u_i_1_1_project_panel.html#adccd22fb4e8c9512fab67871aadd9626" title=" " alt="" coords="227,245,395,285"/>
+<area shape="poly" id="edge50_Node000001_Node000042" title=" " alt="" coords="175,242,212,248,212,253,174,248"/>
+<area shape="rect" id="Node000045" href="$de/db8/namespace_slic3r.html#a98b4dcd95032a990c6541512e9719696" title=" " alt="" coords="241,703,381,728"/>
+<area shape="poly" id="edge55_Node000001_Node000045" title=" " alt="" coords="93,254,95,334,101,390,111,451,127,515,150,578,182,637,224,688,230,694,226,698,220,692,178,640,145,580,122,516,106,452,95,390,90,334,88,254"/>
+<area shape="rect" id="Node000003" href="$d4/d80/class_state_color.html#a6276e85e936011ec92a15edaba804347" title=" " alt="" coords="448,5,646,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="374,53,469,32,470,37,375,58"/>
+<area shape="rect" id="Node000005" href="$d9/d45/namespace_slic3r_1_1_g_u_i.html#aa56d22e9b41b19b475404b73afc263ee" title=" " alt="" coords="455,55,639,96"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="401,69,440,70,440,75,400,74"/>
+<area shape="rect" id="Node000004" href="$d3/d55/_state_color_8cpp.html#a516dd14cca918469a885837471704d99" title=" " alt="" coords="711,5,846,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="647,16,696,16,696,21,647,21"/>
+<area shape="poly" id="edge6_Node000006_Node000006" title=" " alt="" coords="274,131,267,121,271,111,286,105,311,103,339,106,353,113,350,118,337,111,311,108,287,110,275,115,272,120,278,127"/>
+<area shape="rect" id="Node000009" href="$d9/dcc/classnlohmann_1_1basic__json.html#a23b495b4c282e4afacf382f5b49af7c7" title="returns an iterator to the first element" alt="" coords="1125,581,1272,621"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="395,643,448,637,632,622,816,612,1109,600,1110,606,816,617,633,627,448,642,396,648"/>
+<area shape="rect" id="Node000010" href="$dc/dac/class_slic3r_1_1_g_u_i_1_1_project_panel.html#a80b3a7196d81913879cf0bd4110a1199" title=" " alt="" coords="463,847,631,888"/>
+<area shape="poly" id="edge10_Node000008_Node000010" title=" " alt="" coords="388,677,402,688,416,707,423,726,426,763,429,799,436,816,450,834,453,836,449,840,446,837,432,819,424,800,421,763,418,727,411,710,398,692,385,681"/>
+<area shape="rect" id="Node000011" href="$d9/dcc/classnlohmann_1_1basic__json.html#a476756fb08e7f2416aad116d137977f4" title="serialization" alt="" coords="705,934,852,975"/>
+<area shape="poly" id="edge16_Node000008_Node000011" title=" " alt="" coords="389,677,402,688,422,722,429,755,427,788,422,820,417,851,417,881,427,910,450,938,476,956,504,969,535,977,566,982,630,982,690,975,690,980,631,988,566,987,533,983,502,974,473,960,446,941,422,912,412,882,412,851,417,819,422,787,424,755,417,723,398,692,386,681"/>
+<area shape="rect" id="Node000012" href="$d9/dcc/classnlohmann_1_1basic__json.html#a9a4df356e05415438fadf8a15e583903" title="explicitly create an object from an initializer list" alt="" coords="705,858,852,899"/>
+<area shape="poly" id="edge24_Node000008_Node000012" title=" " alt="" coords="389,677,402,688,420,716,426,744,426,772,422,800,419,826,421,851,429,875,450,897,480,916,513,927,548,932,584,932,655,921,716,902,718,907,656,926,584,937,548,937,512,932,477,921,446,902,425,878,415,852,414,826,417,799,421,772,421,745,415,718,398,692,385,681"/>
+<area shape="rect" id="Node000013" href="$dc/dac/class_slic3r_1_1_g_u_i_1_1_project_panel.html#af18059d6a9b5abab441577fc6f2f0574" title=" " alt="" coords="694,770,863,811"/>
+<area shape="poly" id="edge49_Node000008_Node000013" title=" " alt="" coords="378,677,401,688,425,708,435,717,449,725,506,747,566,763,680,781,679,786,565,768,505,752,447,730,432,721,422,712,399,692,376,682"/>
+<area shape="rect" id="Node000016" href="$de/db8/namespace_slic3r.html#a21f22c9580247e3d688ae94c3f10fb16" title=" " alt="" coords="917,169,1054,195"/>
+<area shape="poly" id="edge17_Node000008_Node000016" title=" " alt="" coords="336,635,483,528,585,462,693,402,719,392,742,387,784,382,822,374,841,364,861,347,874,330,881,313,884,278,887,242,895,224,909,206,914,201,917,205,913,209,899,226,893,243,889,279,886,314,879,333,865,351,844,368,824,379,785,387,743,392,720,397,695,407,588,466,486,532,340,640"/>
+<area shape="rect" id="Node000019" href="$d9/dcc/classnlohmann_1_1basic__json.html#a931267ec3f09eb67e4382f321b2c52bc" title="returns an iterator to one past the last element" alt="" coords="1110,696,1286,722"/>
+<area shape="poly" id="edge20_Node000008_Node000019" title=" " alt="" coords="396,668,448,674,626,687,804,696,1095,705,1095,710,804,702,626,693,448,679,395,674"/>
+<area shape="rect" id="Node000022" href="$d9/dcc/classnlohmann_1_1basic__json.html#ab5b70d60a636b9c5e10f6c8caac60b9e" title="return whether value is an array" alt="" coords="1336,515,1484,556"/>
+<area shape="poly" id="edge23_Node000008_Node000022" title=" " alt="" coords="395,656,777,656,987,656,1073,659,1141,662,1207,655,1244,646,1287,630,1313,617,1338,601,1379,565,1382,569,1341,605,1316,622,1289,635,1246,651,1208,661,1141,667,1073,664,987,661,777,661,395,661"/>
+<area shape="rect" id="Node000023" href="$d9/dcc/classnlohmann_1_1basic__json.html#a15018ade392a844ea32d5188d1a0b9c6" title="deserialize from a compatible input" alt="" coords="474,237,621,277"/>
+<area shape="poly" id="edge25_Node000008_Node000023" title=" " alt="" coords="311,637,320,571,342,477,359,427,382,377,411,330,446,288,459,278,462,282,450,292,415,333,387,379,364,429,347,479,325,572,316,638"/>
+<area shape="rect" id="Node000025" href="$d9/d45/namespace_slic3r_1_1_g_u_i.html#a40f49532eea1542b9be80eb93ed855eb" title=" " alt="" coords="484,797,610,823"/>
+<area shape="poly" id="edge27_Node000008_Node000025" title=" " alt="" coords="385,677,402,688,419,711,426,734,433,755,450,776,472,790,469,795,446,780,428,758,421,735,415,713,398,692,382,681"/>
+<area shape="rect" id="Node000026" href="$dc/dac/class_slic3r_1_1_g_u_i_1_1_project_panel.html#a4f385642b8070dadaca7f4356b53efeb" title=" " alt="" coords="463,302,631,343"/>
+<area shape="poly" id="edge28_Node000008_Node000026" title=" " alt="" coords="313,637,327,582,352,508,391,429,416,392,446,359,460,348,463,352,450,363,421,395,396,432,357,510,332,584,319,638"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="605,886,709,926,708,931,603,891"/>
+<area shape="poly" id="edge12_Node000010_Node000012" title=" " alt="" coords="632,869,690,871,690,877,632,874"/>
+<area shape="poly" id="edge13_Node000010_Node000013" title=" " alt="" coords="612,844,645,833,703,813,705,818,647,838,614,849"/>
+<area shape="rect" id="Node000014" href="$de/d05/class_web_view.html#ab794b9988bc5355dc0151b5edee3a469" title=" " alt="" coords="914,777,1057,803"/>
+<area shape="poly" id="edge14_Node000013_Node000014" title=" " alt="" coords="863,788,900,788,900,793,863,793"/>
+<area shape="rect" id="Node000015" href="$d9/d45/namespace_slic3r_1_1_g_u_i.html#acd7c4c240b95e359ddd56deb67871270" title=" " alt="" coords="1113,770,1284,811"/>
+<area shape="poly" id="edge15_Node000014_Node000015" title=" " alt="" coords="1057,788,1098,788,1098,793,1057,793"/>
+<area shape="rect" id="Node000017" href="$dd/dd5/namespaceboost_1_1nowide.html#abdfef0fb660e3fb6bd08580c6898a595" title="Convert NULL terminated UTF source string to NULL terminated output string of size at most output_siz..." alt="" coords="1126,127,1270,152"/>
+<area shape="poly" id="edge18_Node000016_Node000017" title=" " alt="" coords="1053,166,1116,153,1117,158,1054,171"/>
+<area shape="rect" id="Node000018" href="$dd/dd5/namespaceboost_1_1nowide.html#abc7dfc4ebb4c462ec51da24506496b33" title="Template function that converts a buffer of UTF sequences in range [source_begin,source_end) to the o..." alt="" coords="1339,93,1481,133"/>
+<area shape="poly" id="edge19_Node000017_Node000018" title=" " alt="" coords="1271,128,1325,121,1325,126,1271,133"/>
+<area shape="rect" id="Node000020" href="$d1/d7c/classnlohmann_1_1detail_1_1iter__impl.html#a23e50ad4c13aa62d9ac7f60a123823ee" title="set the iterator past the last value" alt="" coords="1339,689,1481,729"/>
+<area shape="poly" id="edge21_Node000019_Node000020" title=" " alt="" coords="1287,706,1324,706,1324,712,1287,712"/>
+<area shape="rect" id="Node000021" href="$d2/d2c/classnlohmann_1_1detail_1_1primitive__iterator__t.html#ad26a823483846a12d890c3feed3097eb" title="set iterator to a defined past the end" alt="" coords="1532,689,1705,729"/>
+<area shape="poly" id="edge22_Node000020_Node000021" title=" " alt="" coords="1482,706,1517,706,1517,712,1482,712"/>
+<area shape="rect" id="Node000024" href="$dc/df0/namespacenlohmann_1_1detail.html#a616a53cc3114fdc113fc44e6af4c3c7f" title=" " alt="" coords="702,121,855,161"/>
+<area shape="poly" id="edge26_Node000023_Node000024" title=" " alt="" coords="581,234,693,172,708,165,710,170,696,177,583,238"/>
+<area shape="poly" id="edge29_Node000026_Node000016" title=" " alt="" coords="632,336,687,340,747,338,807,327,835,316,861,301,873,291,879,281,886,257,891,231,898,218,909,206,915,201,918,205,912,209,902,221,896,233,891,258,884,283,877,295,864,306,837,321,808,332,747,344,687,346,631,341"/>
+<area shape="rect" id="Node000027" href="$dc/dac/class_slic3r_1_1_g_u_i_1_1_project_panel.html#aaa4df5f244761237d131dcf0e8ece5f3" title=" " alt="" coords="694,186,863,227"/>
+<area shape="poly" id="edge30_Node000026_Node000027" title=" " alt="" coords="621,299,645,287,659,275,668,263,678,250,693,237,702,231,705,236,696,242,682,254,673,266,663,278,648,291,624,304"/>
+<area shape="rect" id="Node000029" href="$d9/dcc/classnlohmann_1_1basic__json.html#ab9e0253c92736db021840105d374c4c4" title="add an object to an array" alt="" coords="705,417,852,457"/>
+<area shape="poly" id="edge32_Node000026_Node000029" title=" " alt="" coords="591,341,724,407,721,412,589,345"/>
+<area shape="rect" id="Node000041" href="$dc/dac/class_slic3r_1_1_g_u_i_1_1_project_panel.html#a0b02d026206b50ea14f0d75591ae9e65" title=" " alt="" coords="694,251,863,292"/>
+<area shape="poly" id="edge47_Node000026_Node000041" title=" " alt="" coords="631,301,679,290,681,296,632,306"/>
+<area shape="rect" id="Node000028" href="$d4/df0/_array_cwise_unary_ops_8h.html#ac805f9c4e64d7f48898ac876c0a541e7" title=" " alt="" coords="959,120,1012,146"/>
+<area shape="poly" id="edge31_Node000027_Node000028" title=" " alt="" coords="833,183,910,154,944,143,945,148,912,159,835,188"/>
+<area shape="poly" id="edge41_Node000029_Node000022" title=" " alt="" coords="853,453,911,465,1017,478,1100,482,1183,487,1289,501,1324,508,1323,514,1288,506,1182,492,1100,487,1016,483,910,470,852,458"/>
+<area shape="rect" id="Node000030" href="$d9/dcc/classnlohmann_1_1basic__json.html#a2ef98c6797810a551296191fc72e2b9e" title="checks the class invariants" alt="" coords="912,530,1059,571"/>
+<area shape="poly" id="edge33_Node000029_Node000030" title=" " alt="" coords="817,455,912,509,933,520,930,525,909,514,814,460"/>
+<area shape="rect" id="Node000033" href="$da/d1c/classnlohmann_1_1detail_1_1type__error.html#a838a5e301cf97289c2d106b9ace1470f" title=" " alt="" coords="911,350,1060,391"/>
+<area shape="poly" id="edge38_Node000029_Node000033" title=" " alt="" coords="843,413,905,393,907,398,845,418"/>
+<area shape="rect" id="Node000036" href="$d9/dcc/classnlohmann_1_1basic__json.html#aedc7afad96292b5ab61a2e0ad3067f5f" title="return whether value is null" alt="" coords="912,285,1059,325"/>
+<area shape="poly" id="edge42_Node000029_Node000036" title=" " alt="" coords="833,414,861,396,876,381,884,367,893,352,909,336,916,331,919,335,912,340,898,355,889,370,880,384,864,400,835,418"/>
+<area shape="rect" id="Node000037" href="$d9/dcc/classnlohmann_1_1basic__json.html#ae07f1fbbf4a6c835696c4d27dc919094" title=" " alt="" coords="912,219,1059,260"/>
+<area shape="poly" id="edge43_Node000029_Node000037" title=" " alt="" coords="838,414,861,396,872,381,879,366,884,335,889,304,896,288,909,271,913,267,917,271,913,275,901,290,894,305,889,336,884,367,877,383,865,400,841,418"/>
+<area shape="rect" id="Node000040" href="$d9/dcc/classnlohmann_1_1basic__json.html#ab8811fc4eab6091b32b34b3ac3e90474" title="return the type as string" alt="" coords="912,415,1059,456"/>
+<area shape="poly" id="edge46_Node000029_Node000040" title=" " alt="" coords="852,434,897,433,897,439,852,439"/>
+<area shape="poly" id="edge34_Node000030_Node000009" title=" " alt="" coords="1060,565,1111,577,1110,583,1059,570"/>
+<area shape="poly" id="edge35_Node000030_Node000019" title=" " alt="" coords="1016,569,1169,685,1166,689,1013,573"/>
+<area shape="rect" id="Node000031" href="$d9/dcc/classnlohmann_1_1basic__json.html#a4e05a7d5deec758f1d830741b68b4249" title="return whether type is structured" alt="" coords="1125,515,1272,556"/>
+<area shape="poly" id="edge36_Node000030_Node000031" title=" " alt="" coords="1059,542,1109,539,1110,544,1060,548"/>
+<area shape="poly" id="edge37_Node000031_Node000022" title=" " alt="" coords="1272,533,1322,533,1322,538,1272,538"/>
+<area shape="rect" id="Node000034" href="$de/df2/classnlohmann_1_1detail_1_1exception.html#aa353a7dba4fd179f7224b8a2a238a264" title=" " alt="" coords="1108,319,1288,360"/>
+<area shape="poly" id="edge39_Node000033_Node000034" title=" " alt="" coords="1060,357,1093,352,1093,357,1061,362"/>
+<area shape="rect" id="Node000035" href="$de/df2/classnlohmann_1_1detail_1_1exception.html#abf41a7e9178356314082284e6cfea278" title=" " alt="" coords="1108,385,1288,425"/>
+<area shape="poly" id="edge40_Node000033_Node000035" title=" " alt="" coords="1061,380,1094,385,1093,390,1060,385"/>
+<area shape="rect" id="Node000038" href="$d9/dcc/classnlohmann_1_1basic__json.html#ade91330092a38c86ae056cca64a3647e" title=" " alt="" coords="1125,246,1272,287"/>
+<area shape="poly" id="edge44_Node000037_Node000038" title=" " alt="" coords="1060,246,1110,252,1109,258,1059,251"/>
+<area shape="rect" id="Node000039" href="$d9/dcc/classnlohmann_1_1basic__json.html#a5b7c4b35a0ad9f97474912a08965d7ad" title="return the type of the JSON value (explicit)" alt="" coords="1125,181,1272,221"/>
+<area shape="poly" id="edge45_Node000037_Node000039" title=" " alt="" coords="1059,223,1109,214,1110,220,1060,229"/>
+<area shape="poly" id="edge48_Node000041_Node000016" title=" " alt="" coords="835,248,861,236,885,220,909,205,925,198,927,203,912,210,888,225,864,240,837,253"/>
+<area shape="poly" id="edge54_Node000042_Node000023" title=" " alt="" coords="395,259,459,257,459,262,395,265"/>
+<area shape="rect" id="Node000043" href="$de/db8/namespace_slic3r.html#a3a2bb2069e333040b6b3c97afaab967d" title=" " alt="" coords="479,145,615,171"/>
+<area shape="poly" id="edge51_Node000042_Node000043" title=" " alt="" coords="369,242,399,229,507,176,510,181,401,234,371,246"/>
+<area shape="rect" id="Node000044" href="$dd/dd5/namespaceboost_1_1nowide.html#a57f51167f2006647d49ff42859aff064" title="Convert NULL terminated UTF source string to NULL terminated output string of size at most output_siz..." alt="" coords="911,71,1060,96"/>
+<area shape="poly" id="edge52_Node000043_Node000044" title=" " alt="" coords="580,142,633,123,694,106,798,90,895,83,896,88,798,96,695,111,634,128,582,147"/>
+<area shape="poly" id="edge53_Node000044_Node000018" title=" " alt="" coords="1061,86,1325,104,1324,110,1060,91"/>
+</map>

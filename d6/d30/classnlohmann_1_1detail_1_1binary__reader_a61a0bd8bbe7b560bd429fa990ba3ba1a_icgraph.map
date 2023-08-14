@@ -1,0 +1,105 @@
+<map id="nlohmann::detail::binary_reader::unexpect_eof" name="nlohmann::detail::binary_reader::unexpect_eof">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1441,519,1601,559"/>
+<area shape="rect" id="Node000002" href="$d6/d30/classnlohmann_1_1detail_1_1binary__reader.html#a55e13d567a53234573ab3833c0ca32e9" title="create a byte array by reading bytes from the input" alt="" coords="1234,367,1393,407"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1482,511,1392,440,1348,410,1351,406,1395,436,1486,507"/>
+<area shape="rect" id="Node000005" href="$d6/d30/classnlohmann_1_1detail_1_1binary__reader.html#a4e07b75ccb2579d0e738b894f0fd8cf8" title="Read a BSON element list (as specified in the BSON&#45;spec)" alt="" coords="477,85,693,126"/>
+<area shape="poly" id="edge71_Node000001_Node000005" title=" " alt="" coords="1512,504,1497,409,1471,287,1454,227,1435,173,1415,131,1392,104,1347,75,1300,51,1251,34,1199,21,1146,13,1093,9,985,12,882,25,788,45,707,67,643,87,641,82,705,62,787,39,881,20,985,7,1093,4,1147,8,1200,16,1252,29,1302,46,1350,70,1395,100,1419,128,1440,171,1459,225,1476,285,1502,408,1518,503"/>
+<area shape="rect" id="Node000028" href="$d6/d30/classnlohmann_1_1detail_1_1binary__reader.html#acb001d18095dc5bcf7336ae5122b8340" title="reads a CBOR byte array" alt="" coords="1002,277,1166,318"/>
+<area shape="poly" id="edge28_Node000001_Node000028" title=" " alt="" coords="1504,507,1486,471,1462,430,1430,390,1392,357,1337,330,1278,313,1220,303,1166,299,1166,294,1220,298,1280,307,1339,325,1395,353,1434,386,1466,427,1491,468,1509,504"/>
+<area shape="rect" id="Node000029" href="$d6/d30/classnlohmann_1_1detail_1_1binary__reader.html#a4e4accd5a2a41bfb2f18a8a0fcc9421c" title=" " alt="" coords="745,399,930,439"/>
+<area shape="poly" id="edge72_Node000001_Node000029" title=" " alt="" coords="1507,506,1491,462,1467,409,1434,357,1392,312,1342,278,1297,261,1248,253,1186,244,1081,224,1036,226,983,244,958,259,936,277,898,319,869,363,850,399,846,397,865,360,894,316,933,273,955,254,981,239,1035,221,1081,219,1186,239,1249,248,1298,256,1344,273,1395,308,1438,354,1471,407,1496,460,1512,504"/>
+<area shape="rect" id="Node000033" href="$d6/d30/classnlohmann_1_1detail_1_1binary__reader.html#ae020385ce9424271d61f85d3842c02cb" title=" " alt="" coords="755,597,920,652"/>
+<area shape="poly" id="edge73_Node000001_Node000033" title=" " alt="" coords="1426,538,1393,538,1314,535,1234,538,1163,547,1107,557,982,588,921,604,920,599,981,583,1106,552,1162,541,1234,532,1314,529,1393,532,1426,533"/>
+<area shape="rect" id="Node000036" href="$d6/d30/classnlohmann_1_1detail_1_1binary__reader.html#a354cbbaaea672c024ac949e1801c4302" title="Parses a C&#45;style string from the BSON input." alt="" coords="1234,113,1393,154"/>
+<area shape="poly" id="edge26_Node000001_Node000036" title=" " alt="" coords="1511,505,1496,444,1472,365,1438,279,1416,238,1391,199,1370,176,1346,157,1350,152,1374,172,1395,196,1420,235,1442,277,1477,363,1501,442,1516,504"/>
+<area shape="rect" id="Node000037" href="$d6/d30/classnlohmann_1_1detail_1_1binary__reader.html#a545a44ae4b3fa2b7a61d9e8517fb7154" title="reads a CBOR string" alt="" coords="1003,432,1165,473"/>
+<area shape="poly" id="edge29_Node000001_Node000037" title=" " alt="" coords="1459,515,1393,494,1274,472,1164,460,1165,455,1274,466,1394,489,1460,510"/>
+<area shape="rect" id="Node000038" href="$d6/d30/classnlohmann_1_1detail_1_1binary__reader.html#ad8cba5585327caa550dd5b6dd25a64f8" title="reads a MessagePack string" alt="" coords="989,712,1179,753"/>
+<area shape="poly" id="edge33_Node000001_Node000038" title=" " alt="" coords="1503,574,1459,634,1429,664,1395,688,1342,711,1286,726,1230,734,1179,738,1179,732,1230,729,1285,721,1340,706,1392,683,1426,660,1455,630,1499,570"/>
+<area shape="rect" id="Node000039" href="$d6/d30/classnlohmann_1_1detail_1_1binary__reader.html#ac356c6364fe0273d3303fb7a447f4ef6" title=" " alt="" coords="1234,633,1393,674"/>
+<area shape="poly" id="edge36_Node000001_Node000039" title=" " alt="" coords="1471,569,1354,635,1351,630,1469,565"/>
+<area shape="rect" id="Node000041" href="$d6/d30/classnlohmann_1_1detail_1_1binary__reader.html#a26c694413fb860057e1a839d5422b361" title=" " alt="" coords="754,890,921,946"/>
+<area shape="poly" id="edge67_Node000001_Node000041" title=" " alt="" coords="1511,574,1494,622,1469,680,1436,741,1395,798,1347,853,1304,892,1255,921,1187,947,1118,961,1048,962,980,955,921,944,922,939,981,950,1048,957,1118,955,1185,942,1252,916,1301,888,1343,849,1391,795,1431,738,1464,678,1489,620,1506,573"/>
+<area shape="rect" id="Node000042" href="$d6/d30/classnlohmann_1_1detail_1_1binary__reader.html#a7e5e0b71548d0649ce4f131280d06c33" title=" " alt="" coords="499,856,672,897"/>
+<area shape="poly" id="edge70_Node000001_Node000042" title=" " alt="" coords="1522,574,1517,650,1499,747,1483,799,1461,848,1432,894,1395,933,1354,966,1315,992,1277,1012,1239,1028,1202,1038,1165,1045,1090,1045,1012,1034,930,1014,741,960,705,948,671,933,615,900,618,895,674,928,707,943,742,955,931,1009,1013,1029,1090,1040,1164,1039,1201,1033,1237,1023,1274,1008,1312,987,1351,961,1392,929,1428,891,1456,846,1478,797,1494,746,1512,649,1517,574"/>
+<area shape="rect" id="Node000046" href="$d6/d30/classnlohmann_1_1detail_1_1binary__reader.html#a7b6c2d4c95d56751e233e285a5f1fea7" title="determine the type and size for a container" alt="" coords="231,995,429,1035"/>
+<area shape="poly" id="edge68_Node000001_Node000046" title=" " alt="" coords="1518,574,1503,680,1478,818,1461,886,1442,948,1420,999,1395,1033,1358,1063,1323,1082,1288,1092,1253,1096,1177,1092,1085,1087,836,1087,726,1082,615,1071,426,1039,427,1033,616,1065,726,1077,836,1082,1085,1082,1178,1087,1253,1090,1287,1087,1321,1077,1355,1058,1391,1029,1415,996,1437,946,1456,885,1473,816,1498,679,1513,574"/>
+<area shape="rect" id="Node000047" href="$d6/d30/classnlohmann_1_1detail_1_1binary__reader.html#a4ae90db51c102e912b7eac83c78733a6" title="reads a UBJSON string" alt="" coords="997,777,1171,818"/>
+<area shape="poly" id="edge69_Node000001_Node000047" title=" " alt="" coords="1510,574,1493,613,1468,657,1435,701,1395,737,1341,766,1283,784,1225,795,1172,801,1171,795,1224,790,1282,779,1339,761,1392,733,1432,697,1464,654,1488,610,1505,572"/>
+<area shape="rect" id="Node000048" href="$d6/d30/classnlohmann_1_1detail_1_1binary__reader.html#a540919db22df36512f05a88945c13263" title="create a string by reading characters from the input" alt="" coords="1234,547,1393,587"/>
+<area shape="poly" id="edge61_Node000001_Node000048" title=" " alt="" coords="1427,554,1394,559,1393,554,1426,549"/>
+<area shape="rect" id="Node000003" href="$d6/d30/classnlohmann_1_1detail_1_1binary__reader.html#a9940f56290b9278c58772eda2931e599" title="Parses a byte array input of length len from the BSON input." alt="" coords="1000,139,1168,179"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1285,357,1240,303,1184,244,1111,182,1115,178,1188,240,1244,299,1289,353"/>
+<area shape="poly" id="edge10_Node000002_Node000028" title=" " alt="" coords="1254,363,1185,334,1151,321,1153,316,1187,329,1256,358"/>
+<area shape="rect" id="Node000032" href="$d6/d30/classnlohmann_1_1detail_1_1binary__reader.html#a389e550fd397a48121cb82d92bb7475a" title="reads a MessagePack byte array" alt="" coords="988,597,1180,638"/>
+<area shape="poly" id="edge19_Node000002_Node000032" title=" " alt="" coords="1284,420,1108,599,1104,595,1280,416"/>
+<area shape="rect" id="Node000004" href="$d6/d30/classnlohmann_1_1detail_1_1binary__reader.html#a23bde2450d7a5772bf5051e36ff560a4" title="Read a BSON document element of the given element_type." alt="" coords="741,139,934,195"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="985,165,934,167,934,161,985,160"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="726,143,671,129,672,124,727,138"/>
+<area shape="rect" id="Node000006" href="$d6/d30/classnlohmann_1_1detail_1_1binary__reader.html#a23eb89a222e22533e9fd43e76722f44f" title="Reads an array from the BSON input and passes it to the SAX&#45;parser." alt="" coords="242,107,418,147"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="463,119,418,122,418,117,462,113"/>
+<area shape="rect" id="Node000007" href="$d6/d30/classnlohmann_1_1detail_1_1binary__reader.html#abf2051ba57d9ea9b378a2e7c14e22b34" title="Reads in a BSON&#45;object and passes it to the SAX&#45;parser." alt="" coords="236,193,424,234"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="523,135,381,195,379,190,521,130"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="432,132,741,157,741,162,432,138"/>
+<area shape="poly" id="edge8_Node000007_Node000004" title=" " alt="" coords="438,201,741,173,741,179,439,207"/>
+<area shape="rect" id="Node000008" href="$d6/d30/classnlohmann_1_1detail_1_1binary__reader.html#ab4afd9ee276bbb15a0f898061aad94dd" title=" " alt="" coords="14,501,174,542"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="306,248,113,503,109,500,302,244"/>
+<area shape="poly" id="edge11_Node000028_Node000028" title=" " alt="" coords="1122,265,1108,258,1084,256,1062,258,1049,263,1044,269,1046,276,1041,277,1038,267,1046,258,1061,253,1084,251,1109,253,1124,260"/>
+<area shape="poly" id="edge12_Node000028_Node000029" title=" " alt="" coords="1000,326,983,334,921,367,869,401,866,396,918,362,981,329,998,321"/>
+<area shape="poly" id="edge18_Node000029_Node000008" title=" " alt="" coords="730,426,608,433,477,447,315,475,175,505,174,500,314,470,477,442,608,428,730,420"/>
+<area shape="poly" id="edge17_Node000029_Node000029" title=" " alt="" coords="878,386,863,380,837,377,814,379,800,384,794,390,796,397,791,399,789,389,797,380,813,374,838,372,865,375,880,381"/>
+<area shape="rect" id="Node000030" href="$d6/d30/classnlohmann_1_1detail_1_1binary__reader.html#a3750658328bf3ec3cf23f1626f9ec3af" title=" " alt="" coords="506,341,665,382"/>
+<area shape="poly" id="edge13_Node000029_Node000030" title=" " alt="" coords="729,406,644,385,645,380,731,401"/>
+<area shape="rect" id="Node000031" href="$d6/d30/classnlohmann_1_1detail_1_1binary__reader.html#a47092a2195bf9cd3cdb4dda67cc404ed" title=" " alt="" coords="503,456,667,497"/>
+<area shape="poly" id="edge15_Node000029_Node000031" title=" " alt="" coords="766,446,668,469,667,464,764,441"/>
+<area shape="poly" id="edge14_Node000030_Node000029" title=" " alt="" coords="680,372,780,396,778,401,679,377"/>
+<area shape="poly" id="edge16_Node000031_Node000029" title=" " alt="" coords="658,449,744,429,745,434,659,454"/>
+<area shape="poly" id="edge20_Node000032_Node000033" title=" " alt="" coords="973,623,920,625,920,620,973,618"/>
+<area shape="poly" id="edge25_Node000033_Node000008" title=" " alt="" coords="740,624,615,616,477,602,314,574,174,543,175,538,315,569,477,596,615,611,741,618"/>
+<area shape="rect" id="Node000034" href="$d6/d30/classnlohmann_1_1detail_1_1binary__reader.html#a0ce1d7066597952efb008aaf578b2bd6" title=" " alt="" coords="492,547,678,587"/>
+<area shape="poly" id="edge21_Node000033_Node000034" title=" " alt="" coords="740,614,643,591,645,585,741,609"/>
+<area shape="rect" id="Node000035" href="$d6/d30/classnlohmann_1_1detail_1_1binary__reader.html#a8bebd21ceef09b6b2562e87861832700" title=" " alt="" coords="489,661,681,702"/>
+<area shape="poly" id="edge23_Node000033_Node000035" title=" " alt="" coords="741,658,682,671,681,666,740,653"/>
+<area shape="poly" id="edge22_Node000034_Node000033" title=" " alt="" coords="693,580,755,595,754,600,692,585"/>
+<area shape="poly" id="edge24_Node000035_Node000033" title=" " alt="" coords="657,655,754,632,755,637,659,660"/>
+<area shape="poly" id="edge27_Node000036_Node000005" title=" " alt="" coords="1219,131,1186,130,694,112,694,106,1186,124,1219,126"/>
+<area shape="poly" id="edge32_Node000037_Node000029" title=" " alt="" coords="988,442,930,434,931,429,989,437"/>
+<area shape="poly" id="edge30_Node000037_Node000031" title=" " alt="" coords="988,460,668,475,668,470,988,454"/>
+<area shape="poly" id="edge31_Node000037_Node000037" title=" " alt="" coords="1122,419,1108,413,1084,411,1062,413,1049,417,1044,423,1046,431,1041,432,1038,422,1046,413,1061,407,1084,405,1109,408,1124,415"/>
+<area shape="poly" id="edge35_Node000038_Node000033" title=" " alt="" coords="1011,709,981,696,893,655,896,650,983,691,1013,704"/>
+<area shape="poly" id="edge34_Node000038_Node000035" title=" " alt="" coords="974,724,681,694,682,689,975,719"/>
+<area shape="poly" id="edge37_Node000039_Node000028" title=" " alt="" coords="1256,626,1232,601,1214,563,1207,527,1208,493,1213,461,1216,429,1215,398,1206,366,1184,333,1165,317,1168,313,1188,329,1211,364,1220,397,1221,429,1218,462,1214,494,1213,527,1219,561,1236,598,1260,623"/>
+<area shape="poly" id="edge59_Node000039_Node000029" title=" " alt="" coords="1261,628,1185,588,883,442,885,438,1187,583,1263,624"/>
+<area shape="poly" id="edge39_Node000039_Node000032" title=" " alt="" coords="1219,642,1180,635,1181,630,1220,636"/>
+<area shape="poly" id="edge60_Node000039_Node000033" title=" " alt="" coords="1219,659,1105,659,981,652,920,644,920,639,982,647,1105,654,1219,654"/>
+<area shape="poly" id="edge38_Node000039_Node000037" title=" " alt="" coords="1265,627,1232,601,1207,573,1184,544,1109,475,1112,471,1188,540,1212,569,1236,597,1268,623"/>
+<area shape="poly" id="edge40_Node000039_Node000038" title=" " alt="" coords="1239,682,1147,714,1145,709,1238,677"/>
+<area shape="rect" id="Node000040" href="$d6/d30/classnlohmann_1_1detail_1_1binary__reader.html#aba7ba9ec9a52ad2bee8baff70176aa20" title=" " alt="" coords="982,892,1186,933"/>
+<area shape="poly" id="edge41_Node000039_Node000040" title=" " alt="" coords="1304,689,1287,731,1262,781,1229,832,1188,876,1159,894,1157,889,1184,872,1225,828,1257,778,1282,729,1299,687"/>
+<area shape="poly" id="edge58_Node000039_Node000042" title=" " alt="" coords="1301,689,1284,724,1259,764,1227,802,1187,832,1158,841,1109,849,971,862,672,876,672,871,971,856,1109,844,1157,836,1185,827,1223,798,1254,761,1279,722,1296,686"/>
+<area shape="poly" id="edge55_Node000039_Node000047" title=" " alt="" coords="1285,687,1241,728,1187,767,1161,779,1159,774,1185,762,1238,724,1282,683"/>
+<area shape="poly" id="edge42_Node000040_Node000041" title=" " alt="" coords="967,918,921,919,921,913,967,912"/>
+<area shape="poly" id="edge52_Node000040_Node000046" title=" " alt="" coords="1010,940,934,960,798,983,661,998,430,1014,429,1009,661,993,797,977,933,955,1009,935"/>
+<area shape="poly" id="edge43_Node000041_Node000042" title=" " alt="" coords="739,904,672,893,673,888,740,899"/>
+<area shape="rect" id="Node000043" href="$d6/d30/classnlohmann_1_1detail_1_1binary__reader.html#afb36cb588b795efa513fc95e949493b7" title=" " alt="" coords="8,925,180,966"/>
+<area shape="poly" id="edge44_Node000042_Node000043" title=" " alt="" coords="524,904,429,923,299,940,181,951,180,946,298,935,429,918,523,898"/>
+<area shape="rect" id="Node000044" href="$d6/d30/classnlohmann_1_1detail_1_1binary__reader.html#adcf64ad3207f4bf37a5a31c920a385c3" title=" " alt="" coords="5,787,183,827"/>
+<area shape="poly" id="edge46_Node000042_Node000044" title=" " alt="" coords="483,869,429,859,183,827,183,822,429,854,484,864"/>
+<area shape="rect" id="Node000045" href="$d6/d30/classnlohmann_1_1detail_1_1binary__reader.html#a5a79480d661019b0f3fc615ae12f7de7" title=" " alt="" coords="231,856,429,897"/>
+<area shape="poly" id="edge48_Node000042_Node000045" title=" " alt="" coords="484,879,429,879,429,874,484,874"/>
+<area shape="poly" id="edge45_Node000043_Node000042" title=" " alt="" coords="194,924,429,894,498,881,499,887,429,899,195,930"/>
+<area shape="poly" id="edge47_Node000044_Node000042" title=" " alt="" coords="198,803,310,814,429,830,538,853,537,858,429,835,309,819,197,808"/>
+<area shape="poly" id="edge51_Node000045_Node000008" title=" " alt="" coords="305,846,107,544,111,541,309,843"/>
+<area shape="poly" id="edge49_Node000045_Node000043" title=" " alt="" coords="245,904,166,927,165,922,243,899"/>
+<area shape="poly" id="edge50_Node000045_Node000044" title=" " alt="" coords="243,854,165,831,166,825,245,849"/>
+<area shape="poly" id="edge53_Node000046_Node000043" title=" " alt="" coords="243,993,165,969,166,964,245,987"/>
+<area shape="poly" id="edge54_Node000046_Node000044" title=" " alt="" coords="293,987,117,830,121,826,296,983"/>
+<area shape="poly" id="edge57_Node000047_Node000042" title=" " alt="" coords="982,807,866,818,742,836,654,858,652,853,741,831,865,813,981,801"/>
+<area shape="poly" id="edge56_Node000047_Node000044" title=" " alt="" coords="982,799,648,798,231,803,183,805,183,800,231,798,648,793,982,794"/>
+<area shape="poly" id="edge64_Node000048_Node000037" title=" " alt="" coords="1257,542,1126,476,1128,471,1259,537"/>
+<area shape="poly" id="edge65_Node000048_Node000038" title=" " alt="" coords="1272,598,1236,624,1114,714,1111,710,1232,620,1269,594"/>
+<area shape="poly" id="edge66_Node000048_Node000047" title=" " alt="" coords="1263,598,1236,623,1225,642,1219,661,1215,696,1210,731,1202,748,1188,766,1171,779,1168,775,1184,763,1198,746,1205,729,1210,695,1214,659,1220,640,1232,620,1259,594"/>
+<area shape="rect" id="Node000049" href="$d6/d30/classnlohmann_1_1detail_1_1binary__reader.html#a23921422802aa472360dd05023e20565" title="Parses a zero&#45;terminated string of length len from the BSON input." alt="" coords="1002,343,1166,383"/>
+<area shape="poly" id="edge62_Node000048_Node000049" title=" " alt="" coords="1293,535,1250,466,1220,430,1184,399,1163,386,1166,382,1188,394,1223,426,1254,463,1298,532"/>
+<area shape="poly" id="edge63_Node000049_Node000004" title=" " alt="" coords="991,338,980,332,941,301,906,264,855,197,859,194,910,261,944,297,983,328,993,334"/>
+</map>

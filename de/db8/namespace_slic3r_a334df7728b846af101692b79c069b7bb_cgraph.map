@@ -1,0 +1,39 @@
+<map id="Slic3r::convert_extrusion_to_json" name="Slic3r::convert_extrusion_to_json">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,271,171,311"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="49,271,47,261,54,252,67,246,88,244,111,247,124,253,122,258,109,252,88,249,69,251,57,256,53,262,54,269"/>
+<area shape="rect" id="Node000002" href="$d9/dcc/classnlohmann_1_1basic__json.html#ab9e0253c92736db021840105d374c4c4" title="add an object to an array" alt="" coords="219,271,366,311"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="171,288,204,288,204,294,171,294"/>
+<area shape="rect" id="Node000003" href="$d9/dcc/classnlohmann_1_1basic__json.html#a2ef98c6797810a551296191fc72e2b9e" title="checks the class invariants" alt="" coords="415,119,562,159"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="312,268,357,226,412,180,434,165,437,169,416,184,360,230,316,272"/>
+<area shape="rect" id="Node000009" href="$d9/dcc/classnlohmann_1_1basic__json.html#ab5b70d60a636b9c5e10f6c8caac60b9e" title="return whether value is an array" alt="" coords="840,183,987,223"/>
+<area shape="poly" id="edge14_Node000002_Node000009" title=" " alt="" coords="322,268,364,243,413,223,523,201,634,191,738,189,825,193,825,198,738,195,634,196,523,206,415,228,366,248,325,272"/>
+<area shape="rect" id="Node000011" href="$da/d1c/classnlohmann_1_1detail_1_1type__error.html#a838a5e301cf97289c2d106b9ace1470f" title=" " alt="" coords="414,237,563,278"/>
+<area shape="poly" id="edge11_Node000002_Node000011" title=" " alt="" coords="366,276,399,270,400,275,367,281"/>
+<area shape="rect" id="Node000014" href="$d9/dcc/classnlohmann_1_1basic__json.html#aedc7afad96292b5ab61a2e0ad3067f5f" title="return whether value is null" alt="" coords="415,303,562,343"/>
+<area shape="poly" id="edge15_Node000002_Node000014" title=" " alt="" coords="367,300,401,306,400,311,366,306"/>
+<area shape="rect" id="Node000015" href="$d9/dcc/classnlohmann_1_1basic__json.html#ae07f1fbbf4a6c835696c4d27dc919094" title=" " alt="" coords="415,368,562,409"/>
+<area shape="poly" id="edge16_Node000002_Node000015" title=" " alt="" coords="333,309,415,353,428,359,426,364,413,357,330,314"/>
+<area shape="rect" id="Node000018" href="$d9/dcc/classnlohmann_1_1basic__json.html#ab8811fc4eab6091b32b34b3ac3e90474" title="return the type as string" alt="" coords="415,433,562,474"/>
+<area shape="poly" id="edge19_Node000002_Node000018" title=" " alt="" coords="311,310,355,363,384,392,416,418,424,423,421,428,412,422,380,396,351,366,307,313"/>
+<area shape="rect" id="Node000004" href="$d9/dcc/classnlohmann_1_1basic__json.html#a23b495b4c282e4afacf382f5b49af7c7" title="returns an iterator to the first element" alt="" coords="628,5,775,46"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="515,116,559,86,610,55,622,50,624,55,613,60,562,90,518,120"/>
+<area shape="rect" id="Node000005" href="$d9/dcc/classnlohmann_1_1basic__json.html#a931267ec3f09eb67e4382f321b2c52bc" title="returns an iterator to one past the last element" alt="" coords="613,70,790,96"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="562,117,635,98,637,103,564,122"/>
+<area shape="rect" id="Node000008" href="$d9/dcc/classnlohmann_1_1basic__json.html#a4e05a7d5deec758f1d830741b68b4249" title="return whether type is structured" alt="" coords="628,120,775,161"/>
+<area shape="poly" id="edge8_Node000003_Node000008" title=" " alt="" coords="563,137,613,137,613,142,563,142"/>
+<area shape="rect" id="Node000006" href="$d1/d7c/classnlohmann_1_1detail_1_1iter__impl.html#a23e50ad4c13aa62d9ac7f60a123823ee" title="set the iterator past the last value" alt="" coords="842,52,985,93"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="790,76,828,74,828,79,790,81"/>
+<area shape="rect" id="Node000007" href="$d2/d2c/classnlohmann_1_1detail_1_1primitive__iterator__t.html#ad26a823483846a12d890c3feed3097eb" title="set iterator to a defined past the end" alt="" coords="1035,52,1208,93"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="985,70,1020,70,1020,75,985,75"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="773,159,829,175,827,180,772,164"/>
+<area shape="rect" id="Node000010" href="$d9/dcc/classnlohmann_1_1basic__json.html#a57e8411a770a6263d6d8f2116c37f3aa" title="return whether value is an object" alt="" coords="840,117,987,158"/>
+<area shape="poly" id="edge10_Node000008_Node000010" title=" " alt="" coords="775,137,825,136,825,141,775,142"/>
+<area shape="rect" id="Node000012" href="$de/df2/classnlohmann_1_1detail_1_1exception.html#aa353a7dba4fd179f7224b8a2a238a264" title=" " alt="" coords="611,237,792,278"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="564,255,596,255,596,260,564,260"/>
+<area shape="rect" id="Node000013" href="$de/df2/classnlohmann_1_1detail_1_1exception.html#abf41a7e9178356314082284e6cfea278" title=" " alt="" coords="611,303,792,343"/>
+<area shape="poly" id="edge13_Node000011_Node000013" title=" " alt="" coords="558,276,620,295,618,300,556,281"/>
+<area shape="rect" id="Node000016" href="$d9/dcc/classnlohmann_1_1basic__json.html#ade91330092a38c86ae056cca64a3647e" title=" " alt="" coords="628,368,775,409"/>
+<area shape="poly" id="edge17_Node000015_Node000016" title=" " alt="" coords="563,386,613,386,613,391,563,391"/>
+<area shape="rect" id="Node000017" href="$d9/dcc/classnlohmann_1_1basic__json.html#a5b7c4b35a0ad9f97474912a08965d7ad" title="return the type of the JSON value (explicit)" alt="" coords="628,433,775,474"/>
+<area shape="poly" id="edge18_Node000015_Node000017" title=" " alt="" coords="558,407,620,426,618,431,556,412"/>
+</map>

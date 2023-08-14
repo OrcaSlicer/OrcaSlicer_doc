@@ -1,0 +1,29 @@
+<map id="nlohmann::detail::binary_reader::get_ubjson_string" name="nlohmann::detail::binary_reader::get_ubjson_string">
+<area shape="rect" id="Node000001" title="reads a UBJSON string" alt="" coords="5,189,180,230"/>
+<area shape="rect" id="Node000002" href="$d5/d1a/classnlohmann_1_1detail_1_1parse__error.html#ae77bd584cb9101140790219af7fec1ce" title="create a parse error exception" alt="" coords="667,71,824,111"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,187,155,133,189,106,227,86,281,69,338,57,396,51,453,50,562,56,654,68,653,74,562,61,453,55,396,57,339,63,283,74,229,91,192,111,159,137,111,191"/>
+<area shape="rect" id="Node000006" href="$d6/d30/classnlohmann_1_1detail_1_1binary__reader.html#a9c413c9a1bade1ce345740f4d69156f0" title=" " alt="" coords="651,189,840,230"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="145,228,185,241,228,251,333,264,415,264,498,254,603,239,648,231,649,236,604,244,498,260,415,269,333,269,227,256,184,246,144,233"/>
+<area shape="rect" id="Node000007" href="$d6/d30/classnlohmann_1_1detail_1_1binary__reader.html#ad222095c0b21a87824cb10629299629a" title="get next character from the input" alt="" coords="444,189,603,230"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="168,228,228,239,312,246,396,239,438,231,439,237,396,244,312,251,227,244,167,233"/>
+<area shape="rect" id="Node000008" href="$d6/d30/classnlohmann_1_1detail_1_1binary__reader.html#ac356c6364fe0273d3303fb7a447f4ef6" title=" " alt="" coords="232,189,392,230"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="180,207,217,207,217,212,180,212"/>
+<area shape="rect" id="Node000009" href="$d6/d30/classnlohmann_1_1detail_1_1binary__reader.html#a61a0bd8bbe7b560bd429fa990ba3ba1a" title=" " alt="" coords="444,124,603,165"/>
+<area shape="poly" id="edge16_Node000001_Node000009" title=" " alt="" coords="112,187,161,145,193,125,227,110,284,99,342,98,399,106,449,117,447,122,398,111,342,104,284,104,228,115,195,130,164,149,115,191"/>
+<area shape="rect" id="Node000010" href="$d6/d30/classnlohmann_1_1detail_1_1binary__reader.html#a540919db22df36512f05a88945c13263" title="create a string by reading characters from the input" alt="" coords="232,124,392,165"/>
+<area shape="poly" id="edge12_Node000001_Node000010" title=" " alt="" coords="162,186,226,167,228,172,164,191"/>
+<area shape="rect" id="Node000011" href="$d6/d30/classnlohmann_1_1detail_1_1binary__reader.html#a7d323283c60a0b89ee5eeadf5cb9a5ad" title=" " alt="" coords="228,355,396,395"/>
+<area shape="poly" id="edge15_Node000001_Node000011" title=" " alt="" coords="114,228,163,280,229,334,248,345,245,350,226,339,160,284,110,232"/>
+<area shape="rect" id="Node000003" href="$de/df2/classnlohmann_1_1detail_1_1exception.html#aa353a7dba4fd179f7224b8a2a238a264" title=" " alt="" coords="888,5,1068,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="819,68,888,48,890,53,821,73"/>
+<area shape="rect" id="Node000004" href="$de/df2/classnlohmann_1_1detail_1_1exception.html#abf41a7e9178356314082284e6cfea278" title=" " alt="" coords="888,71,1068,111"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="824,88,873,88,873,94,824,94"/>
+<area shape="rect" id="Node000005" href="$d5/d1a/classnlohmann_1_1detail_1_1parse__error.html#aefe74adeaa48781464ba2fd2ec63d221" title=" " alt="" coords="900,136,1056,177"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="821,109,890,129,888,134,819,114"/>
+<area shape="poly" id="edge8_Node000008_Node000007" title=" " alt="" coords="392,207,429,207,429,212,392,212"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="379,186,441,167,442,172,381,191"/>
+<area shape="poly" id="edge10_Node000009_Node000002" title=" " alt="" coords="603,123,652,111,653,116,604,128"/>
+<area shape="poly" id="edge11_Node000009_Node000006" title=" " alt="" coords="596,163,661,182,659,187,594,168"/>
+<area shape="poly" id="edge13_Node000010_Node000007" title=" " alt="" coords="381,163,442,182,441,187,379,168"/>
+<area shape="poly" id="edge14_Node000010_Node000009" title=" " alt="" coords="392,142,429,142,429,147,392,147"/>
+</map>

@@ -1,0 +1,66 @@
+<map id="orgQhull::QhullQh::clearQhullMessage" name="orgQhull::QhullQh::clearQhullMessage">
+<area shape="rect" id="Node000001" title="clearQhullMessage does not throw errors (~Qhull)" alt="" coords="912,63,1044,103"/>
+<area shape="rect" id="Node000002" href="$da/dc1/classorg_qhull_1_1_qhull.html#a2b24c1e75ad258e92e7b4b2b37bfd773" title=" " alt="" coords="697,13,851,39"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="897,63,822,42,823,37,898,58"/>
+<area shape="rect" id="Node000003" href="$da/dc1/classorg_qhull_1_1_qhull.html#a9498c6d5372483ffedde4fe766621dfc" title=" " alt="" coords="687,63,861,103"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="897,86,861,86,861,80,897,80"/>
+<area shape="rect" id="Node000007" href="$d1/d16/classorg_qhull_1_1_qhull_qh.html#a508806408644d1bbbc9a8bd74bd52415" title=" " alt="" coords="684,395,864,435"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="959,118,790,396,786,393,954,115"/>
+<area shape="rect" id="Node000004" href="$df/d55/classorg_qhull_1_1_qhull__test.html#a66b1fea22045b6ae2874c7779c57a44d" title="No QhullMessage for errors outside of qhull." alt="" coords="474,5,610,46"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="675,61,610,45,611,40,676,56"/>
+<area shape="rect" id="Node000005" href="$db/d83/user__eg3__r_8cpp.html#a6914ceb6114208be7eb2ceeb6004e2c0" title=" " alt="" coords="276,68,351,93"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="672,85,351,83,351,78,672,80"/>
+<area shape="rect" id="Node000006" href="$db/d83/user__eg3__r_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="67,68,117,93"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="261,83,117,83,117,78,261,78"/>
+<area shape="rect" id="Node000008" href="$dc/d8d/classorg_qhull_1_1_qhull_vertex_set.html#a1995dcb812dc8004e99a65a590909852" title=" " alt="" coords="460,272,625,313"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="732,388,686,357,635,328,607,316,609,311,638,323,689,353,735,383"/>
+<area shape="rect" id="Node000009" href="$dc/d8d/classorg_qhull_1_1_qhull_vertex_set.html#aa40dc73568b4a6dd84c82cb8b90da2a8" title="Return tempory QhullVertexSet of vertices for a list and/or a set of facets Sets qhsettemp_defined (d..." alt="" coords="460,337,625,378"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="675,393,625,381,626,376,676,388"/>
+<area shape="rect" id="Node000010" href="$da/dc1/classorg_qhull_1_1_qhull.html#adf2cd537ae8b70fcb0bb06404134acf9" title=" " alt="" coords="472,402,612,428"/>
+<area shape="poly" id="edge9_Node000007_Node000010" title=" " alt="" coords="669,418,613,418,613,412,669,412"/>
+<area shape="rect" id="Node000013" href="$da/dc1/classorg_qhull_1_1_qhull.html#a6ed62dcd3adb229281360e6721ffbad6" title="Automatically called if merging facets or Voronoi diagram." alt="" coords="448,501,636,542"/>
+<area shape="poly" id="edge12_Node000007_Node000013" title=" " alt="" coords="728,445,637,492,609,503,607,498,635,487,725,441"/>
+<area shape="rect" id="Node000015" href="$d3/d21/classorg_qhull_1_1_qhull_facet.html#a6ebc0c827259e00b2748a850057d4a77" title="Disables tricoplanarOwner()" alt="" coords="472,567,612,607"/>
+<area shape="poly" id="edge14_Node000007_Node000015" title=" " alt="" coords="750,449,702,503,671,531,638,556,614,569,611,564,635,551,668,527,698,499,746,445"/>
+<area shape="rect" id="Node000017" href="$dc/d8d/classorg_qhull_1_1_qhull_vertex_set.html#acfd43a663018226b3c43d38bdae19f33" title=" " alt="" coords="460,632,625,673"/>
+<area shape="poly" id="edge16_Node000007_Node000017" title=" " alt="" coords="761,450,741,489,714,535,679,581,638,621,618,634,615,629,635,617,675,577,710,532,737,487,756,448"/>
+<area shape="rect" id="Node000019" href="$d3/d21/classorg_qhull_1_1_qhull_facet.html#a0300c960d9b05417af97569b04038582" title="Return voronoi center or facet centrum. Derived from qh_printcenter [io_r.c] if printFormat=qh_PRINTt..." alt="" coords="472,697,612,738"/>
+<area shape="poly" id="edge18_Node000007_Node000019" title=" " alt="" coords="767,450,750,502,724,565,687,630,664,660,638,686,614,702,611,697,635,682,660,656,683,627,719,563,745,500,762,449"/>
+<area shape="rect" id="Node000020" href="$d0/dc6/classorg_qhull_1_1_qhull_hyperplane.html#abcf8cd2f048e71618be4730d0ce912f9" title=" " alt="" coords="456,763,629,803"/>
+<area shape="poly" id="edge19_Node000007_Node000020" title=" " alt="" coords="771,451,758,514,733,595,716,637,695,678,669,717,638,752,621,764,618,760,635,748,665,714,690,676,711,635,728,593,752,513,765,450"/>
+<area shape="rect" id="Node000024" href="$da/dc1/classorg_qhull_1_1_qhull.html#a365d8b938f10219140373e8d74c275bf" title=" " alt="" coords="452,222,633,248"/>
+<area shape="poly" id="edge23_Node000007_Node000024" title=" " alt="" coords="750,384,702,322,671,290,635,263,610,251,612,246,638,258,674,286,706,318,755,381"/>
+<area shape="rect" id="Node000029" href="$da/dc1/classorg_qhull_1_1_qhull.html#a04327fb85af17eed1098f5a07bf68dc8" title=" " alt="" coords="452,124,633,149"/>
+<area shape="poly" id="edge29_Node000007_Node000029" title=" " alt="" coords="761,381,745,331,719,272,683,213,660,186,635,162,617,152,620,147,638,158,664,182,687,209,724,270,750,329,766,379"/>
+<area shape="rect" id="Node000030" href="$da/dc1/classorg_qhull_1_1_qhull.html#aaa7d64f9d45f878ff94d243b77888039" title="pointCoordinates is a array of points, input sites (&#39;d&#39; or &#39;v&#39;), or halfspaces with offset last (&#39;H&#39;)..." alt="" coords="461,173,624,199"/>
+<area shape="poly" id="edge30_Node000007_Node000030" title=" " alt="" coords="757,383,738,343,712,296,677,250,635,212,616,201,618,197,638,207,681,247,716,293,743,340,762,380"/>
+<area shape="rect" id="Node000031" href="$da/dc1/classorg_qhull_1_1_qhull.html#a2128ecbd334585626a368cefbbb294a8" title=" " alt="" coords="464,452,621,477"/>
+<area shape="poly" id="edge31_Node000007_Node000031" title=" " alt="" coords="670,440,607,453,605,448,669,435"/>
+<area shape="rect" id="Node000011" href="$df/d55/classorg_qhull_1_1_qhull__test.html#a197eaf9734ed51fea88da5271164baf4" title=" " alt="" coords="245,379,382,419"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="457,412,382,406,382,401,458,406"/>
+<area shape="rect" id="Node000012" href="$df/d55/classorg_qhull_1_1_qhull__test.html#af949fa5641629f6b2769fbc7acb5ab5f" title=" " alt="" coords="245,444,382,485"/>
+<area shape="poly" id="edge11_Node000010_Node000012" title=" " alt="" coords="465,434,383,452,381,447,464,429"/>
+<area shape="rect" id="Node000014" href="$dc/d41/classorg_qhull_1_1_qhull_vertex__test.html#ab698b34bac687b74ef1f224df78ea281" title=" " alt="" coords="241,509,386,550"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="433,528,386,530,386,524,433,523"/>
+<area shape="rect" id="Node000016" href="$de/da9/classorg_qhull_1_1_qhull_facet__test.html#a6caf4534b9db8cd1233ffad44df03c66" title=" " alt="" coords="243,575,384,615"/>
+<area shape="poly" id="edge15_Node000015_Node000016" title=" " alt="" coords="458,593,384,595,384,590,457,587"/>
+<area shape="rect" id="Node000018" href="$dc/d8d/classorg_qhull_1_1_qhull_vertex_set.html#afcb541485bae81164788eada0fd4ad73" title=" " alt="" coords="231,640,396,681"/>
+<area shape="poly" id="edge17_Node000017_Node000018" title=" " alt="" coords="445,658,397,660,396,655,445,653"/>
+<area shape="rect" id="Node000021" href="$d0/dc6/classorg_qhull_1_1_qhull_hyperplane.html#acb00f188dcbf44125f113a09eeddb8c0" title="Return true if equal If qh_qh defined, tests qh.distanceEpsilon and qh.angleEpsilon otherwise,..." alt="" coords="227,733,400,774"/>
+<area shape="poly" id="edge20_Node000020_Node000021" title=" " alt="" coords="440,773,400,767,401,762,441,767"/>
+<area shape="rect" id="Node000023" href="$d4/d1e/classorg_qhull_1_1_qhull_hyperplane__test.html#a19d24a0c7c1866c1145838988c680f50" title=" " alt="" coords="227,799,400,839"/>
+<area shape="poly" id="edge22_Node000020_Node000023" title=" " alt="" coords="442,801,401,808,400,803,441,796"/>
+<area shape="rect" id="Node000022" href="$d0/dc6/classorg_qhull_1_1_qhull_hyperplane.html#a745ee666b048f37c4360b543139bebde" title=" " alt="" coords="5,733,179,774"/>
+<area shape="poly" id="edge21_Node000021_Node000022" title=" " alt="" coords="212,756,179,756,179,751,212,751"/>
+<area shape="poly" id="edge28_Node000024_Node000005" title=" " alt="" coords="451,217,446,213,434,200,427,186,421,159,416,133,409,120,398,108,375,94,350,87,352,82,378,89,402,104,414,117,421,131,426,158,432,184,438,197,450,209,454,212"/>
+<area shape="rect" id="Node000025" href="$df/d55/classorg_qhull_1_1_qhull__test.html#aa02de97dfb8a8e8ebf30039766530d97" title=" " alt="" coords="245,117,382,158"/>
+<area shape="poly" id="edge24_Node000024_Node000025" title=" " alt="" coords="459,219,447,213,432,203,422,193,399,173,374,161,377,156,401,169,426,190,435,199,449,209,461,214"/>
+<area shape="rect" id="Node000026" href="$df/d55/classorg_qhull_1_1_qhull__test.html#aa390984adc54528ac5925313d595dd91" title=" " alt="" coords="245,183,382,223"/>
+<area shape="poly" id="edge25_Node000024_Node000026" title=" " alt="" coords="437,223,382,215,383,210,438,218"/>
+<area shape="rect" id="Node000027" href="$de/da9/classorg_qhull_1_1_qhull_facet__test.html#ab372880d46e884f8ba122ee8235ab676" title=" " alt="" coords="243,248,384,289"/>
+<area shape="poly" id="edge26_Node000024_Node000027" title=" " alt="" coords="437,253,384,261,383,255,437,248"/>
+<area shape="rect" id="Node000028" href="$df/d55/classorg_qhull_1_1_qhull__test.html#acf641d8e76c1df9c63454c8295650637" title=" " alt="" coords="245,313,382,354"/>
+<area shape="poly" id="edge27_Node000024_Node000028" title=" " alt="" coords="465,256,449,263,435,272,426,282,401,303,377,315,374,310,399,298,422,278,432,268,447,258,463,251"/>
+<area shape="poly" id="edge32_Node000031_Node000011" title=" " alt="" coords="472,450,447,443,379,422,381,417,449,438,474,445"/>
+<area shape="poly" id="edge33_Node000031_Node000012" title=" " alt="" coords="449,467,382,467,382,462,449,462"/>
+</map>

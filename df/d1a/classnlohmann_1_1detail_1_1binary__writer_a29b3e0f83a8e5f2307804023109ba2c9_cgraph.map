@@ -1,0 +1,63 @@
+<map id="nlohmann::detail::binary_writer::write_bson_object" name="nlohmann::detail::binary_writer::write_bson_object">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,261,179,302"/>
+<area shape="rect" id="Node000002" href="$df/d1a/classnlohmann_1_1detail_1_1binary__writer.html#acc6f1cc1fd370ee84ebc8cf7b8712840" title="Calculates the size of the BSON serialization of the given JSON&#45;object j." alt="" coords="1246,5,1446,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,259,183,201,233,165,290,129,352,95,420,68,490,49,562,42,824,42,1040,38,1231,29,1231,35,1041,43,824,47,562,47,491,54,422,73,355,100,292,133,236,169,187,205,117,263"/>
+<area shape="rect" id="Node000003" href="$df/d1a/classnlohmann_1_1detail_1_1binary__writer.html#ab77aa48692bd4e64e4f051ce6aeb6d2d" title=" " alt="" coords="1004,225,1163,266"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="149,258,288,214,373,193,459,178,530,171,604,170,749,179,882,198,990,219,989,225,881,203,748,184,604,175,531,176,459,183,374,198,290,219,151,263"/>
+<area shape="rect" id="Node000004" href="$df/d1a/classnlohmann_1_1detail_1_1binary__writer.html#a7ff58bf1a80018148bed860667ffca07" title="Serializes the JSON value j to BSON and associates it with the key name." alt="" coords="227,388,411,429"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="132,300,269,378,267,383,129,305"/>
+<area shape="rect" id="Node000005" href="$df/d1a/classnlohmann_1_1detail_1_1binary__writer.html#a025212bd170253638b9f05b3b6aa5bf9" title="Writes a BSON element with key name and array value." alt="" coords="480,192,647,233"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="336,386,385,322,419,286,458,255,499,236,501,240,460,260,423,290,389,326,340,389"/>
+<area shape="rect" id="Node000017" href="$df/d1a/classnlohmann_1_1detail_1_1binary__writer.html#a97d34d9a70ddc06ae782c55454df42bc" title="Writes a BSON element with key name and binary value value." alt="" coords="477,649,650,690"/>
+<area shape="poly" id="edge19_Node000004_Node000017" title=" " alt="" coords="333,428,393,539,429,597,461,634,468,640,465,644,457,638,425,600,388,542,328,430"/>
+<area shape="rect" id="Node000019" href="$df/d1a/classnlohmann_1_1detail_1_1binary__writer.html#ae099435e1df3096e0fc78333282f8f67" title="Writes a BSON element with key name and boolean value value." alt="" coords="472,257,655,298"/>
+<area shape="poly" id="edge22_Node000004_Node000019" title=" " alt="" coords="343,385,394,347,458,309,474,301,476,306,460,313,397,351,346,390"/>
+<area shape="rect" id="Node000020" href="$df/d1a/classnlohmann_1_1detail_1_1binary__writer.html#a263ec18815467bb9919021ef126919ca" title="Writes a BSON element with key name and double value value." alt="" coords="476,453,652,494"/>
+<area shape="poly" id="edge25_Node000004_Node000020" title=" " alt="" coords="398,427,471,446,470,452,397,432"/>
+<area shape="rect" id="Node000021" href="$df/d1a/classnlohmann_1_1detail_1_1binary__writer.html#a553ad4dbdf27238eef90867e4bf2f3e5" title="Writes a BSON element with key name and integer value." alt="" coords="475,519,652,559"/>
+<area shape="poly" id="edge27_Node000004_Node000021" title=" " alt="" coords="346,427,397,465,460,503,476,510,474,515,458,508,394,470,343,431"/>
+<area shape="rect" id="Node000022" href="$df/d1a/classnlohmann_1_1detail_1_1binary__writer.html#a9927c1110b18661e0224a76156e5a7a9" title="Writes a BSON element with key name and null value." alt="" coords="484,323,643,363"/>
+<area shape="poly" id="edge29_Node000004_Node000022" title=" " alt="" coords="397,385,470,365,471,370,398,390"/>
+<area shape="rect" id="Node000023" href="$df/d1a/classnlohmann_1_1detail_1_1binary__writer.html#a6231302930265eccb3f56c378f7b0661" title="Writes a BSON element with key name and object value." alt="" coords="459,715,668,755"/>
+<area shape="poly" id="edge31_Node000004_Node000023" title=" " alt="" coords="334,428,371,495,413,581,425,616,431,646,440,672,461,700,466,704,462,708,457,704,435,675,426,647,420,618,409,583,366,498,330,431"/>
+<area shape="rect" id="Node000024" href="$df/d1a/classnlohmann_1_1detail_1_1binary__writer.html#a5e6574416915208fc035b57338ae3252" title="Writes a BSON element with key name and string value value." alt="" coords="479,388,649,429"/>
+<area shape="poly" id="edge34_Node000004_Node000024" title=" " alt="" coords="411,406,464,406,464,411,411,411"/>
+<area shape="rect" id="Node000025" href="$df/d1a/classnlohmann_1_1detail_1_1binary__writer.html#ac274e3d7a803e7223bb1a4fcb7cd594c" title="Writes a BSON element with key name and unsigned value." alt="" coords="469,584,659,625"/>
+<area shape="poly" id="edge36_Node000004_Node000025" title=" " alt="" coords="335,427,384,497,420,535,461,569,471,575,468,579,457,573,416,539,380,500,330,431"/>
+<area shape="poly" id="edge15_Node000005_Node000003" title=" " alt="" coords="648,215,989,237,988,242,647,220"/>
+<area shape="poly" id="edge16_Node000005_Node000004" title=" " alt="" coords="481,225,460,236,421,268,387,305,359,343,338,376,333,374,354,340,383,302,418,264,458,231,478,220"/>
+<area shape="rect" id="Node000006" href="$df/d1a/classnlohmann_1_1detail_1_1binary__writer.html#af08f9302a02516ff8cf358a99aaa1ddf" title=" " alt="" coords="726,81,920,122"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="612,189,759,126,761,131,614,194"/>
+<area shape="rect" id="Node000016" href="$df/d1a/classnlohmann_1_1detail_1_1binary__writer.html#a1b5b7f5c03b1f8b1f59ea61db9634108" title="Writes the given element_type and name to the output adapter." alt="" coords="716,420,930,461"/>
+<area shape="poly" id="edge17_Node000005_Node000016" title=" " alt="" coords="648,231,670,243,714,281,752,325,783,368,806,406,802,408,779,371,748,328,710,285,667,248,645,236"/>
+<area shape="rect" id="Node000007" href="$df/d1a/classnlohmann_1_1detail_1_1binary__writer.html#a1e4372c5984184eb5bcc09af1fcc2ee0" title="Calculates the size necessary to serialize the JSON value j with its name." alt="" coords="978,117,1189,158"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="913,120,963,127,963,133,913,125"/>
+<area shape="poly" id="edge12_Node000007_Node000002" title=" " alt="" coords="1119,114,1174,85,1236,57,1257,49,1258,54,1238,61,1176,90,1122,119"/>
+<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="993,119,934,111,935,106,994,114"/>
+<area shape="rect" id="Node000008" href="$df/d1a/classnlohmann_1_1detail_1_1binary__writer.html#a9dd6062fd249a695e0f93d558dba4685" title=" " alt="" coords="1246,201,1446,242"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="1148,156,1238,186,1263,194,1262,199,1236,191,1146,161"/>
+<area shape="rect" id="Node000009" href="$df/d1a/classnlohmann_1_1detail_1_1binary__writer.html#a11637a023d22e57a7e7aff3f98b10f84" title=" " alt="" coords="1264,266,1427,322"/>
+<area shape="poly" id="edge9_Node000007_Node000009" title=" " alt="" coords="1116,156,1191,212,1214,233,1238,251,1252,259,1250,263,1236,256,1210,237,1187,216,1113,161"/>
+<area shape="rect" id="Node000013" href="$df/d1a/classnlohmann_1_1detail_1_1binary__writer.html#aeab70c895931b96ea598306b37eca271" title=" " alt="" coords="1244,345,1448,386"/>
+<area shape="poly" id="edge11_Node000007_Node000013" title=" " alt="" coords="1125,156,1159,180,1191,212,1202,229,1208,245,1213,276,1219,304,1226,318,1239,332,1242,335,1239,339,1235,336,1222,321,1214,306,1208,277,1203,247,1197,231,1187,215,1156,185,1122,161"/>
+<area shape="rect" id="Node000014" href="$df/d1a/classnlohmann_1_1detail_1_1binary__writer.html#aea44fd97a5cb9b4f175e66e3e4fdf158" title=" " alt="" coords="1247,71,1444,111"/>
+<area shape="poly" id="edge13_Node000007_Node000014" title=" " alt="" coords="1189,116,1232,108,1233,114,1190,121"/>
+<area shape="rect" id="Node000015" href="$df/d1a/classnlohmann_1_1detail_1_1binary__writer.html#aa1d6bb9f3af16f07ce2440c354b5787b" title=" " alt="" coords="1237,136,1454,177"/>
+<area shape="poly" id="edge14_Node000007_Node000015" title=" " alt="" coords="1190,143,1222,145,1222,150,1189,148"/>
+<area shape="rect" id="Node000010" href="$d2/d67/classnlohmann_1_1detail_1_1out__of__range.html#a238f1bda3b6c92b5970fbf9187ccd325" title=" " alt="" coords="1502,341,1645,382"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="1428,315,1490,334,1488,339,1427,321"/>
+<area shape="poly" id="edge18_Node000016_Node000003" title=" " alt="" coords="850,417,1041,273,1045,277,854,422"/>
+<area shape="poly" id="edge20_Node000017_Node000016" title=" " alt="" coords="645,646,667,634,711,597,748,553,779,509,802,472,807,475,784,512,753,556,714,601,670,639,648,651"/>
+<area shape="rect" id="Node000018" href="$df/d1a/classnlohmann_1_1detail_1_1binary__writer.html#a6e11b7227fcecc25a548ed45507b7d1c" title=" " alt="" coords="743,649,903,690"/>
+<area shape="poly" id="edge21_Node000017_Node000018" title=" " alt="" coords="651,667,728,667,728,672,651,672"/>
+<area shape="poly" id="edge23_Node000019_Node000003" title=" " alt="" coords="655,269,989,249,989,254,656,275"/>
+<area shape="poly" id="edge24_Node000019_Node000016" title=" " alt="" coords="643,296,670,309,705,331,739,357,794,407,790,411,735,361,702,336,667,313,640,301"/>
+<area shape="poly" id="edge26_Node000020_Node000016" title=" " alt="" coords="652,460,701,453,702,459,653,465"/>
+<area shape="poly" id="edge28_Node000021_Node000016" title=" " alt="" coords="632,516,667,503,761,465,763,470,669,508,633,521"/>
+<area shape="poly" id="edge30_Node000022_Node000016" title=" " alt="" coords="633,361,669,374,762,411,760,416,667,379,632,366"/>
+<area shape="poly" id="edge33_Node000023_Node000001" title=" " alt="" coords="481,716,458,704,397,660,341,609,288,555,240,499,162,395,111,316,115,313,166,392,245,496,292,551,344,605,401,655,460,699,484,712"/>
+<area shape="poly" id="edge32_Node000023_Node000016" title=" " alt="" coords="647,712,667,700,691,667,728,605,802,472,806,475,733,608,695,670,670,704,650,716"/>
+<area shape="poly" id="edge35_Node000024_Node000016" title=" " alt="" coords="650,416,702,423,701,428,649,422"/>
+<area shape="poly" id="edge37_Node000025_Node000010" title=" " alt="" coords="658,582,1009,505,1231,452,1454,395,1492,384,1493,389,1455,400,1232,457,1010,510,660,587"/>
+<area shape="poly" id="edge38_Node000025_Node000016" title=" " alt="" coords="642,581,667,569,682,558,692,547,714,521,780,468,784,472,718,525,696,550,685,562,670,573,645,586"/>
+</map>

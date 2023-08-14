@@ -1,0 +1,41 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,244,109,270"/>
+<area shape="rect" id="Node000001" href="$d1/dd0/class_clipper2_lib_1_1_clipper2_exception.html" title=" " alt="" coords="157,5,357,31"/>
+<area shape="poly" id="edge1315_Node000000_Node000001" title=" " alt="" coords="60,229,71,187,89,136,116,84,134,61,155,40,172,29,175,34,158,44,138,64,120,87,93,138,76,189,65,230"/>
+<area shape="rect" id="Node000002" href="$d0/d71/class_clipper_lib_1_1clipper_exception.html" title=" " alt="" coords="165,55,349,80"/>
+<area shape="poly" id="edge1316_Node000000_Node000002" title=" " alt="" coords="64,229,77,197,96,159,122,121,155,89,174,79,177,83,158,94,126,125,101,162,82,199,69,231"/>
+<area shape="rect" id="Node000003" href="$d8/dc1/class_slic3r_1_1_canceled_exception.html" title=" " alt="" coords="169,104,345,130"/>
+<area shape="poly" id="edge1317_Node000000_Node000003" title=" " alt="" coords="71,230,106,184,129,160,155,140,181,128,183,133,158,144,133,164,110,187,76,233"/>
+<area shape="rect" id="Node000004" href="$d9/d58/class_slic3r_1_1_g_u_i_1_1_g_l_gizmo_simplify_1_1_simplify_canceled_exception.html" title=" " alt="" coords="159,154,355,195"/>
+<area shape="poly" id="edge1318_Node000000_Node000004" title=" " alt="" coords="93,234,156,204,185,193,187,198,158,209,95,239"/>
+<area shape="rect" id="Node000005" href="$d4/d01/class_slic3r_1_1_g_u_i_1_1_u_i_build_canceled.html" title=" " alt="" coords="161,219,353,244"/>
+<area shape="poly" id="edge1319_Node000000_Node000005" title=" " alt="" coords="123,246,160,241,160,246,124,251"/>
+<area shape="rect" id="Node000006" href="$d2/d6a/structempty__stack.html" title=" " alt="" coords="209,268,305,294"/>
+<area shape="poly" id="edge1320_Node000000_Node000006" title=" " alt="" coords="124,262,209,272,208,278,123,267"/>
+<area shape="rect" id="Node000007" href="$d7/d57/classlibnest2d_1_1_geometry_exception.html" title=" " alt="" coords="159,317,355,343"/>
+<area shape="poly" id="edge1321_Node000000_Node000007" title=" " alt="" coords="95,275,158,304,192,314,190,319,156,309,92,279"/>
+<area shape="rect" id="Node000008" href="$de/df2/classnlohmann_1_1detail_1_1exception.html" title="general exception of the basic_json class" alt="" coords="167,367,347,392"/>
+<area shape="poly" id="edge1322_Node000000_Node000008" title=" " alt="" coords="79,280,113,318,134,337,158,353,182,364,180,369,155,358,131,341,109,322,75,284"/>
+<area shape="rect" id="Node000014" href="$da/d62/classorg_qhull_1_1_road_error.html" title=" " alt="" coords="189,435,325,460"/>
+<area shape="poly" id="edge1328_Node000000_Node000014" title=" " alt="" coords="72,282,106,342,130,374,158,403,184,419,211,432,209,437,181,424,155,407,126,378,102,345,68,285"/>
+<area shape="rect" id="Node000016" title=" " alt="" coords="195,520,319,546"/>
+<area shape="poly" id="edge1330_Node000000_Node000016" title=" " alt="" coords="68,283,80,323,99,373,125,424,159,471,191,498,225,517,222,522,188,502,155,475,120,427,94,375,75,325,63,285"/>
+<area shape="rect" id="Node000009" href="$d4/d5f/classnlohmann_1_1detail_1_1invalid__iterator.html" title="exception indicating errors with iterators" alt="" coords="405,163,566,204"/>
+<area shape="poly" id="edge1323_Node000008_Node000009" title=" " alt="" coords="352,356,355,354,369,337,376,321,380,287,383,252,390,233,403,215,419,202,422,206,407,219,394,236,388,253,385,288,381,323,373,340,359,357,356,360"/>
+<area shape="rect" id="Node000010" href="$d5/d1b/classnlohmann_1_1detail_1_1other__error.html" title="exception indicating other library errors" alt="" coords="409,229,562,269"/>
+<area shape="poly" id="edge1324_Node000008_Node000010" title=" " alt="" coords="348,358,355,353,371,337,379,319,387,300,403,280,422,268,425,272,407,284,392,302,384,321,376,340,359,358,351,362"/>
+<area shape="rect" id="Node000011" href="$d2/d67/classnlohmann_1_1detail_1_1out__of__range.html" title="exception indicating access out of the defined range" alt="" coords="415,294,557,335"/>
+<area shape="poly" id="edge1325_Node000008_Node000011" title=" " alt="" coords="330,360,356,353,422,333,424,338,358,358,331,365"/>
+<area shape="rect" id="Node000012" href="$d5/d1a/classnlohmann_1_1detail_1_1parse__error.html" title="exception indicating a parse error" alt="" coords="408,359,564,400"/>
+<area shape="poly" id="edge1326_Node000008_Node000012" title=" " alt="" coords="362,377,407,377,407,382,362,382"/>
+<area shape="rect" id="Node000013" href="$da/d1c/classnlohmann_1_1detail_1_1type__error.html" title="exception indicating executing a member function with a wrong type" alt="" coords="411,425,560,465"/>
+<area shape="poly" id="edge1327_Node000008_Node000013" title=" " alt="" coords="319,394,413,421,411,426,318,399"/>
+<area shape="rect" id="Node000015" href="$db/d7a/classorg_qhull_1_1_qhull_error.html" title=" " alt="" coords="418,489,553,515"/>
+<area shape="poly" id="edge1329_Node000014_Node000015" title=" " alt="" coords="328,462,429,486,428,491,327,467"/>
+<area shape="rect" id="Node000017" href="$db/d8d/class_slic3r_1_1_exception.html" title=" " alt="" coords="426,539,546,564"/>
+<area shape="poly" id="edge1331_Node000016_Node000017" title=" " alt="" coords="333,536,425,544,425,549,333,542"/>
+<area shape="rect" id="Node000018" href="$de/da8/class_slic3r_1_1_slicing_error.html" title=" " alt="" coords="618,513,747,539"/>
+<area shape="poly" id="edge1332_Node000017_Node000018" title=" " alt="" coords="560,539,617,532,618,537,561,545"/>
+<area shape="rect" id="Node000019" href="$df/dff/class_slic3r_1_1_slicing_errors.html" title=" " alt="" coords="614,563,751,588"/>
+<area shape="poly" id="edge1333_Node000017_Node000019" title=" " alt="" coords="561,558,614,565,613,570,560,563"/>
+</map>

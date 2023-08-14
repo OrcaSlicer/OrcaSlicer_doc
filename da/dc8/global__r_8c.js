@@ -1,0 +1,26 @@
+var global__r_8c =
+[
+    [ "qh_appendprint", "da/dc8/global__r_8c.html#ac16291f1d439c599b0d8470230a1a652", null ],
+    [ "qh_checkflags", "da/dc8/global__r_8c.html#a31cbe4b78e3cb246770a4ad2fb14ef8f", null ],
+    [ "qh_clear_outputflags", "da/dc8/global__r_8c.html#a282177cf2adb4e3c3d49991c4c68b7ee", null ],
+    [ "qh_clock", "da/dc8/global__r_8c.html#a6cd2cf961c3b203d86e4c12bbfabc84d", null ],
+    [ "qh_freebuffers", "da/dc8/global__r_8c.html#aefedf9f50e88e9b8899ddecba904ef3f", null ],
+    [ "qh_freebuild", "da/dc8/global__r_8c.html#a1e9df18061d65a384fa9bffc24fad43f", null ],
+    [ "qh_freeqhull", "da/dc8/global__r_8c.html#a37fbc5b3f643833d785ec04609c03bf4", null ],
+    [ "qh_init_A", "da/dc8/global__r_8c.html#ae30c1d3c6e2fa1ddf6e82f1ccba227b4", null ],
+    [ "qh_init_B", "da/dc8/global__r_8c.html#a8ad273f035b74609d27a2aa546dd3a87", null ],
+    [ "qh_init_qhull_command", "da/dc8/global__r_8c.html#aa9e31a38c755c8d41b67dd0579ccb7db", null ],
+    [ "qh_initflags", "da/dc8/global__r_8c.html#a2b3ec60b16caa46ad4e16f45cf56fa4c", null ],
+    [ "qh_initqhull_buffers", "da/dc8/global__r_8c.html#aacdccb11155222af99fc07bb52dbaa06", null ],
+    [ "qh_initqhull_globals", "da/dc8/global__r_8c.html#aa40f896cb9859ab9bcde4cf0ef976ea2", null ],
+    [ "qh_initqhull_mem", "da/dc8/global__r_8c.html#aa4998b25a1f2c9ee3cb432007e6dce17", null ],
+    [ "qh_initqhull_outputflags", "da/dc8/global__r_8c.html#a44cc5493be4603c42ad1893afe7c51f4", null ],
+    [ "qh_initqhull_start", "da/dc8/global__r_8c.html#a4b5d7704ecb5dc714e30a0a896eb1315", null ],
+    [ "qh_initqhull_start2", "da/dc8/global__r_8c.html#ae7751a817c5c626f03b2850c8b9f8c0f", null ],
+    [ "qh_initthresholds", "da/dc8/global__r_8c.html#aa36f6919799e7d4388f91a1c63773c7c", null ],
+    [ "qh_lib_check", "da/dc8/global__r_8c.html#a7ce15518aa041dfdc985c163e0e43037", null ],
+    [ "qh_option", "da/dc8/global__r_8c.html#ad8f63b035d8eea639a0adb99c3a3a103", null ],
+    [ "qh_zero", "da/dc8/global__r_8c.html#a5e0b3ea0f104310abff3ca0877dad546", null ],
+    [ "qh_version", "da/dc8/global__r_8c.html#aeee06e52e26acc7bb08107bb144d7485", null ],
+    [ "qh_version2", "da/dc8/global__r_8c.html#a620500cf1e673d15ac93f595c8416df3", null ]
+];

@@ -1,0 +1,21 @@
+<map id="cdt::triangulator_t::trianglesAt" name="cdt::triangulator_t::trianglesAt">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,77,128,117"/>
+<area shape="rect" id="Node000002" href="$d0/d5a/namespacecdt.html#a3a10689d22ba40f63983ef2715d4a271" title="Check if location is classified as on any of three edges." alt="" coords="178,5,316,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="104,74,175,40,189,34,191,39,177,45,107,78"/>
+<area shape="rect" id="Node000003" href="$d0/d5a/namespacecdt.html#ae7ea5f78ded743032165cfffcf894bf2" title="Neighbor index from a on&#45;edge location." alt="" coords="178,55,316,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="128,84,163,78,164,84,128,90"/>
+<area shape="rect" id="Node000004" href="$d0/d5a/namespacecdt.html#abd17a01f6886c3c330f8fcd48bdf949e" title="Check if point a lies inside of, outside of, or on an edge of a triangle." alt="" coords="176,105,318,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="128,104,162,109,161,114,128,109"/>
+<area shape="rect" id="Node000010" href="$d0/d5a/namespacecdt.html#aabc0c7d96947ba23de03650c2c21f113" title="Constant representing no valid neighbor for a triangle." alt="" coords="182,169,312,195"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="103,115,177,154,193,161,191,166,175,159,101,120"/>
+<area shape="rect" id="Node000005" href="$d0/d5a/namespacecdt.html#a32569360f8802a65cf9a03314e5f40c8" title="Check if point lies to the left of, to the right of, or on a line." alt="" coords="366,112,535,138"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="319,122,351,122,351,128,319,128"/>
+<area shape="rect" id="Node000006" href="$d0/d5a/namespacecdt.html#a6f6872307e7a3613db25d6f0113fddf6" title="Classify value of orient2d predicate." alt="" coords="583,87,743,112"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="535,112,568,108,569,113,536,117"/>
+<area shape="rect" id="Node000007" href="$dd/d2d/math_8cpp.html#a7a85e6a324d388a8c3c95629f0bd21a2" title=" " alt="" coords="629,136,697,162"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="536,132,615,141,614,146,535,137"/>
+<area shape="rect" id="Node000008" href="$db/d23/classvec2__.html#a9386121ef872e5200f64e59240979637" title=" " alt="" coords="791,111,862,136"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="697,141,776,129,777,134,698,146"/>
+<area shape="rect" id="Node000009" href="$db/d23/classvec2__.html#af96ab43d3b573ac4552fbbe601eb4ad6" title=" " alt="" coords="791,160,862,186"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="698,151,777,163,776,168,697,156"/>
+</map>

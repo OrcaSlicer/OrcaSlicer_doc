@@ -1,0 +1,35 @@
+<map id="Slic3r::arrangement::ArrangePolygon" name="Slic3r::arrangement::ArrangePolygon">
+<area shape="rect" id="Node000001" title="Input/Output structure for the arrange() function. The poly field will not be modified during arrange..." alt="" coords="1718,232,1852,273"/>
+<area shape="rect" id="Node000002" href="$db/dc4/class_slic3r_1_1_ex_polygon.html" title=" " alt="" coords="1453,45,1579,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1548,77,1757,229,1754,234,1545,81"/>
+<area shape="rect" id="Node000003" href="$d8/d90/class_slic3r_1_1_polygon.html" title=" " alt="" coords="847,45,956,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="963,38,980,35,1098,20,1191,17,1284,23,1402,35,1453,42,1452,48,1401,40,1283,28,1191,22,1098,25,981,40,964,44"/>
+<area shape="rect" id="Node000021" title=" " alt="" coords="1084,45,1239,71"/>
+<area shape="poly" id="edge8_Node000021_Node000003" title=" " alt="" coords="971,55,1084,55,1084,60,971,60"/>
+<area shape="rect" id="Node000004" href="$d7/dd1/class_slic3r_1_1_multi_point.html" title=" " alt="" coords="533,48,654,73"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="669,57,846,55,846,61,669,62"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="227,54,364,80"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="378,62,533,59,533,64,379,68"/>
+<area shape="rect" id="Node000006" href="$d6/dec/class_slic3r_1_1_point.html" title=" " alt="" coords="17,54,109,80"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="124,64,226,64,226,70,124,70"/>
+<area shape="rect" id="Node000020" title=" " alt="" coords="5,201,121,227"/>
+<area shape="poly" id="edge6_Node000005_Node000020" title=" " alt="" coords="96,191,272,78,275,82,98,195"/>
+<area shape="poly" id="edge9_Node000021_Node000020" title=" " alt="" coords="135,199,211,190,294,186,903,186,932,183,955,175,974,163,990,147,1025,113,1047,96,1074,81,1106,69,1108,74,1076,85,1050,100,1028,117,994,151,977,167,957,179,933,188,903,191,294,191,212,195,136,204"/>
+<area shape="rect" id="Node000023" title=" " alt="" coords="388,234,509,260"/>
+<area shape="poly" id="edge14_Node000023_Node000020" title=" " alt="" coords="136,218,145,219,388,240,387,245,144,225,135,224"/>
+<area shape="rect" id="Node000026" title=" " alt="" coords="678,340,823,365"/>
+<area shape="poly" id="edge18_Node000026_Node000020" title=" " alt="" coords="119,229,227,259,351,286,474,308,677,340,677,345,473,314,349,291,226,265,118,234"/>
+<area shape="poly" id="edge7_Node000002_Node000021" title=" " alt="" coords="1253,55,1453,55,1453,60,1253,60"/>
+<area shape="rect" id="Node000022" href="$d2/d2d/class_eigen_1_1_matrix.html" title=" " alt="" coords="1426,167,1606,207"/>
+<area shape="poly" id="edge10_Node000001_Node000022" title=" " alt="" coords="1617,209,1718,233,1717,239,1616,214"/>
+<area shape="rect" id="Node000008" href="$da/d8d/class_eigen_1_1_plain_object_base.html" title=" " alt="" coords="1082,95,1241,135"/>
+<area shape="poly" id="edge11_Node000022_Node000008" title=" " alt="" coords="1256,123,1328,134,1402,148,1456,164,1455,169,1401,154,1327,139,1255,128"/>
+<area shape="rect" id="Node000016" href="$d2/d2d/class_eigen_1_1_matrix.html" title="The matrix class, also used for vectors and row&#45;vectors." alt="" coords="1075,159,1248,215"/>
+<area shape="poly" id="edge12_Node000022_Node000016" title=" " alt="" coords="1262,184,1425,184,1425,190,1262,190"/>
+<area shape="poly" id="edge13_Node000001_Node000023" title=" " alt="" coords="524,246,749,250,1517,250,1718,250,1718,255,1517,255,749,255,524,252"/>
+<area shape="rect" id="Node000024" title=" " alt="" coords="1476,293,1556,319"/>
+<area shape="poly" id="edge15_Node000001_Node000024" title=" " alt="" coords="1570,301,1630,295,1693,283,1734,271,1735,276,1695,289,1630,300,1571,306"/>
+<area shape="rect" id="Node000025" title=" " alt="" coords="1099,289,1224,330"/>
+<area shape="poly" id="edge16_Node000024_Node000025" title=" " alt="" coords="1239,306,1476,303,1476,309,1239,311"/>
+<area shape="poly" id="edge17_Node000001_Node000026" title=" " alt="" coords="838,358,923,364,1015,367,1517,367,1552,364,1587,357,1654,332,1712,300,1755,271,1758,276,1714,305,1656,337,1589,362,1553,370,1517,372,1014,372,923,370,837,364"/>
+</map>

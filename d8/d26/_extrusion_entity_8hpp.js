@@ -1,0 +1,58 @@
+var _extrusion_entity_8hpp =
+[
+    [ "Slic3r::ExtrusionEntity", "de/d7c/class_slic3r_1_1_extrusion_entity.html", "de/d7c/class_slic3r_1_1_extrusion_entity" ],
+    [ "Slic3r::ExtrusionPath", "d7/dbc/class_slic3r_1_1_extrusion_path.html", "d7/dbc/class_slic3r_1_1_extrusion_path" ],
+    [ "Slic3r::ExtrusionMultiPath", "d9/de4/class_slic3r_1_1_extrusion_multi_path.html", "d9/de4/class_slic3r_1_1_extrusion_multi_path" ],
+    [ "Slic3r::ExtrusionLoop", "d8/d50/class_slic3r_1_1_extrusion_loop.html", "d8/d50/class_slic3r_1_1_extrusion_loop" ],
+    [ "Slic3r::ExtrusionLoop::ClosestPathPoint", "d8/d50/class_slic3r_1_1_extrusion_loop.html#dd/d3f/struct_slic3r_1_1_extrusion_loop_1_1_closest_path_point", [
+      [ "foot_pt", "d8/d50/class_slic3r_1_1_extrusion_loop.html#aa2b22833c3c4ed6c7c73bacf71f07f20", null ],
+      [ "path_idx", "d8/d50/class_slic3r_1_1_extrusion_loop.html#ac33d06dc3b54244d2d728ba6663fb178", null ],
+      [ "segment_idx", "d8/d50/class_slic3r_1_1_extrusion_loop.html#aab5bfa56a99e783cbbb6d9bbf1af83ee", null ]
+    ] ],
+    [ "ExtrusionEntitiesPtr", "d8/d26/_extrusion_entity_8hpp.html#aa2aadfc8d6bec8ef8e416bb12f0b464b", null ],
+    [ "ExtrusionPaths", "d8/d26/_extrusion_entity_8hpp.html#a2f0fe99ef6107bc0c3dc4c4bacce29c2", null ],
+    [ "ExtrusionLoopRole", "d8/d26/_extrusion_entity_8hpp.html#a17cb28edccd7ad002331b1fff3fe1703", [
+      [ "elrDefault", "d8/d26/_extrusion_entity_8hpp.html#a17cb28edccd7ad002331b1fff3fe1703a512bec1d6919d3639a887d703c7c07cc", null ],
+      [ "elrContourInternalPerimeter", "d8/d26/_extrusion_entity_8hpp.html#a17cb28edccd7ad002331b1fff3fe1703ae02a34953fc9bf00899acefd5b088397", null ],
+      [ "elrSkirt", "d8/d26/_extrusion_entity_8hpp.html#a17cb28edccd7ad002331b1fff3fe1703aff67fbfbebf94bed719e001f05a5bda5", null ]
+    ] ],
+    [ "ExtrusionRole", "d8/d26/_extrusion_entity_8hpp.html#a6fa3193f46e8c4fc55359a5c124f46e6", [
+      [ "erNone", "d8/d26/_extrusion_entity_8hpp.html#a6fa3193f46e8c4fc55359a5c124f46e6ad57ae907335d1f0f6b915b0b00fdc49c", null ],
+      [ "erPerimeter", "d8/d26/_extrusion_entity_8hpp.html#a6fa3193f46e8c4fc55359a5c124f46e6ae32f98111112cc6b4543d4d6335ff11c", null ],
+      [ "erExternalPerimeter", "d8/d26/_extrusion_entity_8hpp.html#a6fa3193f46e8c4fc55359a5c124f46e6a2a39cf7d4bc3b5fab08dedbf4e6ed20a", null ],
+      [ "erOverhangPerimeter", "d8/d26/_extrusion_entity_8hpp.html#a6fa3193f46e8c4fc55359a5c124f46e6adcadd76a13499d0bb89874683b76f838", null ],
+      [ "erInternalInfill", "d8/d26/_extrusion_entity_8hpp.html#a6fa3193f46e8c4fc55359a5c124f46e6afba035fe5ebfa2e2fd1ec715d38569e9", null ],
+      [ "erSolidInfill", "d8/d26/_extrusion_entity_8hpp.html#a6fa3193f46e8c4fc55359a5c124f46e6a80b4fbab901060d3195eeaf6e5598f86", null ],
+      [ "erTopSolidInfill", "d8/d26/_extrusion_entity_8hpp.html#a6fa3193f46e8c4fc55359a5c124f46e6ac3c1a101706cad2daa9c8a39e6eb5114", null ],
+      [ "erBottomSurface", "d8/d26/_extrusion_entity_8hpp.html#a6fa3193f46e8c4fc55359a5c124f46e6a279ab5ace1cdf7fad0b58df8fe492fb0", null ],
+      [ "erIroning", "d8/d26/_extrusion_entity_8hpp.html#a6fa3193f46e8c4fc55359a5c124f46e6ae18150a7edaed0a61320a34928a1c747", null ],
+      [ "erBridgeInfill", "d8/d26/_extrusion_entity_8hpp.html#a6fa3193f46e8c4fc55359a5c124f46e6a94c553994093636228d5b6d97be22a02", null ],
+      [ "erInternalBridgeInfill", "d8/d26/_extrusion_entity_8hpp.html#a6fa3193f46e8c4fc55359a5c124f46e6aa4a3c629cdaac53f817ee9c27bcf0393", null ],
+      [ "erGapFill", "d8/d26/_extrusion_entity_8hpp.html#a6fa3193f46e8c4fc55359a5c124f46e6a5235a17407dbed28ec26227c7001b5e0", null ],
+      [ "erSkirt", "d8/d26/_extrusion_entity_8hpp.html#a6fa3193f46e8c4fc55359a5c124f46e6ac9c70bc83384e07222ab7a852f5d906c", null ],
+      [ "erBrim", "d8/d26/_extrusion_entity_8hpp.html#a6fa3193f46e8c4fc55359a5c124f46e6a7faccf69d79d869c0495a57aea35ccfe", null ],
+      [ "erSupportMaterial", "d8/d26/_extrusion_entity_8hpp.html#a6fa3193f46e8c4fc55359a5c124f46e6a667e5eb77b54b3867d5ddd7474bd2f1a", null ],
+      [ "erSupportMaterialInterface", "d8/d26/_extrusion_entity_8hpp.html#a6fa3193f46e8c4fc55359a5c124f46e6a54a07a476d1b976ab5ee4f95e80df634", null ],
+      [ "erSupportTransition", "d8/d26/_extrusion_entity_8hpp.html#a6fa3193f46e8c4fc55359a5c124f46e6aca09505cfc31ed63c20afdb3f988271a", null ],
+      [ "erWipeTower", "d8/d26/_extrusion_entity_8hpp.html#a6fa3193f46e8c4fc55359a5c124f46e6a7d25aa5d5ddc2d07b7bb31d62f90df3c", null ],
+      [ "erCustom", "d8/d26/_extrusion_entity_8hpp.html#a6fa3193f46e8c4fc55359a5c124f46e6a5340a9df46b83353c5ff3119069d2493", null ],
+      [ "erMixed", "d8/d26/_extrusion_entity_8hpp.html#a6fa3193f46e8c4fc55359a5c124f46e6a0786a0da8016e68133bca07352f8ff18", null ],
+      [ "erCount", "d8/d26/_extrusion_entity_8hpp.html#a6fa3193f46e8c4fc55359a5c124f46e6a075a76b07eab2259f24163c11049f89c", null ]
+    ] ],
+    [ "extrusion_entities_append_loops", "d8/d26/_extrusion_entity_8hpp.html#a5f8283c1f9814ff89f3a8013404d9649", null ],
+    [ "extrusion_entities_append_loops_and_paths", "d8/d26/_extrusion_entity_8hpp.html#a57dd8eb5b869c007a46ade5c9d4a0691", null ],
+    [ "extrusion_entities_append_paths", "d8/d26/_extrusion_entity_8hpp.html#ae559c143f9a716fd6f046d90112345f8", null ],
+    [ "extrusion_entities_append_paths", "d8/d26/_extrusion_entity_8hpp.html#a9f2490e2992beb4c46b299296a94bfbd", null ],
+    [ "extrusion_entities_append_paths_with_wipe", "d8/d26/_extrusion_entity_8hpp.html#a90ca44c50e080fa6908cfb2f3f65c392", null ],
+    [ "extrusion_paths_append", "d8/d26/_extrusion_entity_8hpp.html#afadfd6d18a0413e5197ae808112e3648", null ],
+    [ "extrusion_paths_append", "d8/d26/_extrusion_entity_8hpp.html#a394c16bd9709c088917ca2e06f678229", null ],
+    [ "extrusion_paths_append", "d8/d26/_extrusion_entity_8hpp.html#a282d436b1a86f137f1364f1b8ed659f1", null ],
+    [ "extrusion_paths_append", "d8/d26/_extrusion_entity_8hpp.html#a7a9a7572b0a36bd893833494d0bc1a2a", null ],
+    [ "is_bridge", "d8/d26/_extrusion_entity_8hpp.html#a5df3c439676e1479c1a0c7a679617cba", null ],
+    [ "is_external_perimeter", "d8/d26/_extrusion_entity_8hpp.html#a65afdeb7754aebb91af0d6d5675958fb", null ],
+    [ "is_infill", "d8/d26/_extrusion_entity_8hpp.html#a38755f4172b7ef8f5ae07092a82ee173", null ],
+    [ "is_internal_perimeter", "d8/d26/_extrusion_entity_8hpp.html#a4bd61cea234d3725ba3ca75b1768bc7b", null ],
+    [ "is_perimeter", "d8/d26/_extrusion_entity_8hpp.html#a784249b30e7f6d5bcc431b8db8106ed0", null ],
+    [ "is_solid_infill", "d8/d26/_extrusion_entity_8hpp.html#ae9113b48396840674fbdb04989f1b2d7", null ],
+    [ "is_top_surface", "d8/d26/_extrusion_entity_8hpp.html#a05a955e1f53e21174bdb47180cde40b7", null ]
+];

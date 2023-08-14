@@ -1,0 +1,49 @@
+<map id="cdt::triangulator_t::insert_edge" name="cdt::triangulator_t::insert_edge">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,268,128,309"/>
+<area shape="rect" id="Node000002" href="$d0/d5a/namespacecdt.html#afcb2b75008805779d4053dbdec91584c" title="Test if two vertices share at least one common triangle." alt="" coords="197,5,333,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="69,267,81,224,101,167,131,108,151,80,174,56,183,49,186,53,177,60,155,84,136,111,106,169,86,225,74,268"/>
+<area shape="rect" id="Node000003" href="$d0/d5a/namespacecdt.html#a012dd91d64928a20f979a4f94e2829be" title=" " alt="" coords="217,70,313,96"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="72,267,86,232,107,188,136,144,174,106,201,92,204,97,177,110,141,148,112,191,91,234,77,269"/>
+<area shape="rect" id="Node000005" href="$dd/d2c/namespacecdt_1_1detail.html#aa9d774aaf90726d7a8fd2fb6395a9485" title=" " alt="" coords="176,120,354,161"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="80,266,119,218,145,193,174,170,181,166,184,170,177,175,149,197,123,222,84,269"/>
+<area shape="rect" id="Node000011" href="$d0/d5a/namespacecdt.html#ae1b514246ab97adf5b74d0306efb4471" title="Given two triangles, return vertex of first triangle opposed to the second." alt="" coords="183,235,347,275"/>
+<area shape="poly" id="edge13_Node000001_Node000011" title=" " alt="" coords="128,275,168,269,169,274,129,281"/>
+<area shape="rect" id="Node000014" href="$d0/d5a/namespacecdt.html#aed737e4df0cd31c67860cad1b814d9c0" title="Given triangle and a vertex find opposed triangle." alt="" coords="180,300,350,341"/>
+<area shape="poly" id="edge16_Node000001_Node000014" title=" " alt="" coords="129,296,166,302,165,307,128,301"/>
+<area shape="rect" id="Node000017" href="$dd/d2c/namespacecdt_1_1detail.html#aa087913a6338660098f1b2ed03fadd4d" title=" " alt="" coords="206,365,324,406"/>
+<area shape="poly" id="edge19_Node000001_Node000017" title=" " alt="" coords="101,307,177,350,193,357,191,362,174,355,98,311"/>
+<area shape="rect" id="Node000018" href="$d0/d5a/namespacecdt.html#a32569360f8802a65cf9a03314e5f40c8" title="Check if point lies to the left of, to the right of, or on a line." alt="" coords="180,185,350,211"/>
+<area shape="poly" id="edge20_Node000001_Node000018" title=" " alt="" coords="96,265,133,242,175,221,194,213,196,218,177,225,135,247,99,270"/>
+<area shape="rect" id="Node000020" href="$d0/d5a/namespacecdt.html#aabc0c7d96947ba23de03650c2c21f113" title="Constant representing no valid neighbor for a triangle." alt="" coords="200,430,330,456"/>
+<area shape="poly" id="edge23_Node000001_Node000020" title=" " alt="" coords="82,308,120,362,147,391,177,415,188,422,185,426,174,420,143,395,116,365,77,311"/>
+<area shape="rect" id="Node000021" href="$d8/d95/structcdt_1_1edge__t.html#a1761bcd17536b00717d89a3254e82aab" title=" " alt="" coords="211,480,319,505"/>
+<area shape="poly" id="edge24_Node000001_Node000021" title=" " alt="" coords="77,308,90,343,111,386,140,429,177,466,198,478,195,482,174,470,136,433,107,388,86,345,72,310"/>
+<area shape="rect" id="Node000022" href="$d8/d95/structcdt_1_1edge__t.html#aee01b7d9dcd1cceaadcc1d88afbcc874" title=" " alt="" coords="211,529,319,555"/>
+<area shape="poly" id="edge25_Node000001_Node000022" title=" " alt="" coords="74,308,85,352,104,408,135,466,154,493,177,516,198,528,195,532,174,520,150,496,130,469,99,410,80,353,69,310"/>
+<area shape="rect" id="Node000004" href="$d0/d5a/namespacecdt.html#a0b1a1cdd708d04a1b6b02721107554f6" title=" " alt="" coords="402,29,569,55"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="313,71,399,55,400,60,314,77"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="331,117,353,106,367,95,376,85,386,74,401,63,412,58,414,63,403,68,389,78,380,88,370,99,355,111,333,122"/>
+<area shape="rect" id="Node000006" href="$dd/d2c/namespacecdt_1_1detail.html#a7ff854f7587df295a47d92220e84706a" title=" " alt="" coords="432,78,539,104"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="354,118,417,103,418,109,355,123"/>
+<area shape="rect" id="Node000007" href="$db/d23/classvec2__.html#a6c5d841435b46fca6c6a7934070a4e6e" title=" " alt="" coords="438,128,534,153"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="354,138,423,138,423,143,354,143"/>
+<area shape="rect" id="Node000010" href="$dd/d2d/math_8cpp.html#a7a85e6a324d388a8c3c95629f0bd21a2" title=" " alt="" coords="452,177,519,203"/>
+<area shape="poly" id="edge10_Node000005_Node000010" title=" " alt="" coords="355,158,438,176,437,182,354,163"/>
+<area shape="rect" id="Node000008" href="$db/d23/classvec2__.html#a9386121ef872e5200f64e59240979637" title=" " alt="" coords="674,128,745,153"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="534,138,659,138,659,143,534,143"/>
+<area shape="rect" id="Node000009" href="$db/d23/classvec2__.html#af96ab43d3b573ac4552fbbe601eb4ad6" title=" " alt="" coords="674,177,745,203"/>
+<area shape="poly" id="edge9_Node000007_Node000009" title=" " alt="" coords="535,148,660,176,659,181,534,154"/>
+<area shape="poly" id="edge11_Node000010_Node000008" title=" " alt="" coords="519,180,658,149,660,154,520,185"/>
+<area shape="poly" id="edge12_Node000010_Node000009" title=" " alt="" coords="520,187,659,187,659,192,520,192"/>
+<area shape="rect" id="Node000012" href="$d0/d5a/namespacecdt.html#ad3e13196dbbc2d6fab1560de32ad6931" title="Index of triangle&#39;s vertex opposed to a triangle." alt="" coords="404,276,568,317"/>
+<area shape="poly" id="edge14_Node000011_Node000012" title=" " alt="" coords="348,268,389,276,388,281,347,273"/>
+<area shape="rect" id="Node000013" href="$d0/d5a/namespacecdt.html#a106f4285b3780759a623c514a2f99c21" title="Opposed vertex index from neighbor index." alt="" coords="640,276,779,317"/>
+<area shape="poly" id="edge15_Node000012_Node000013" title=" " alt="" coords="568,294,625,294,625,299,568,299"/>
+<area shape="rect" id="Node000015" href="$d0/d5a/namespacecdt.html#abbc1fed7a4a8d3f2463ccd0b67cbe400" title="Index of triangle&#39;s neighbor opposed to a vertex." alt="" coords="413,341,558,382"/>
+<area shape="poly" id="edge17_Node000014_Node000015" title=" " alt="" coords="351,334,399,343,398,348,350,339"/>
+<area shape="rect" id="Node000016" href="$d0/d5a/namespacecdt.html#aab40c56b37e87641d9750faff9b92026" title="Opposed neighbor index from vertex index." alt="" coords="617,341,802,382"/>
+<area shape="poly" id="edge18_Node000015_Node000016" title=" " alt="" coords="559,359,602,359,602,364,559,364"/>
+<area shape="poly" id="edge22_Node000018_Node000010" title=" " alt="" coords="350,192,437,189,437,194,350,197"/>
+<area shape="rect" id="Node000019" href="$d0/d5a/namespacecdt.html#a6f6872307e7a3613db25d6f0113fddf6" title="Classify value of orient2d predicate." alt="" coords="406,226,565,252"/>
+<area shape="poly" id="edge21_Node000018_Node000019" title=" " alt="" coords="337,208,400,220,399,225,337,214"/>
+</map>

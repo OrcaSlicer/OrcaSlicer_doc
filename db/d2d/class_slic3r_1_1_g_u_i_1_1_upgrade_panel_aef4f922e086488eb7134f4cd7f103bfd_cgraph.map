@@ -1,0 +1,53 @@
+<map id="Slic3r::GUI::UpgradePanel::refresh_version_and_firmware" name="Slic3r::GUI::UpgradePanel::refresh_version_and_firmware">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,415,209,455"/>
+<area shape="rect" id="Node000002" href="$dc/d24/class_slic3r_1_1_machine_object.html#af474b325877cba04b5ddd918dab012b0" title=" " alt="" coords="257,71,417,111"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,413,312,122,316,125,124,416"/>
+<area shape="rect" id="Node000010" href="$dc/d24/class_slic3r_1_1_machine_object.html#a86c4a5a0251781c4484b1e00d4fbbc70" title=" " alt="" coords="262,415,412,455"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="209,432,247,432,247,438,209,438"/>
+<area shape="rect" id="Node000024" href="$de/db8/namespace_slic3r.html#a06b86e5331aac1c640f8f7f40d798175" title=" " alt="" coords="508,677,599,703"/>
+<area shape="poly" id="edge26_Node000001_Node000024" title=" " alt="" coords="136,454,273,552,367,610,466,662,494,673,492,678,464,667,364,615,270,556,133,458"/>
+<area shape="rect" id="Node000003" href="$d9/dcc/classnlohmann_1_1basic__json.html#a476756fb08e7f2416aad116d137977f4" title="serialization" alt="" coords="480,5,627,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="406,68,469,48,470,53,407,73"/>
+<area shape="rect" id="Node000004" href="$dc/d24/class_slic3r_1_1_machine_object.html#ade0d002135681d1324249eda765ddac3" title=" " alt="" coords="479,71,628,111"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="417,88,464,88,464,94,417,94"/>
+<area shape="rect" id="Node000005" href="$dc/d24/class_slic3r_1_1_machine_object.html#ae1afb548f6934d4fba8f6840c9bd485b" title=" " alt="" coords="691,136,840,177"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="622,109,684,128,682,134,621,114"/>
+<area shape="rect" id="Node000007" href="$dc/d24/class_slic3r_1_1_machine_object.html#aba1eee500ff3251d244a2cbec8e93fae" title=" " alt="" coords="691,5,840,46"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="621,68,682,48,684,54,622,73"/>
+<area shape="rect" id="Node000008" href="$dc/d24/class_slic3r_1_1_machine_object.html#a097b9f2ab8ef7b440a536f56bdafcdcb" title=" " alt="" coords="691,71,840,111"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="628,88,676,88,676,94,628,94"/>
+<area shape="rect" id="Node000006" href="$d7/daf/class_slic3r_1_1_network_agent.html#a55a0161b96c9ea5d6f82dbd027fbf117" title=" " alt="" coords="906,136,1052,177"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="841,154,891,154,891,159,841,159"/>
+<area shape="rect" id="Node000009" href="$d7/daf/class_slic3r_1_1_network_agent.html#aabd2d34e09722a876409e5ac43e2ff5c" title=" " alt="" coords="890,71,1068,111"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="841,88,875,88,875,94,841,94"/>
+<area shape="rect" id="Node000011" href="$d9/dcc/classnlohmann_1_1basic__json.html#a23b495b4c282e4afacf382f5b49af7c7" title="returns an iterator to the first element" alt="" coords="692,443,839,483"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="412,428,521,426,642,432,677,438,676,443,641,438,520,431,412,433"/>
+<area shape="rect" id="Node000012" href="$d9/dcc/classnlohmann_1_1basic__json.html#a02c9bc4d0f33b7dec20b2798301d6971" title="check the existence of an element in a JSON object" alt="" coords="480,332,627,373"/>
+<area shape="poly" id="edge11_Node000010_Node000012" title=" " alt="" coords="391,412,483,376,485,381,393,417"/>
+<area shape="rect" id="Node000014" href="$de/db8/namespace_slic3r.html#a554a4a6b461bd7206df2d8de1e09a68a" title=" " alt="" coords="483,448,624,473"/>
+<area shape="poly" id="edge13_Node000010_Node000014" title=" " alt="" coords="412,441,468,448,467,453,411,446"/>
+<area shape="rect" id="Node000015" href="$d9/dcc/classnlohmann_1_1basic__json.html#a931267ec3f09eb67e4382f321b2c52bc" title="returns an iterator to one past the last element" alt="" coords="465,562,641,588"/>
+<area shape="poly" id="edge14_Node000010_Node000015" title=" " alt="" coords="358,454,404,501,434,526,466,547,480,554,478,559,464,552,431,530,400,505,354,458"/>
+<area shape="rect" id="Node000018" href="$d9/dcc/classnlohmann_1_1basic__json.html#a5417ca43ae5e7a3a2f82eee2d915c6ed" title="access the first element" alt="" coords="480,497,627,538"/>
+<area shape="poly" id="edge17_Node000010_Node000018" title=" " alt="" coords="390,453,466,483,482,489,480,494,464,488,388,458"/>
+<area shape="rect" id="Node000019" href="$d7/daf/class_slic3r_1_1_network_agent.html#acaae6168f7423a39d16caffc04732acf" title=" " alt="" coords="480,612,627,653"/>
+<area shape="poly" id="edge19_Node000010_Node000019" title=" " alt="" coords="351,454,396,524,428,564,467,598,473,602,470,607,463,602,425,568,392,528,347,457"/>
+<area shape="rect" id="Node000020" href="$d9/dcc/classnlohmann_1_1basic__json.html#aedc7afad96292b5ab61a2e0ad3067f5f" title="return whether value is null" alt="" coords="480,136,627,177"/>
+<area shape="poly" id="edge20_Node000010_Node000020" title=" " alt="" coords="341,413,355,367,380,307,415,244,438,214,463,188,469,183,472,187,467,192,442,217,420,247,385,310,360,369,346,415"/>
+<area shape="rect" id="Node000021" href="$d9/dcc/classnlohmann_1_1basic__json.html#a15018ade392a844ea32d5188d1a0b9c6" title="deserialize from a compatible input" alt="" coords="480,201,627,242"/>
+<area shape="poly" id="edge21_Node000010_Node000021" title=" " alt="" coords="345,413,389,336,423,292,463,253,471,247,474,252,467,257,427,295,394,339,350,416"/>
+<area shape="rect" id="Node000023" href="$d9/dcc/classnlohmann_1_1basic__json.html#a33c7c8638bb0b12e6d1b69d8106dd2e0" title="returns the number of elements" alt="" coords="480,267,627,307"/>
+<area shape="poly" id="edge23_Node000010_Node000023" title=" " alt="" coords="355,412,401,366,464,318,475,312,477,317,466,323,405,370,358,416"/>
+<area shape="poly" id="edge24_Node000010_Node000024" title=" " alt="" coords="355,455,419,558,432,589,438,615,447,639,467,662,495,678,492,682,463,666,442,641,433,617,427,591,415,560,350,457"/>
+<area shape="rect" id="Node000013" href="$d9/dcc/classnlohmann_1_1basic__json.html#a57e8411a770a6263d6d8f2116c37f3aa" title="return whether value is an object" alt="" coords="692,332,839,373"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="627,350,677,350,677,355,627,355"/>
+<area shape="rect" id="Node000016" href="$d1/d7c/classnlohmann_1_1detail_1_1iter__impl.html#a23e50ad4c13aa62d9ac7f60a123823ee" title="set the iterator past the last value" alt="" coords="694,555,837,595"/>
+<area shape="poly" id="edge15_Node000015_Node000016" title=" " alt="" coords="642,572,680,572,680,578,642,578"/>
+<area shape="rect" id="Node000017" href="$d2/d2c/classnlohmann_1_1detail_1_1primitive__iterator__t.html#ad26a823483846a12d890c3feed3097eb" title="set iterator to a defined past the end" alt="" coords="892,555,1066,595"/>
+<area shape="poly" id="edge16_Node000016_Node000017" title=" " alt="" coords="837,572,877,572,877,578,837,578"/>
+<area shape="poly" id="edge18_Node000018_Node000011" title=" " alt="" coords="627,496,677,483,678,488,628,501"/>
+<area shape="rect" id="Node000022" href="$dc/df0/namespacenlohmann_1_1detail.html#a616a53cc3114fdc113fc44e6af4c3c7f" title=" " alt="" coords="689,201,842,242"/>
+<area shape="poly" id="edge22_Node000021_Node000022" title=" " alt="" coords="627,219,674,219,674,224,627,224"/>
+<area shape="rect" id="Node000025" href="$de/db8/namespace_slic3r.html#a9cee7b60f26f304ff21ca61b33e11b8d" title=" " alt="" coords="692,677,839,703"/>
+<area shape="poly" id="edge25_Node000024_Node000025" title=" " alt="" coords="599,687,677,687,677,692,599,692"/>
+</map>

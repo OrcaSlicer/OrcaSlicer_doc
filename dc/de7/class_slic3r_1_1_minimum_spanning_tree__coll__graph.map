@@ -1,0 +1,34 @@
+<map id="Slic3r::MinimumSpanningTree" name="Slic3r::MinimumSpanningTree">
+<area shape="rect" id="Node000001" title="Implements Prim&#39;s algorithm to compute Minimum Spanning Trees (MST)." alt="" coords="2127,141,2322,167"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="1820,126,1977,182"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1992,152,2127,152,2127,157,1992,157"/>
+<area shape="rect" id="Node000003" href="$d6/dec/class_slic3r_1_1_point.html" title=" " alt="" coords="1079,188,1172,214"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1186,199,1317,199,1472,196,1594,189,1715,177,1820,163,1820,169,1716,182,1594,194,1472,201,1318,204,1186,204"/>
+<area shape="rect" id="Node000018" href="$df/de0/class_slic3r_1_1_minimum_spanning_tree.html#d0/d31/struct_slic3r_1_1_minimum_spanning_tree_1_1_edge" title="Represents an edge of the tree." alt="" coords="1277,146,1472,187"/>
+<area shape="poly" id="edge12_Node000018_Node000003" title=" " alt="" coords="1186,190,1276,177,1276,182,1187,195"/>
+<area shape="rect" id="Node000004" href="$d2/d2d/class_eigen_1_1_matrix.html" title=" " alt="" coords="961,188,1030,214"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1045,198,1079,198,1079,204,1045,204"/>
+<area shape="rect" id="Node000005" href="$da/d8d/class_eigen_1_1_plain_object_base.html" title=" " alt="" coords="383,149,542,189"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="557,167,734,172,937,188,961,191,960,196,936,193,733,177,557,172"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="62,149,194,189"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="208,166,382,166,382,172,208,172"/>
+<area shape="rect" id="Node000007" href="$d5/d91/class_eigen_1_1_dense_storage.html" title=" " alt="" coords="5,214,251,284"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="264,214,382,185,383,190,266,219"/>
+<area shape="rect" id="Node000014" href="$da/d8d/class_eigen_1_1_plain_object_base.html" title=" " alt="" coords="364,214,561,284"/>
+<area shape="poly" id="edge9_Node000014_Node000007" title=" " alt="" coords="265,246,363,246,363,252,265,252"/>
+<area shape="rect" id="Node000013" href="$d2/d2d/class_eigen_1_1_matrix.html" title="The matrix class, also used for vectors and row&#45;vectors." alt="" coords="610,210,783,266"/>
+<area shape="poly" id="edge7_Node000004_Node000013" title=" " alt="" coords="797,234,866,228,936,218,960,211,961,216,937,223,867,233,798,239"/>
+<area shape="poly" id="edge8_Node000013_Node000014" title=" " alt="" coords="576,241,610,239,610,245,576,246"/>
+<area shape="rect" id="Node000017" title=" " alt="" coords="1578,141,1715,167"/>
+<area shape="poly" id="edge10_Node000002_Node000017" title=" " alt="" coords="1730,152,1820,152,1820,157,1730,157"/>
+<area shape="poly" id="edge11_Node000017_Node000018" title=" " alt="" coords="1487,159,1577,155,1578,160,1487,164"/>
+<area shape="rect" id="Node000019" title=" " alt="" coords="1317,96,1432,122"/>
+<area shape="poly" id="edge13_Node000017_Node000019" title=" " alt="" coords="1447,118,1578,140,1577,145,1446,123"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="1106,76,1145,102"/>
+<area shape="poly" id="edge14_Node000019_Node000010" title=" " alt="" coords="1160,97,1196,105,1258,110,1316,110,1316,115,1258,115,1195,110,1159,102"/>
+<area shape="rect" id="Node000020" title=" " alt="" coords="1306,31,1443,72"/>
+<area shape="poly" id="edge17_Node000020_Node000010" title=" " alt="" coords="1159,81,1306,59,1306,64,1160,86"/>
+<area shape="poly" id="edge15_Node000002_Node000020" title=" " alt="" coords="1458,65,1797,132,1821,136,1820,141,1796,137,1457,70"/>
+<area shape="rect" id="Node000021" title=" " alt="" coords="1106,5,1145,31"/>
+<area shape="poly" id="edge16_Node000020_Node000021" title=" " alt="" coords="1160,20,1306,40,1306,45,1159,25"/>
+</map>

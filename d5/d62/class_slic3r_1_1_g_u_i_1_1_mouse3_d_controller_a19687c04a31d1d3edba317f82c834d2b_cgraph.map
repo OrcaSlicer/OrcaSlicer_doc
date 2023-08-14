@@ -1,0 +1,109 @@
+<map id="Slic3r::GUI::Mouse3DController::connect_device" name="Slic3r::GUI::Mouse3DController::connect_device">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,694,212,735"/>
+<area shape="rect" id="Node000002" href="$d4/dc7/group___a_p_i.html#ga8d478a5986439ffb838fb1f1ba6ba5ec" title="Close a HID device." alt="" coords="296,131,373,156"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="116,692,320,169,325,171,121,694"/>
+<area shape="rect" id="Node000011" href="$d4/dc7/group___a_p_i.html#gaae7d1c3e90835556ddc73fabe3a9ca9d" title="Enumerate the HID Devices." alt="" coords="480,600,586,626"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="197,691,465,626,467,631,198,696"/>
+<area shape="rect" id="Node000032" href="$d4/dc7/group___a_p_i.html#gafc2d2adf71db3784b783b9a554527aa4" title="Free an enumeration Linked List." alt="" coords="461,675,606,700"/>
+<area shape="poly" id="edge37_Node000001_Node000032" title=" " alt="" coords="212,705,446,690,446,696,212,710"/>
+<area shape="rect" id="Node000033" href="$d4/dc7/group___a_p_i.html#ga702f45b42d85599eedd602c05661fde5" title="Get The Manufacturer String from a HID device." alt="" coords="460,841,606,881"/>
+<area shape="poly" id="edge38_Node000001_Node000033" title=" " alt="" coords="171,733,459,833,457,838,169,738"/>
+<area shape="rect" id="Node000036" href="$d4/dc7/group___a_p_i.html#ga648feb765c5e0da3e821ee84aeab9d99" title="Get The Product String from a HID device." alt="" coords="457,905,609,931"/>
+<area shape="poly" id="edge43_Node000001_Node000036" title=" " alt="" coords="137,733,193,774,261,816,314,841,357,857,458,890,479,898,477,903,456,895,355,863,312,846,258,821,190,778,134,737"/>
+<area shape="rect" id="Node000037" href="$d4/dc7/group___a_p_i.html#ga6946f7e2f5d225d69308611db1e31ede" title="Open a HID device using a Vendor ID (VID), Product ID (PID) and optionally a serial number." alt="" coords="298,600,371,626"/>
+<area shape="poly" id="edge47_Node000001_Node000037" title=" " alt="" coords="153,691,259,642,288,629,290,634,261,647,155,696"/>
+<area shape="rect" id="Node000038" href="$d4/dc7/group___a_p_i.html#ga954ecb58b5dfb4a6ef6be3dcd520e42f" title="Open a HID device by its path name." alt="" coords="481,277,586,303"/>
+<area shape="poly" id="edge58_Node000001_Node000038" title=" " alt="" coords="128,692,506,312,510,316,132,696"/>
+<area shape="rect" id="Node000042" href="$dd/dd5/namespaceboost_1_1nowide.html#a57f51167f2006647d49ff42859aff064" title="Convert NULL terminated UTF source string to NULL terminated output string of size at most output_siz..." alt="" coords="260,903,409,928"/>
+<area shape="poly" id="edge59_Node000001_Node000042" title=" " alt="" coords="133,733,261,854,306,891,303,895,258,857,129,737"/>
+<area shape="rect" id="Node000044" href="$de/db8/namespace_slic3r.html#a06b86e5331aac1c640f8f7f40d798175" title=" " alt="" coords="289,1008,380,1034"/>
+<area shape="poly" id="edge61_Node000001_Node000044" title=" " alt="" coords="124,734,181,825,262,939,312,996,308,999,258,942,177,828,120,736"/>
+<area shape="rect" id="Node000003" href="$d1/de6/mac_2hid_8c.html#aefd22d7d071bbdc5f02ba4fae2e2e84c" title=" " alt="" coords="704,104,817,130"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="373,138,689,119,689,124,373,144"/>
+<area shape="rect" id="Node000005" href="$d1/de6/mac_2hid_8c.html#a8df4edee8d3c027775fbc3dd243216e8" title=" " alt="" coords="464,156,602,182"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="373,146,449,156,449,161,373,151"/>
+<area shape="rect" id="Node000006" href="$d1/de6/mac_2hid_8c.html#a47294e65244a6dde1bec5959936bf7e7" title=" " alt="" coords="490,55,576,80"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="369,128,483,83,485,88,371,133"/>
+<area shape="rect" id="Node000004" href="$d1/de6/mac_2hid_8c.html#aecdba5bd917f01a5b7fc1934b6507adc" title=" " alt="" coords="912,104,1069,130"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="817,114,897,114,897,120,817,120"/>
+<area shape="rect" id="Node000007" href="$df/db1/math_8h.html#a3a54064875b1b215da4904e90278a089" title=" " alt="" coords="732,55,789,80"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="577,65,718,65,718,70,577,70"/>
+<area shape="rect" id="Node000008" href="$dd/d2d/math_8cpp.html#af4fb32373387854416da6c38850971b2" title=" " alt="" coords="946,55,1035,80"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="789,65,931,65,931,70,789,70"/>
+<area shape="rect" id="Node000009" href="$df/db1/math_8h.html#a5ac9a8399d477c88e7ab2e9e406015c6" title=" " alt="" coords="936,5,1045,31"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="789,59,921,30,922,36,790,64"/>
+<area shape="rect" id="Node000010" href="$df/db1/math_8h.html#a0b6cff67f1f57a1096b42782cf5397da" title=" " alt="" coords="1155,5,1244,31"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="1045,16,1139,16,1139,21,1045,21"/>
+<area shape="rect" id="Node000012" href="$da/db5/linux_2hid_8c.html#a9901a71720e5ef8b3a6d1a870a5cf280" title=" " alt="" coords="699,501,822,527"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="551,597,597,566,656,536,684,526,686,531,658,541,600,571,554,602"/>
+<area shape="rect" id="Node000013" href="$da/db5/linux_2hid_8c.html#a1f0ac1c278c86d20eba750083a16d31c" title=" " alt="" coords="933,576,1048,602"/>
+<area shape="poly" id="edge36_Node000011_Node000013" title=" " alt="" coords="587,623,658,636,761,645,806,644,863,636,909,623,950,606,952,611,910,628,864,641,806,649,761,651,657,641,586,629"/>
+<area shape="rect" id="Node000014" href="$d1/de6/mac_2hid_8c.html#a604cfc67288283e0f9dfd378b77ac74f" title=" " alt="" coords="724,701,797,727"/>
+<area shape="poly" id="edge13_Node000011_Node000014" title=" " alt="" coords="556,624,602,651,658,680,711,698,709,703,656,685,600,656,554,629"/>
+<area shape="rect" id="Node000015" href="$d1/de6/mac_2hid_8c.html#ad73ed47de084f89ce4af2fa1145cf047" title=" " alt="" coords="933,400,1048,426"/>
+<area shape="poly" id="edge14_Node000011_Node000015" title=" " alt="" coords="542,598,586,543,619,513,656,486,757,461,918,425,919,430,758,466,658,491,622,517,590,547,546,601"/>
+<area shape="rect" id="Node000016" href="$d1/de6/mac_2hid_8c.html#a42681c8449fc2be0fea5b18d7c93a062" title=" " alt="" coords="680,852,841,878"/>
+<area shape="poly" id="edge15_Node000011_Node000016" title=" " alt="" coords="566,624,590,639,611,661,625,684,631,707,633,750,636,791,644,811,659,831,674,843,671,847,655,835,639,813,631,792,628,750,626,708,620,686,607,664,587,644,563,628"/>
+<area shape="rect" id="Node000018" href="$d1/de6/mac_2hid_8c.html#ace800f18291d079aa16f3c1b250277d6" title=" " alt="" coords="707,351,814,376"/>
+<area shape="poly" id="edge17_Node000011_Node000018" title=" " alt="" coords="535,599,548,557,571,499,606,438,629,410,656,385,673,375,692,368,694,373,675,380,659,390,633,413,611,441,576,501,553,559,540,600"/>
+<area shape="rect" id="Node000019" href="$d1/de6/mac_2hid_8c.html#a33750198913835efb282e87e59ec0b3d" title=" " alt="" coords="696,951,825,976"/>
+<area shape="poly" id="edge19_Node000011_Node000019" title=" " alt="" coords="567,624,591,639,612,661,630,700,636,737,635,772,630,806,625,839,626,872,636,905,659,938,684,954,681,958,655,941,631,907,621,873,620,839,624,806,629,772,631,737,625,701,607,664,588,643,565,628"/>
+<area shape="rect" id="Node000020" href="$d1/de6/mac_2hid_8c.html#a53b9159a1cc05ae43d79c5c771d87605" title=" " alt="" coords="697,751,824,776"/>
+<area shape="poly" id="edge21_Node000011_Node000020" title=" " alt="" coords="562,624,587,640,611,660,626,682,634,702,642,720,659,737,684,750,682,755,656,742,638,723,629,704,622,684,607,664,584,644,559,628"/>
+<area shape="rect" id="Node000021" href="$d1/de6/mac_2hid_8c.html#a43627019106275441c6987e0745f7dda" title=" " alt="" coords="709,400,812,426"/>
+<area shape="poly" id="edge23_Node000011_Node000021" title=" " alt="" coords="538,598,554,567,580,525,614,481,656,443,694,424,697,428,659,447,618,484,584,528,559,570,543,601"/>
+<area shape="rect" id="Node000022" href="$d4/dc7/group___a_p_i.html#ga142ffc1b0b7a7fa412d3862b2a17164b" title="Initialize the HIDAPI library." alt="" coords="729,252,792,278"/>
+<area shape="poly" id="edge25_Node000011_Node000022" title=" " alt="" coords="533,599,539,542,558,457,574,411,595,366,622,323,656,287,684,271,714,264,715,269,686,276,659,291,626,327,599,368,579,413,563,459,545,543,538,600"/>
+<area shape="rect" id="Node000028" href="$d1/de6/mac_2hid_8c.html#a386df2b399aaf9329e93f88693aa7cf1" title=" " alt="" coords="657,600,864,626"/>
+<area shape="poly" id="edge32_Node000011_Node000028" title=" " alt="" coords="587,610,643,610,643,616,587,616"/>
+<area shape="rect" id="Node000029" href="$da/de4/win_2hid_8c.html#a9a39aaa5bbfea331a279c9360da70173" title=" " alt="" coords="713,301,808,327"/>
+<area shape="poly" id="edge33_Node000011_Node000029" title=" " alt="" coords="534,599,543,549,564,478,580,439,601,402,626,366,656,336,676,324,698,316,700,321,678,329,659,340,630,370,605,404,585,442,569,480,548,550,539,600"/>
+<area shape="rect" id="Node000030" href="$da/db5/linux_2hid_8c.html#a8b3fe1938cddd3dd9947b840148e08a5" title=" " alt="" coords="927,951,1054,976"/>
+<area shape="poly" id="edge34_Node000011_Node000030" title=" " alt="" coords="565,624,589,640,611,660,623,678,629,696,633,728,639,758,646,772,659,787,684,805,709,814,732,817,756,817,807,818,835,824,865,837,881,849,892,861,914,888,966,938,962,942,910,892,887,864,878,853,862,842,833,829,807,823,756,823,732,823,707,819,682,809,656,791,642,775,634,760,628,729,624,697,618,681,607,664,586,644,562,628"/>
+<area shape="rect" id="Node000031" href="$d1/de6/mac_2hid_8c.html#afbea0aac1aa3bcc4086c51cb0c649d32" title=" " alt="" coords="678,551,843,576"/>
+<area shape="poly" id="edge35_Node000011_Node000031" title=" " alt="" coords="586,599,683,578,684,583,587,604"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="823,524,864,536,947,567,945,572,863,541,822,529"/>
+<area shape="rect" id="Node000017" href="$d1/de6/mac_2hid_8c.html#a9d59673c15ebefa23aa6b64eaec2c9da" title=" " alt="" coords="924,852,1057,878"/>
+<area shape="poly" id="edge16_Node000016_Node000017" title=" " alt="" coords="841,862,910,862,910,868,841,868"/>
+<area shape="poly" id="edge18_Node000018_Node000015" title=" " alt="" coords="815,372,919,395,918,400,813,377"/>
+<area shape="poly" id="edge20_Node000019_Node000017" title=" " alt="" coords="824,949,863,937,914,912,957,884,960,889,916,916,865,942,826,954"/>
+<area shape="poly" id="edge22_Node000020_Node000017" title=" " alt="" coords="812,774,865,793,914,817,957,842,954,846,911,822,863,798,810,779"/>
+<area shape="poly" id="edge24_Node000021_Node000015" title=" " alt="" coords="812,410,918,410,918,416,812,416"/>
+<area shape="rect" id="Node000023" href="$da/db5/linux_2hid_8c.html#a7f3365370fce5357b484e76aa28cc490" title=" " alt="" coords="916,252,1065,278"/>
+<area shape="poly" id="edge26_Node000022_Node000023" title=" " alt="" coords="792,262,901,262,901,268,792,268"/>
+<area shape="rect" id="Node000024" href="$d4/dc7/group___a_p_i.html#gacf5da9ce37132eba69fc259f17f13023" title="Finalize the HIDAPI library." alt="" coords="957,301,1024,327"/>
+<area shape="poly" id="edge27_Node000022_Node000024" title=" " alt="" coords="793,269,943,302,942,307,791,274"/>
+<area shape="rect" id="Node000026" href="$da/db5/linux_2hid_8c.html#aa48e7f0bf6fd79773e8ed25f5c5db785" title=" " alt="" coords="915,351,1066,376"/>
+<area shape="poly" id="edge29_Node000022_Node000026" title=" " alt="" coords="793,265,828,272,865,287,881,299,890,312,899,325,913,337,921,342,919,347,910,342,895,329,886,315,877,303,862,291,827,277,792,270"/>
+<area shape="rect" id="Node000027" href="$da/de4/win_2hid_8c.html#ae0d5480f64f03d303c37275d00980af0" title=" " alt="" coords="931,203,1050,228"/>
+<area shape="poly" id="edge31_Node000022_Node000027" title=" " alt="" coords="791,256,916,229,917,234,793,261"/>
+<area shape="rect" id="Node000025" href="$da/db5/linux_2hid_8c.html#a378361880a18df954a4088010b774958" title=" " alt="" coords="1117,325,1281,351"/>
+<area shape="poly" id="edge28_Node000024_Node000025" title=" " alt="" coords="1024,315,1103,324,1102,330,1024,321"/>
+<area shape="poly" id="edge30_Node000026_Node000025" title=" " alt="" coords="1066,352,1102,347,1103,353,1066,357"/>
+<area shape="poly" id="edge41_Node000033_Node000016" title=" " alt="" coords="607,859,665,860,665,866,607,865"/>
+<area shape="rect" id="Node000034" href="$da/db5/linux_2hid_8c.html#acd5574d95a5e6b63f627ea60d66612cc" title=" " alt="" coords="699,1000,822,1026"/>
+<area shape="poly" id="edge39_Node000033_Node000034" title=" " alt="" coords="596,880,611,891,629,916,635,941,641,965,659,987,686,1001,683,1006,656,991,637,967,630,943,624,919,607,895,593,884"/>
+<area shape="rect" id="Node000035" href="$da/de4/win_2hid_8c.html#a9c79ade7b74461d062148f08055780a7" title=" " alt="" coords="712,901,809,927"/>
+<area shape="poly" id="edge42_Node000033_Node000035" title=" " alt="" coords="607,875,658,888,698,897,697,902,657,893,606,881"/>
+<area shape="poly" id="edge40_Node000034_Node000030" title=" " alt="" coords="822,997,913,977,914,983,823,1002"/>
+<area shape="poly" id="edge45_Node000036_Node000019" title=" " alt="" coords="602,929,682,945,681,950,601,934"/>
+<area shape="poly" id="edge44_Node000036_Node000034" title=" " alt="" coords="585,929,611,941,626,953,635,965,644,976,659,987,686,998,684,1003,656,991,641,980,631,968,622,957,608,946,583,934"/>
+<area shape="poly" id="edge46_Node000036_Node000035" title=" " alt="" coords="610,914,697,913,697,918,610,919"/>
+<area shape="poly" id="edge48_Node000037_Node000011" title=" " alt="" coords="372,610,465,610,465,616,372,616"/>
+<area shape="poly" id="edge49_Node000037_Node000032" title=" " alt="" coords="372,624,484,666,482,671,370,629"/>
+<area shape="poly" id="edge50_Node000037_Node000038" title=" " alt="" coords="342,598,514,314,519,317,346,601"/>
+<area shape="poly" id="edge51_Node000038_Node000003" title=" " alt="" coords="543,275,603,198,656,139,689,124,691,129,659,143,608,201,547,279"/>
+<area shape="poly" id="edge52_Node000038_Node000022" title=" " alt="" coords="586,282,715,267,715,272,586,287"/>
+<area shape="poly" id="edge55_Node000038_Node000029" title=" " alt="" coords="586,293,699,305,698,310,586,298"/>
+<area shape="poly" id="edge56_Node000038_Node000035" title=" " alt="" coords="541,302,572,418,612,587,619,656,624,745,635,831,645,864,659,888,677,901,698,909,696,914,674,906,655,892,640,867,630,832,618,745,613,656,607,588,567,420,536,304"/>
+<area shape="rect" id="Node000039" href="$d1/de6/mac_2hid_8c.html#a644a99978ab65f7759fb1e8774a9f4fc" title=" " alt="" coords="703,203,818,228"/>
+<area shape="poly" id="edge53_Node000038_Node000039" title=" " alt="" coords="562,274,656,237,688,228,689,233,658,242,564,279"/>
+<area shape="rect" id="Node000041" href="$da/db5/linux_2hid_8c.html#aa8367d23a06060a60fde2dc6d9852f47" title=" " alt="" coords="680,153,841,179"/>
+<area shape="poly" id="edge57_Node000038_Node000041" title=" " alt="" coords="545,275,591,232,622,208,656,188,669,182,672,187,659,193,625,212,594,236,549,279"/>
+<area shape="rect" id="Node000040" href="$d1/de6/mac_2hid_8c.html#a9a83ea555e8b09d5988a00804ae53e47" title=" " alt="" coords="925,153,1056,179"/>
+<area shape="poly" id="edge54_Node000039_Node000040" title=" " alt="" coords="817,201,913,180,914,185,819,206"/>
+<area shape="rect" id="Node000043" href="$dd/dd5/namespaceboost_1_1nowide.html#abc7dfc4ebb4c462ec51da24506496b33" title="Template function that converts a buffer of UTF sequences in range [source_begin,source_end) to the o..." alt="" coords="463,955,604,996"/>
+<area shape="poly" id="edge60_Node000042_Node000043" title=" " alt="" coords="380,926,450,948,449,953,379,932"/>
+<area shape="rect" id="Node000045" href="$de/db8/namespace_slic3r.html#a9cee7b60f26f304ff21ca61b33e11b8d" title=" " alt="" coords="460,1020,606,1046"/>
+<area shape="poly" id="edge62_Node000044_Node000045" title=" " alt="" coords="380,1021,445,1025,445,1030,380,1026"/>
+</map>

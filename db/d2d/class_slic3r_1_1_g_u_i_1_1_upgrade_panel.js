@@ -1,0 +1,25 @@
+var class_slic3r_1_1_g_u_i_1_1_upgrade_panel =
+[
+    [ "UpgradePanel", "db/d2d/class_slic3r_1_1_g_u_i_1_1_upgrade_panel.html#a25741a85d2e161d658da2ea65ce71fd7", null ],
+    [ "~UpgradePanel", "db/d2d/class_slic3r_1_1_g_u_i_1_1_upgrade_panel.html#a69533a2081ad6b2ae52550d93aa6c3a6", null ],
+    [ "clean_push_upgrade_panel", "db/d2d/class_slic3r_1_1_g_u_i_1_1_upgrade_panel.html#aff91fbea3385a564e77f0629c1ce4e6a", null ],
+    [ "msw_rescale", "db/d2d/class_slic3r_1_1_g_u_i_1_1_upgrade_panel.html#a634a2449f02e54e002957bd918bd8723", null ],
+    [ "on_sys_color_changed", "db/d2d/class_slic3r_1_1_g_u_i_1_1_upgrade_panel.html#ae4fc495374e40262df31c95465e6578a", null ],
+    [ "refresh_version_and_firmware", "db/d2d/class_slic3r_1_1_g_u_i_1_1_upgrade_panel.html#aef4f922e086488eb7134f4cd7f103bfd", null ],
+    [ "Show", "db/d2d/class_slic3r_1_1_g_u_i_1_1_upgrade_panel.html#a31bddb8bbd9f45620b33d3f888baa8e8", null ],
+    [ "show_status", "db/d2d/class_slic3r_1_1_g_u_i_1_1_upgrade_panel.html#a5271a5708fe82d9916c64bb0538027d5", null ],
+    [ "update", "db/d2d/class_slic3r_1_1_g_u_i_1_1_upgrade_panel.html#ac8f80e000fc77ae1b3f823d7bc9d835a", null ],
+    [ "consistency_dlg", "db/d2d/class_slic3r_1_1_g_u_i_1_1_upgrade_panel.html#a2e7fc93a2e9df90f47fb98e2b36e0995", null ],
+    [ "enable_select_firmware", "db/d2d/class_slic3r_1_1_g_u_i_1_1_upgrade_panel.html#aa5157d2dd6452454d0d1298282b98784", null ],
+    [ "force_dlg", "db/d2d/class_slic3r_1_1_g_u_i_1_1_upgrade_panel.html#aac391670b922870a8c729c39bccdf80c", null ],
+    [ "last_consistency_hint_status", "db/d2d/class_slic3r_1_1_g_u_i_1_1_upgrade_panel.html#a469530235eb494c0168dcc9f0110c3da", null ],
+    [ "last_forced_hint_status", "db/d2d/class_slic3r_1_1_g_u_i_1_1_upgrade_panel.html#aedccfa76a2b16b0297ab940ca3672bae", null ],
+    [ "last_status", "db/d2d/class_slic3r_1_1_g_u_i_1_1_upgrade_panel.html#a0cfa9c4af641f1779b693251b5f75e4a", null ],
+    [ "m_machine_list_sizer", "db/d2d/class_slic3r_1_1_g_u_i_1_1_upgrade_panel.html#a33fa8d381f33c817f8def4cfb48f70ff", null ],
+    [ "m_need_update", "db/d2d/class_slic3r_1_1_g_u_i_1_1_upgrade_panel.html#ae9f0646918aa7b3a85d1df44fcb2e753", null ],
+    [ "m_obj", "db/d2d/class_slic3r_1_1_g_u_i_1_1_upgrade_panel.html#a664a7d8e4c3a75ea37532423bdfcce5c", null ],
+    [ "m_push_upgrade_panel", "db/d2d/class_slic3r_1_1_g_u_i_1_1_upgrade_panel.html#afeaafa5d3deffa75437c63d711f27b3a", null ],
+    [ "m_scrolledWindow", "db/d2d/class_slic3r_1_1_g_u_i_1_1_upgrade_panel.html#a4f6abc96ff1d339ed8a1886a80c392c1", null ],
+    [ "m_show_consistency_hint", "db/d2d/class_slic3r_1_1_g_u_i_1_1_upgrade_panel.html#a467e785e8532dba6d9cda10a2d21af14", null ],
+    [ "m_show_forced_hint", "db/d2d/class_slic3r_1_1_g_u_i_1_1_upgrade_panel.html#aa8138c8e15eaf16c82c6e80568c8b650", null ]
+];

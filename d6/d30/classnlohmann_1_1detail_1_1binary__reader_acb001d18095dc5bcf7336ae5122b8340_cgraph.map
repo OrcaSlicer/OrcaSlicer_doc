@@ -1,0 +1,30 @@
+<map id="nlohmann::detail::binary_reader::get_cbor_binary" name="nlohmann::detail::binary_reader::get_cbor_binary">
+<area shape="rect" id="Node000001" title="reads a CBOR byte array" alt="" coords="5,189,170,230"/>
+<area shape="poly" id="edge12_Node000001_Node000001" title=" " alt="" coords="47,189,45,179,52,170,66,165,88,163,111,165,125,172,123,177,110,170,87,168,67,170,55,175,50,180,52,188"/>
+<area shape="rect" id="Node000002" href="$d5/d1a/classnlohmann_1_1detail_1_1parse__error.html#ae77bd584cb9101140790219af7fec1ce" title="create a parse error exception" alt="" coords="657,71,814,111"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,187,147,133,180,106,217,86,271,68,328,57,386,51,443,49,552,55,643,68,643,73,551,60,443,54,386,56,329,62,273,73,219,91,183,111,151,137,105,191"/>
+<area shape="rect" id="Node000006" href="$d6/d30/classnlohmann_1_1detail_1_1binary__reader.html#a9c413c9a1bade1ce345740f4d69156f0" title=" " alt="" coords="641,189,830,230"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="138,228,177,241,218,251,323,264,405,264,488,255,593,239,638,231,639,236,594,244,488,260,405,269,322,269,217,256,175,246,137,233"/>
+<area shape="rect" id="Node000007" href="$d6/d30/classnlohmann_1_1detail_1_1binary__reader.html#ad222095c0b21a87824cb10629299629a" title="get next character from the input" alt="" coords="434,189,593,230"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="161,228,218,239,302,246,386,239,428,231,429,237,386,244,302,251,217,244,160,233"/>
+<area shape="rect" id="Node000008" href="$d6/d30/classnlohmann_1_1detail_1_1binary__reader.html#a55e13d567a53234573ab3833c0ca32e9" title="create a byte array by reading bytes from the input" alt="" coords="222,189,382,230"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="170,207,207,207,207,212,170,212"/>
+<area shape="rect" id="Node000009" href="$d6/d30/classnlohmann_1_1detail_1_1binary__reader.html#a61a0bd8bbe7b560bd429fa990ba3ba1a" title=" " alt="" coords="434,124,593,165"/>
+<area shape="poly" id="edge17_Node000001_Node000009" title=" " alt="" coords="106,187,153,145,184,125,217,110,274,98,333,98,389,105,439,117,438,122,388,110,332,103,274,103,218,115,186,130,156,149,110,191"/>
+<area shape="rect" id="Node000010" href="$d6/d30/classnlohmann_1_1detail_1_1binary__reader.html#ac356c6364fe0273d3303fb7a447f4ef6" title=" " alt="" coords="222,124,382,165"/>
+<area shape="poly" id="edge13_Node000001_Node000010" title=" " alt="" coords="156,186,218,167,219,172,157,191"/>
+<area shape="rect" id="Node000011" href="$d6/d30/classnlohmann_1_1detail_1_1binary__reader.html#a7d323283c60a0b89ee5eeadf5cb9a5ad" title=" " alt="" coords="218,355,386,395"/>
+<area shape="poly" id="edge16_Node000001_Node000011" title=" " alt="" coords="108,228,155,280,186,308,219,334,237,345,234,350,216,339,183,312,152,284,104,232"/>
+<area shape="rect" id="Node000003" href="$de/df2/classnlohmann_1_1detail_1_1exception.html#aa353a7dba4fd179f7224b8a2a238a264" title=" " alt="" coords="878,5,1058,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="809,68,878,48,880,53,811,73"/>
+<area shape="rect" id="Node000004" href="$de/df2/classnlohmann_1_1detail_1_1exception.html#abf41a7e9178356314082284e6cfea278" title=" " alt="" coords="878,71,1058,111"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="814,88,863,88,863,94,814,94"/>
+<area shape="rect" id="Node000005" href="$d5/d1a/classnlohmann_1_1detail_1_1parse__error.html#aefe74adeaa48781464ba2fd2ec63d221" title=" " alt="" coords="890,136,1046,177"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="811,109,880,129,878,134,809,114"/>
+<area shape="poly" id="edge8_Node000008_Node000007" title=" " alt="" coords="382,207,419,207,419,212,382,212"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="369,186,431,167,432,172,371,191"/>
+<area shape="poly" id="edge10_Node000009_Node000002" title=" " alt="" coords="593,123,642,111,643,116,594,128"/>
+<area shape="poly" id="edge11_Node000009_Node000006" title=" " alt="" coords="586,163,651,182,649,187,584,168"/>
+<area shape="poly" id="edge14_Node000010_Node000007" title=" " alt="" coords="371,163,432,182,431,187,369,168"/>
+<area shape="poly" id="edge15_Node000010_Node000009" title=" " alt="" coords="382,142,419,142,419,147,382,147"/>
+</map>

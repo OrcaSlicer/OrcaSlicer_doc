@@ -1,0 +1,19 @@
+<map id="Slic3r::TreeSupportData::get_collision" name="Slic3r::TreeSupportData::get_collision">
+<area shape="rect" id="Node000001" title="Creates the areas that have to be avoided by the tree&#39;s branches." alt="" coords="5,104,167,145"/>
+<area shape="rect" id="Node000002" href="$d9/da6/class_slic3r_1_1_tree_support_data.html#a77c4c6f6b3000e1fb26a078509f57bfa" title="Calculate the collision areas at the radius and layer indicated by key." alt="" coords="232,5,394,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,101,214,57,232,49,234,54,216,61,126,106"/>
+<area shape="rect" id="Node000006" href="$d9/da6/class_slic3r_1_1_tree_support_data.html#a2a856a7b7c15097c5f5a79e799c41f26" title="Round radius upwards to a multiple of m_radius_sample_resolution." alt="" coords="232,71,394,111"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="167,110,217,102,218,108,167,115"/>
+<area shape="rect" id="Node000008" href="$d1/d03/class_slic3r_1_1_tree_support_profiler.html#ad3b9254cd8fead7271fb147a63623eef" title=" " alt="" coords="226,136,400,177"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="167,133,212,139,211,145,167,138"/>
+<area shape="rect" id="Node000009" href="$d1/d03/class_slic3r_1_1_tree_support_profiler.html#ac4c1ac0e831a8c190d77ca6be05ee881" title=" " alt="" coords="215,201,411,227"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="125,143,168,165,216,186,239,194,238,199,214,191,166,170,123,148"/>
+<area shape="rect" id="Node000003" href="$de/db8/namespace_slic3r.html#a5e96c84b799b62906e4a46a94eb8916c" title=" " alt="" coords="459,13,575,39"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="394,23,444,23,444,28,394,28"/>
+<area shape="rect" id="Node000004" href="$de/db8/namespace_slic3r.html#a1f7e91998726ff8395ce66857a6fd49d" title=" " alt="" coords="623,13,822,39"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="575,23,608,23,608,28,575,28"/>
+<area shape="rect" id="Node000005" href="$d2/df1/class_clipper_lib_1_1_poly_node.html#a19128db6fb2aca66555231edaffa7ade" title=" " alt="" coords="870,5,1014,46"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="822,23,855,23,855,28,822,28"/>
+<area shape="rect" id="Node000007" href="$d4/df0/_array_cwise_unary_ops_8h.html#a63043b6807e8e10fb1adf4667e3664d2" title=" " alt="" coords="497,78,538,104"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="394,88,482,88,482,94,394,94"/>
+</map>

@@ -1,0 +1,32 @@
+<map id="nlohmann::basic_json::is_binary" name="nlohmann::basic_json::is_binary">
+<area shape="rect" id="Node000001" title="return whether value is a binary array" alt="" coords="841,291,988,331"/>
+<area shape="rect" id="Node000002" href="$d9/dcc/classnlohmann_1_1basic__json.html#a8ac83750e267e37d5d47591eb44cce42" title="remove elements given an iterator range" alt="" coords="645,29,793,70"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="900,278,885,235,861,184,830,131,791,85,774,73,778,69,794,81,834,128,866,181,889,233,905,276"/>
+<area shape="rect" id="Node000003" href="$d9/dcc/classnlohmann_1_1basic__json.html#a494632b69bbe1d0153d3bedad0901b8e" title="remove element given an iterator" alt="" coords="645,95,793,135"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="893,279,851,215,823,181,791,150,772,138,775,134,794,146,827,177,855,212,897,276"/>
+<area shape="rect" id="Node000009" href="$d9/dcc/classnlohmann_1_1basic__json.html#a23c2e02101cc62e1aec1d6ddaef0e340" title=" " alt="" coords="645,160,793,201"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="878,283,838,249,791,216,769,204,772,199,794,211,841,245,882,279"/>
+<area shape="rect" id="Node000010" href="$d9/dcc/classnlohmann_1_1basic__json.html#a314434d513d15eb576707d4afae3dd64" title=" " alt="" coords="645,225,793,266"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="837,288,781,269,783,264,839,283"/>
+<area shape="rect" id="Node000011" href="$d9/dcc/classnlohmann_1_1basic__json.html#aee33e2ca6e1c75542369e2e14a8478ea" title="get a pointer to the value (binary)" alt="" coords="645,291,793,331"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="826,314,793,314,793,308,826,308"/>
+<area shape="rect" id="Node000012" href="$d9/dcc/classnlohmann_1_1basic__json.html#a4376ac95b5360ba7687bb66f70d61c0a" title="get a pointer to the value (binary)" alt="" coords="645,356,793,397"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="839,339,783,358,781,353,837,334"/>
+<area shape="rect" id="Node000013" href="$d9/dcc/classnlohmann_1_1basic__json.html#a548d2d4013da24e7d7510d90febc80c4" title="return whether type is primitive" alt="" coords="645,421,793,462"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="882,343,841,377,794,411,772,423,769,418,791,406,838,373,878,339"/>
+<area shape="rect" id="Node000014" href="$d9/dcc/classnlohmann_1_1basic__json.html#aa242e339ebc7583e114f2167a83f8c90" title="exchanges the values" alt="" coords="645,487,793,527"/>
+<area shape="poly" id="edge14_Node000001_Node000014" title=" " alt="" coords="897,346,855,410,827,445,794,476,775,488,772,484,791,472,823,441,851,407,893,343"/>
+<area shape="rect" id="Node000015" href="$d9/dcc/classnlohmann_1_1basic__json.html#a749a1f5091a5e63ccfe919e0aef986af" title="exchanges the values" alt="" coords="645,552,793,593"/>
+<area shape="poly" id="edge15_Node000001_Node000015" title=" " alt="" coords="905,346,889,389,866,441,834,494,794,541,778,553,774,549,791,537,830,491,861,438,885,387,900,344"/>
+<area shape="rect" id="Node000004" href="$d3/d38/class_slic3r_1_1_g_u_i_1_1_guide_frame.html#ac4c996ec740f4a0a1638685c105ad239" title=" " alt="" coords="432,5,597,46"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="658,90,644,84,596,61,567,49,569,44,598,57,646,79,660,86"/>
+<area shape="rect" id="Node000007" href="$d9/dcc/classnlohmann_1_1basic__json.html#a844a77cb154752d12118f10af26d54cb" title="applies a JSON Merge Patch" alt="" coords="441,95,588,135"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="631,118,589,118,589,112,631,112"/>
+<area shape="rect" id="Node000008" href="$d9/dcc/classnlohmann_1_1basic__json.html#adcc786998f220a5b3083ee8a37c4553e" title="applies a JSON patch" alt="" coords="441,160,588,201"/>
+<area shape="poly" id="edge8_Node000003_Node000008" title=" " alt="" coords="640,143,582,162,580,157,639,138"/>
+<area shape="rect" id="Node000005" href="$d3/d38/class_slic3r_1_1_g_u_i_1_1_guide_frame.html#ad69a87e38dcc88de9750935222feee0b" title=" " alt="" coords="219,5,384,46"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="418,28,385,28,385,23,418,23"/>
+<area shape="rect" id="Node000006" href="$d3/d38/class_slic3r_1_1_g_u_i_1_1_guide_frame.html#a0f8b21cb8091a3d48262fcc4bd29f1b5" title=" " alt="" coords="5,5,171,46"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="204,28,171,28,171,23,204,23"/>
+<area shape="poly" id="edge7_Node000007_Node000007" title=" " alt="" coords="548,82,536,76,515,73,495,75,484,80,479,86,481,93,476,95,474,85,480,76,494,70,515,68,537,71,551,77"/>
+</map>

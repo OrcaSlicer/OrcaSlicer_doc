@@ -1,0 +1,30 @@
+<map id="Slic3r::OverhangCluster" name="Slic3r::OverhangCluster">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1709,121,1869,147"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="1348,148,1562,189"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1576,153,1708,139,1709,145,1577,158"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="1093,140,1222,181"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1237,160,1348,163,1347,168,1237,165"/>
+<area shape="rect" id="Node000004" href="$db/dc4/class_slic3r_1_1_ex_polygon.html" title=" " alt="" coords="830,145,956,171"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="970,156,991,157,1093,157,1093,163,991,162,970,162"/>
+<area shape="rect" id="Node000026" title=" " alt="" coords="1072,88,1243,113"/>
+<area shape="poly" id="edge15_Node000026_Node000004" title=" " alt="" coords="969,139,1094,111,1095,116,970,144"/>
+<area shape="rect" id="Node000005" href="$d8/d90/class_slic3r_1_1_polygon.html" title=" " alt="" coords="237,148,346,173"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="361,173,475,190,572,193,669,188,757,178,829,167,830,172,758,183,669,193,572,198,475,195,360,178"/>
+<area shape="rect" id="Node000023" title=" " alt="" coords="475,140,629,165"/>
+<area shape="poly" id="edge7_Node000023_Node000005" title=" " alt="" coords="361,158,451,157,474,156,475,161,451,162,361,164"/>
+<area shape="rect" id="Node000006" href="$d7/dd1/class_slic3r_1_1_multi_point.html" title=" " alt="" coords="5,137,126,163"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="141,151,236,155,236,160,140,156"/>
+<area shape="poly" id="edge6_Node000004_Node000023" title=" " alt="" coords="644,151,830,154,830,159,644,156"/>
+<area shape="rect" id="Node000022" title=" " alt="" coords="234,84,349,109"/>
+<area shape="poly" id="edge10_Node000003_Node000022" title=" " alt="" coords="363,79,495,60,578,53,668,49,764,50,861,59,957,76,1050,103,1062,113,1074,123,1100,137,1098,142,1071,128,1059,117,1047,108,956,81,860,64,763,56,668,54,578,58,496,66,364,85"/>
+<area shape="poly" id="edge8_Node000023_Node000022" title=" " alt="" coords="364,109,489,136,488,142,363,114"/>
+<area shape="poly" id="edge16_Node000026_Node000022" title=" " alt="" coords="330,74,375,59,563,27,640,19,712,17,784,21,861,29,1049,59,1091,70,1128,84,1126,89,1089,75,1048,64,860,34,783,26,712,23,640,25,564,32,377,64,332,79"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="46,200,85,225"/>
+<area shape="poly" id="edge9_Node000022_Node000015" title=" " alt="" coords="96,194,263,107,265,112,99,199"/>
+<area shape="rect" id="Node000024" title=" " alt="" coords="231,253,352,279"/>
+<area shape="poly" id="edge13_Node000024_Node000015" title=" " alt="" coords="100,217,234,250,233,255,99,223"/>
+<area shape="poly" id="edge11_Node000002_Node000024" title=" " alt="" coords="367,263,551,263,1159,263,1232,255,1302,236,1365,211,1415,187,1417,192,1368,216,1304,241,1233,260,1159,268,551,268,367,268"/>
+<area shape="rect" id="Node000025" title=" " alt="" coords="46,262,85,288"/>
+<area shape="poly" id="edge12_Node000024_Node000025" title=" " alt="" coords="99,273,207,271,230,270,231,275,207,277,100,278"/>
+<area shape="poly" id="edge14_Node000001_Node000026" title=" " alt="" coords="1258,102,1685,123,1709,125,1709,130,1685,128,1258,107"/>
+</map>

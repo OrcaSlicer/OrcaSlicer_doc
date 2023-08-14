@@ -1,0 +1,11 @@
+<map id="Slic3r::TreeSupportData::ceil_radius" name="Slic3r::TreeSupportData::ceil_radius">
+<area shape="rect" id="Node000001" title="Round radius upwards to a multiple of m_radius_sample_resolution." alt="" coords="424,39,585,79"/>
+<area shape="rect" id="Node000002" href="$d9/da6/class_slic3r_1_1_tree_support_data.html#ad66a99db4f69f3d36a4cfff590b664b9" title="Creates the areas that have to be avoided by the tree&#39;s branches in order to reach the build plate." alt="" coords="215,5,376,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="409,46,376,41,377,36,410,41"/>
+<area shape="rect" id="Node000004" href="$d9/da6/class_slic3r_1_1_tree_support_data.html#af0c36cb1f51762fdff79d41c5dd527ea" title="Creates the areas that have to be avoided by the tree&#39;s branches." alt="" coords="215,71,376,111"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="410,76,377,81,376,76,409,71"/>
+<area shape="rect" id="Node000003" href="$d9/da6/class_slic3r_1_1_tree_support_data.html#af61bc2795ef99304283057767623f795" title="Calculate the avoidance areas at the radius and layer indicated by key." alt="" coords="5,5,167,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="199,37,167,37,167,32,199,32"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="182,14,214,14,214,20,182,19"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="214,68,153,49,155,44,215,63"/>
+</map>

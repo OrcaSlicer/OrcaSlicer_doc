@@ -1,0 +1,5 @@
+var structnlohmann_1_1detail_1_1is__constructible__array__type__impl_3_01_basic_json_type_00_01_cons27075d101b6ea0a206984ee0c21ea5d0 =
+[
+    [ "value_type", "dc/ded/structnlohmann_1_1detail_1_1is__constructible__array__type__impl_3_01_basic_json_type_00_01_cons27075d101b6ea0a206984ee0c21ea5d0.html#a438d22266bdc2c931702813be54fe166", null ],
+    [ "value", "dc/ded/structnlohmann_1_1detail_1_1is__constructible__array__type__impl_3_01_basic_json_type_00_01_cons27075d101b6ea0a206984ee0c21ea5d0.html#a82e4763d4b833bb655ffa2c7371188ce", null ]
+];

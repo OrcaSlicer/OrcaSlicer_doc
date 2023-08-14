@@ -1,0 +1,38 @@
+<map id="Slic3r::GUI::Choice::set_value" name="Slic3r::GUI::Choice::set_value">
+<area shape="rect" id="Node000001" title="Sets a value for this control. subclasses should overload with a specific version Postcondition: Meth..." alt="" coords="5,85,141,125"/>
+<area shape="rect" id="Node000002" href="$d2/d68/class_combo_box.html#aa9bf050a07e70a5f6bdf06057c84ff3d" title=" " alt="" coords="198,5,348,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,82,188,41,207,34,209,39,190,46,110,86"/>
+<area shape="rect" id="Node000003" href="$d3/dc5/class_slic3r_1_1_config_option_ints_templ.html#a2d8a03a892dbb00f37faf1418f2d057f" title=" " alt="" coords="193,55,353,96"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="141,92,177,87,178,92,141,98"/>
+<area shape="rect" id="Node000004" href="$d2/d68/class_combo_box.html#a36e8aa3882419536f05d489f5dad7058" title=" " alt="" coords="189,120,357,146"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="141,112,174,116,173,122,141,117"/>
+<area shape="rect" id="Node000012" href="$d2/d68/class_combo_box.html#a3f173491ca6d95a728a122ab55c120b2" title=" " alt="" coords="200,169,346,195"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="116,123,190,156,207,162,205,167,188,161,114,128"/>
+<area shape="rect" id="Node000005" href="$dc/df0/class_drop_down.html#a205a0d4217ccf21c59922f9240114440" title=" " alt="" coords="416,71,560,96"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="332,117,414,98,415,103,333,122"/>
+<area shape="rect" id="Node000006" href="$d2/d68/class_combo_box.html#ad2f6a2984710832ca06ff18c2f21703f" title=" " alt="" coords="415,169,560,195"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="333,144,415,163,414,168,332,149"/>
+<area shape="rect" id="Node000010" href="$dc/df0/class_drop_down.html#af2d38e0bd96a91ead8a3d32d715dc296" title=" " alt="" coords="405,120,570,146"/>
+<area shape="poly" id="edge9_Node000004_Node000010" title=" " alt="" coords="357,130,390,130,390,136,357,136"/>
+<area shape="rect" id="Node000007" href="$d1/d18/class_text_input.html#a474baf03a1c967c5c4e29ec7c27ea4a9" title=" " alt="" coords="624,169,759,195"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="560,180,609,180,609,185,560,185"/>
+<area shape="rect" id="Node000008" href="$d1/d18/class_text_input.html#a3c6926c7e440ca591e83934efa3eef02" title=" " alt="" coords="817,165,977,191"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="759,178,802,177,802,183,759,184"/>
+<area shape="rect" id="Node000009" href="$d1/d18/class_text_input.html#a9b7f7eed0410bb0b584bd9a673783316" title=" " alt="" coords="1043,165,1193,191"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="977,176,1028,176,1028,181,977,181"/>
+<area shape="rect" id="Node000011" href="$dc/df0/class_drop_down.html#a626569282998d09ef83c313ecb87205e" title=" " alt="" coords="618,120,765,146"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="571,130,604,130,604,136,571,136"/>
+<area shape="poly" id="edge12_Node000012_Node000006" title=" " alt="" coords="347,180,400,180,400,185,347,185"/>
+<area shape="rect" id="Node000013" href="$dc/df0/class_drop_down.html#abe9794a177d0a37433fc643f7bb9f50b" title=" " alt="" coords="416,219,559,244"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="333,193,415,212,414,217,332,198"/>
+<area shape="rect" id="Node000014" href="$d8/dcc/namespacestd.html#af4bc231d061945eb59dbba98a117ece9" title=" " alt="" coords="643,223,740,248"/>
+<area shape="poly" id="edge14_Node000013_Node000014" title=" " alt="" coords="560,230,629,232,629,237,560,236"/>
+<area shape="rect" id="Node000015" href="$d7/d63/classhmesh__t.html#a19678c4e4889230aa87ea59b4ec047c8" title=" " alt="" coords="813,281,981,321"/>
+<area shape="poly" id="edge15_Node000014_Node000015" title=" " alt="" coords="735,246,818,273,816,278,734,251"/>
+<area shape="rect" id="Node000018" href="$d8/d9b/classarray__iterator__t.html#ac73b2d71bcaaa8f9fb198b061a58803a" title=" " alt="" coords="830,215,964,256"/>
+<area shape="poly" id="edge18_Node000014_Node000018" title=" " alt="" coords="740,233,815,233,815,238,740,238"/>
+<area shape="rect" id="Node000016" href="$d7/d63/classhmesh__t.html#a536da7c5d6be8a2f0be7a536c17a4644" title=" " alt="" coords="1029,316,1206,342"/>
+<area shape="poly" id="edge16_Node000015_Node000016" title=" " alt="" coords="982,309,1014,313,1014,318,981,314"/>
+<area shape="rect" id="Node000017" href="$d7/d63/classhmesh__t.html#ad6d08c43b0dac5f8f4a933496ef81ca9" title=" " alt="" coords="1041,251,1195,292"/>
+<area shape="poly" id="edge17_Node000015_Node000017" title=" " alt="" coords="981,287,1025,281,1026,286,982,292"/>
+</map>

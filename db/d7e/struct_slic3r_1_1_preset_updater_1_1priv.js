@@ -1,0 +1,38 @@
+var struct_slic3r_1_1_preset_updater_1_1priv =
+[
+    [ "Resource", "db/d7e/struct_slic3r_1_1_preset_updater_1_1priv.html#df/d80/struct_slic3r_1_1_preset_updater_1_1priv_1_1_resource", [
+      [ "cache_root", "db/d7e/struct_slic3r_1_1_preset_updater_1_1priv.html#a7e3e3330041c48441ef871ff92eba475", null ],
+      [ "description", "db/d7e/struct_slic3r_1_1_preset_updater_1_1priv.html#aa64017d047370b9a3a0ab370fc7fa2a2", null ],
+      [ "sub_caches", "db/d7e/struct_slic3r_1_1_preset_updater_1_1priv.html#aa197dfd479da859048b98f610f56e63d", null ],
+      [ "url", "db/d7e/struct_slic3r_1_1_preset_updater_1_1priv.html#a32c77a91f7cd858866da95bb13ec716d", null ],
+      [ "version", "db/d7e/struct_slic3r_1_1_preset_updater_1_1priv.html#aef643803283ca93dd1b26d9d57db5df1", null ]
+    ] ],
+    [ "priv", "db/d7e/struct_slic3r_1_1_preset_updater_1_1priv.html#a1857cb07beae11319533c7e780a6495e", null ],
+    [ "check_installed_vendor_profiles", "db/d7e/struct_slic3r_1_1_preset_updater_1_1priv.html#a6eebdca270c1b474e3f0a7a14f71f652", null ],
+    [ "extract_file", "db/d7e/struct_slic3r_1_1_preset_updater_1_1priv.html#a57bc54ccf39de12248c02c2c6ad79a5c", null ],
+    [ "get_cached_plugins_version", "db/d7e/struct_slic3r_1_1_preset_updater_1_1priv.html#a99f0cf7b0cb88b606cf043fe650c9fe8", null ],
+    [ "get_config_updates", "db/d7e/struct_slic3r_1_1_preset_updater_1_1priv.html#aff1209280aef6cb26f85a010a51f39f7", null ],
+    [ "get_file", "db/d7e/struct_slic3r_1_1_preset_updater_1_1priv.html#a941e7a6e74d0bcf93b9c2bb05dbd09c0", null ],
+    [ "install_bundles_rsrc", "db/d7e/struct_slic3r_1_1_preset_updater_1_1priv.html#aa3b61c187a737830d9c8ce76c2bc6923", null ],
+    [ "parse_version_string", "db/d7e/struct_slic3r_1_1_preset_updater_1_1priv.html#a35f4f9fe65a55c7e3b333d801c196156", null ],
+    [ "perform_updates", "db/d7e/struct_slic3r_1_1_preset_updater_1_1priv.html#ae18f7e65fd6a305f1afcec993c6e2c90", null ],
+    [ "prune_tmps", "db/d7e/struct_slic3r_1_1_preset_updater_1_1priv.html#a4940e42de9639ab2aa228b35ebb63c81", null ],
+    [ "set_download_prefs", "db/d7e/struct_slic3r_1_1_preset_updater_1_1priv.html#ac539c995a8256aa1ecf94d6b73575886", null ],
+    [ "set_waiting_updates", "db/d7e/struct_slic3r_1_1_preset_updater_1_1priv.html#aece548bbddd5962dc71aa5057a0a32ad", null ],
+    [ "sync_config", "db/d7e/struct_slic3r_1_1_preset_updater_1_1priv.html#a3e83b9816781df55496e0d2360d10183", null ],
+    [ "sync_plugins", "db/d7e/struct_slic3r_1_1_preset_updater_1_1priv.html#a138350dcc5b208c20986fbafa3e3cdbc", null ],
+    [ "sync_resources", "db/d7e/struct_slic3r_1_1_preset_updater_1_1priv.html#afddd68cc6236d71da97058112dd7ebde", null ],
+    [ "sync_tooltip", "db/d7e/struct_slic3r_1_1_preset_updater_1_1priv.html#a3c34fe470b02d1291749c6a0413e0f3b", null ],
+    [ "sync_version", "db/d7e/struct_slic3r_1_1_preset_updater_1_1priv.html#ad12927fd83706a1bc12c835eaaa0dd53", null ],
+    [ "cache_path", "db/d7e/struct_slic3r_1_1_preset_updater_1_1priv.html#a88634a7648d871f97108572cd4f47cb2", null ],
+    [ "cancel", "db/d7e/struct_slic3r_1_1_preset_updater_1_1priv.html#af00decc3399244b5aca6e99ef79ae3a0", null ],
+    [ "enabled_config_update", "db/d7e/struct_slic3r_1_1_preset_updater_1_1priv.html#a255e3e6a853e64eec598429806f9f2c6", null ],
+    [ "enabled_version_check", "db/d7e/struct_slic3r_1_1_preset_updater_1_1priv.html#ad095998a4965d49ef60cd34950cc8015", null ],
+    [ "has_waiting_updates", "db/d7e/struct_slic3r_1_1_preset_updater_1_1priv.html#a58ce233e25e1e0e9d0dc4b0b4ebf8946", null ],
+    [ "index_db", "db/d7e/struct_slic3r_1_1_preset_updater_1_1priv.html#a9aa4adf03d64f554268f5d7a361ffc36", null ],
+    [ "rsrc_path", "db/d7e/struct_slic3r_1_1_preset_updater_1_1priv.html#a12b772e680a5ca2fd88eae6c7ae4e4c6", null ],
+    [ "thread", "db/d7e/struct_slic3r_1_1_preset_updater_1_1priv.html#a3d3693efa8b964fa904018baa8ef29b9", null ],
+    [ "vendor_path", "db/d7e/struct_slic3r_1_1_preset_updater_1_1priv.html#adde3af38e04d0285249d847b004c23f4", null ],
+    [ "version_check_url", "db/d7e/struct_slic3r_1_1_preset_updater_1_1priv.html#a3ba85d0a6fd5e6b60876f7d594838e56", null ],
+    [ "waiting_updates", "db/d7e/struct_slic3r_1_1_preset_updater_1_1priv.html#a5f49f4486a39f2fab2910b14f717a99d", null ]
+];

@@ -1,0 +1,113 @@
+<map id="nlohmann::basic_json::set_parents" name="nlohmann::basic_json::set_parents">
+<area shape="rect" id="Node000001" title=" " alt="" coords="903,365,1050,406"/>
+<area shape="rect" id="Node000002" href="$d9/dcc/classnlohmann_1_1basic__json.html#a642afd9d8886e0dedfc0d5cee2baf57f" title="move constructor" alt="" coords="707,5,855,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="968,351,957,290,936,213,902,133,880,95,853,61,838,49,841,44,857,57,884,92,907,130,941,212,963,289,974,350"/>
+<area shape="rect" id="Node000003" href="$d9/dcc/classnlohmann_1_1basic__json.html#adda5ebaff0503f92c8b3d65cfb610ea5" title="create a JSON value" alt="" coords="707,71,855,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="965,352,950,302,928,243,895,181,876,152,853,126,837,114,840,110,856,122,880,149,900,178,933,240,956,301,970,350"/>
+<area shape="rect" id="Node000004" href="$d9/dcc/classnlohmann_1_1basic__json.html#a603be713183ad63dd8c9e1052c606004" title="copy constructor" alt="" coords="707,136,855,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="959,353,918,273,889,230,853,192,836,179,839,175,856,188,893,227,923,271,964,351"/>
+<area shape="rect" id="Node000005" href="$d9/dcc/classnlohmann_1_1basic__json.html#a40738eb9cb8c5a9ca14ae4b697c29f8e" title="create a JSON value from an existing one" alt="" coords="707,201,855,242"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="949,355,907,306,853,257,833,245,836,240,856,253,911,302,953,352"/>
+<area shape="rect" id="Node000006" href="$d9/dcc/classnlohmann_1_1basic__json.html#aeac617faf3448d6d2cb33a020be01d37" title="create a container (array or object) from an initializer list" alt="" coords="707,267,855,307"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="924,360,853,323,828,310,830,305,856,318,926,355"/>
+<area shape="rect" id="Node000007" href="$d9/dcc/classnlohmann_1_1basic__json.html#a23e540f473d32f1cf5d3243ea3ad495e" title="construct a JSON container given an iterator range" alt="" coords="707,332,855,373"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="887,373,855,368,856,362,888,368"/>
+<area shape="rect" id="Node000008" href="$d9/dcc/classnlohmann_1_1basic__json.html#afbccea367512a87b5d76e2bd92c5cc85" title="construct an array with count copies of given value" alt="" coords="707,397,855,438"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="888,403,856,408,855,403,888,397"/>
+<area shape="rect" id="Node000009" href="$d9/dcc/classnlohmann_1_1basic__json.html#ab5c8034e997c5b852b92bdc6a3f70994" title="Helper for insertion of an iterator." alt="" coords="707,976,855,1017"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="967,421,791,976,786,975,962,419"/>
+<area shape="rect" id="Node000021" href="$d9/dcc/classnlohmann_1_1basic__json.html#a28f87a769eda285eb4492ac1172d8812" title="copy assignment" alt="" coords="707,1041,855,1082"/>
+<area shape="poly" id="edge18_Node000001_Node000021" title=" " alt="" coords="975,421,964,553,941,734,925,826,906,910,883,980,857,1030,843,1043,839,1039,853,1027,879,978,901,909,920,825,936,733,958,553,970,421"/>
+<area shape="rect" id="Node000022" href="$d9/dcc/classnlohmann_1_1basic__json.html#a9ea67fc1ef0ccc42e1d5388fe0416ae5" title="access specified array element" alt="" coords="707,1107,855,1147"/>
+<area shape="poly" id="edge19_Node000001_Node000022" title=" " alt="" coords="976,421,966,565,945,765,929,868,910,962,886,1040,872,1071,857,1095,843,1108,840,1104,853,1092,867,1068,881,1038,905,960,924,867,940,764,961,564,971,421"/>
+<area shape="rect" id="Node000024" href="$d9/dcc/classnlohmann_1_1basic__json.html#ae07f1fbbf4a6c835696c4d27dc919094" title=" " alt="" coords="707,463,855,503"/>
+<area shape="poly" id="edge22_Node000001_Node000024" title=" " alt="" coords="926,416,856,452,830,464,828,460,853,447,923,411"/>
+<area shape="rect" id="Node000106" href="$d9/dcc/classnlohmann_1_1basic__json.html#a94295a06e0e7b3867fe83afbee4cb202" title="exchanges the values" alt="" coords="707,1172,855,1213"/>
+<area shape="poly" id="edge61_Node000001_Node000106" title=" " alt="" coords="977,421,968,577,949,796,933,909,913,1013,888,1100,873,1134,857,1161,844,1173,840,1169,853,1157,868,1131,883,1098,908,1012,928,908,943,796,963,576,971,421"/>
+<area shape="rect" id="Node000010" href="$d9/dcc/classnlohmann_1_1basic__json.html#aeb86e8478e20d95970a8b61ff01dce3b" title="inserts element" alt="" coords="503,1107,650,1147"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="716,1027,709,1032,694,1048,686,1063,677,1079,661,1096,641,1108,638,1104,658,1092,673,1076,681,1061,690,1044,706,1028,712,1023"/>
+<area shape="rect" id="Node000018" href="$d9/dcc/classnlohmann_1_1basic__json.html#a8137d5471edcd71606e42155ed9c23e2" title="inserts elements" alt="" coords="503,1041,650,1082"/>
+<area shape="poly" id="edge15_Node000009_Node000018" title=" " alt="" coords="702,1024,643,1043,642,1038,700,1019"/>
+<area shape="rect" id="Node000019" href="$d9/dcc/classnlohmann_1_1basic__json.html#a856b8764efd21dac4205a00fec82e09a" title="inserts elements" alt="" coords="503,1172,650,1213"/>
+<area shape="poly" id="edge16_Node000009_Node000019" title=" " alt="" coords="713,1028,709,1031,697,1048,691,1063,686,1095,682,1127,674,1144,661,1161,645,1173,642,1169,657,1157,670,1141,676,1126,681,1094,686,1062,693,1045,705,1028,709,1024"/>
+<area shape="rect" id="Node000020" href="$d9/dcc/classnlohmann_1_1basic__json.html#a71e197e6cc78c3960011f68a75f8ef22" title="inserts elements" alt="" coords="503,976,650,1017"/>
+<area shape="poly" id="edge17_Node000009_Node000020" title=" " alt="" coords="692,999,650,999,650,994,692,994"/>
+<area shape="rect" id="Node000011" href="$d9/dcc/classnlohmann_1_1basic__json.html#a1c1f21327df91a4dd6c5f5a107240385" title="creates a diff as a JSON patch" alt="" coords="266,1457,413,1498"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="498,1159,495,1162,475,1194,467,1225,466,1255,469,1285,473,1316,473,1348,465,1381,447,1417,424,1441,395,1459,393,1454,420,1437,443,1413,460,1380,467,1348,467,1317,464,1286,460,1255,461,1224,470,1192,491,1159,494,1156"/>
+<area shape="rect" id="Node000012" href="$d9/dcc/classnlohmann_1_1basic__json.html#a9c5b9de8a4a759861cb600b38a6c81b1" title="inserts element" alt="" coords="266,1588,413,1629"/>
+<area shape="poly" id="edge12_Node000010_Node000012" title=" " alt="" coords="497,1159,495,1162,478,1189,466,1216,460,1242,457,1267,462,1318,474,1369,485,1419,489,1471,486,1497,479,1523,466,1550,447,1577,432,1590,415,1599,412,1595,429,1586,443,1573,461,1547,474,1521,481,1496,484,1470,480,1420,469,1370,457,1319,452,1267,454,1241,461,1214,473,1187,491,1159,493,1156"/>
+<area shape="rect" id="Node000013" href="$dc/d24/class_slic3r_1_1_machine_object.html#a641853e16dc62025e9c198da3bfa3ba2" title=" " alt="" coords="265,1523,414,1563"/>
+<area shape="poly" id="edge13_Node000010_Node000013" title=" " alt="" coords="498,1159,495,1162,480,1185,470,1207,462,1250,465,1293,473,1336,482,1379,484,1422,475,1466,463,1489,447,1511,433,1524,416,1533,413,1529,430,1520,443,1508,459,1486,470,1464,479,1422,477,1379,468,1337,460,1294,456,1250,465,1205,475,1182,491,1159,494,1156"/>
+<area shape="rect" id="Node000017" href="$d9/dcc/classnlohmann_1_1basic__json.html#adcc786998f220a5b3083ee8a37c4553e" title="applies a JSON patch" alt="" coords="266,748,413,789"/>
+<area shape="poly" id="edge14_Node000010_Node000017" title=" " alt="" coords="494,1098,491,1095,468,1057,460,1019,462,982,468,946,474,910,475,875,466,840,443,803,429,791,412,782,414,778,432,787,447,800,471,838,480,875,479,911,473,947,467,983,466,1018,473,1055,495,1092,498,1095"/>
+<area shape="poly" id="edge11_Node000011_Node000011" title=" " alt="" coords="379,1445,364,1438,339,1436,317,1438,303,1443,298,1449,300,1456,295,1457,293,1447,300,1438,316,1433,339,1431,365,1433,381,1440"/>
+<area shape="rect" id="Node000023" href="$d9/dcc/classnlohmann_1_1basic__json.html#a844a77cb154752d12118f10af26d54cb" title="applies a JSON Merge Patch" alt="" coords="503,1261,650,1302"/>
+<area shape="poly" id="edge20_Node000022_Node000023" title=" " alt="" coords="716,1157,709,1162,694,1178,685,1193,676,1209,661,1226,614,1263,611,1259,657,1222,672,1206,680,1190,690,1175,706,1158,712,1153"/>
+<area shape="poly" id="edge21_Node000023_Node000023" title=" " alt="" coords="610,1249,597,1242,576,1240,557,1242,545,1247,541,1252,542,1260,537,1261,535,1251,542,1242,555,1237,576,1235,599,1237,612,1244"/>
+<area shape="rect" id="Node000025" href="$d9/dcc/classnlohmann_1_1basic__json.html#a239e942da82f2597d0cf5ec806f5bc0d" title="access specified object element with bounds checking" alt="" coords="493,86,659,112"/>
+<area shape="poly" id="edge23_Node000024_Node000025" title=" " alt="" coords="707,454,705,451,682,408,674,365,676,324,684,284,691,245,692,206,683,166,672,146,657,126,643,114,646,110,661,122,677,144,688,164,697,205,696,245,689,285,681,325,679,365,687,406,710,448,712,451"/>
+<area shape="rect" id="Node000026" href="$d9/dcc/classnlohmann_1_1basic__json.html#a52b18a5b7e68652c65b070900c438c6e" title="access specified array element with bounds checking" alt="" coords="493,528,659,553"/>
+<area shape="poly" id="edge24_Node000024_Node000026" title=" " alt="" coords="694,510,625,530,624,524,692,505"/>
+<area shape="rect" id="Node000048" href="$d9/dcc/classnlohmann_1_1basic__json.html#af244c096197a233edba4c83200ae66ac" title="add an object to an object if key does not exist" alt="" coords="503,463,650,503"/>
+<area shape="poly" id="edge37_Node000024_Node000048" title=" " alt="" coords="692,486,650,486,650,480,692,480"/>
+<area shape="rect" id="Node000049" href="$d9/dcc/classnlohmann_1_1basic__json.html#a15c0a5db4fb12d49433801bbe6436bfb" title="add an object to an array" alt="" coords="503,136,650,177"/>
+<area shape="poly" id="edge39_Node000024_Node000049" title=" " alt="" coords="708,454,705,451,685,417,677,383,677,350,681,319,685,287,685,256,677,224,657,191,644,179,647,175,661,188,682,222,691,255,691,288,687,319,683,351,682,382,690,415,710,448,712,451"/>
+<area shape="rect" id="Node000050" href="$d9/dcc/classnlohmann_1_1basic__json.html#a3f45f3820c456ad2e3f3df2926564151" title="access specified object element" alt="" coords="503,201,650,242"/>
+<area shape="poly" id="edge40_Node000024_Node000050" title=" " alt="" coords="708,455,705,451,689,425,681,400,681,352,681,305,673,281,657,257,643,245,647,241,661,253,678,279,686,304,687,352,687,399,694,423,709,448,712,451"/>
+<area shape="rect" id="Node000051" href="$d9/dcc/classnlohmann_1_1basic__json.html#abc94831476f7b4d3efe6f2e9036c7188" title="access specified object element" alt="" coords="503,267,650,307"/>
+<area shape="poly" id="edge41_Node000024_Node000051" title=" " alt="" coords="709,455,705,451,693,434,686,417,681,385,676,354,670,338,657,322,642,310,645,306,661,318,674,335,682,352,686,384,691,416,697,432,709,448,713,452"/>
+<area shape="rect" id="Node000052" href="$d9/dcc/classnlohmann_1_1basic__json.html#ab9e0253c92736db021840105d374c4c4" title="add an object to an array" alt="" coords="503,911,650,951"/>
+<area shape="poly" id="edge42_Node000024_Node000052" title=" " alt="" coords="767,518,589,912,584,909,762,516"/>
+<area shape="rect" id="Node000104" href="$d9/dcc/classnlohmann_1_1basic__json.html#a3405d38087e13994a5a4556065b0be6d" title="add an object to an array" alt="" coords="503,332,650,373"/>
+<area shape="poly" id="edge59_Node000024_Node000104" title=" " alt="" coords="712,457,706,452,690,435,681,419,673,403,658,388,638,376,641,371,661,384,677,400,686,416,694,432,709,448,716,453"/>
+<area shape="rect" id="Node000105" href="$d9/dcc/classnlohmann_1_1basic__json.html#ad704839e6a5195e3b76f22e2b9aa63ee" title="add an object to an object" alt="" coords="503,397,650,438"/>
+<area shape="poly" id="edge60_Node000024_Node000105" title=" " alt="" coords="700,460,642,441,643,436,702,455"/>
+<area shape="poly" id="edge33_Node000026_Node000017" title=" " alt="" coords="566,568,549,606,522,651,488,697,447,737,415,754,412,750,443,733,484,694,518,648,544,603,562,566"/>
+<area shape="rect" id="Node000027" href="$d9/d01/class_slic3r_1_1_g_u_i_1_1_g_u_i___app.html#a5bf54e899bfa44a3d2d895d6e275b238" title=" " alt="" coords="265,552,414,593"/>
+<area shape="poly" id="edge25_Node000026_Node000027" title=" " alt="" coords="479,556,414,565,414,560,478,551"/>
+<area shape="rect" id="Node000028" href="$da/d51/struct_slic3r_1_1_b_box_data.html#a9cae1ead48cfe4840bd7172bcf218b42" title=" " alt="" coords="246,192,433,217"/>
+<area shape="poly" id="edge26_Node000026_Node000028" title=" " alt="" coords="494,520,491,517,468,481,460,445,461,410,466,375,472,341,473,307,465,273,443,238,418,220,421,216,447,235,470,270,479,306,477,341,472,376,466,410,465,445,473,479,495,513,498,517"/>
+<area shape="rect" id="Node000029" href="$d2/d70/struct_slic3r_1_1_plate_b_box_data.html#a9280480ff534a1b880f079eec96e5e7a" title=" " alt="" coords="19,209,172,250"/>
+<area shape="poly" id="edge28_Node000026_Node000029" title=" " alt="" coords="495,521,491,517,471,486,464,456,464,425,469,395,473,366,472,337,464,309,443,282,425,270,398,260,328,246,247,237,172,233,172,228,248,232,328,240,400,255,427,266,447,278,469,307,478,336,478,366,474,396,469,426,469,455,476,484,495,513,499,517"/>
+<area shape="rect" id="Node000031" href="$de/db8/namespace_slic3r.html#a585c7d0a8e923e0ab3813f59dd113315" title=" " alt="" coords="277,127,402,167"/>
+<area shape="poly" id="edge29_Node000026_Node000031" title=" " alt="" coords="494,520,491,517,475,495,464,473,455,430,458,388,466,346,475,305,477,264,469,223,458,202,443,181,424,166,401,156,404,151,427,161,447,177,463,199,474,221,483,264,480,306,472,347,463,389,461,430,469,471,480,492,495,513,498,517"/>
+<area shape="rect" id="Node000033" href="$de/db8/namespace_slic3r.html#a278c238a8640bcdef609547c5a66df29" title=" " alt="" coords="275,292,404,333"/>
+<area shape="poly" id="edge30_Node000026_Node000033" title=" " alt="" coords="496,521,491,517,475,496,468,475,466,434,464,393,457,373,443,353,425,338,403,328,405,323,428,334,447,349,462,371,469,392,471,433,473,474,480,493,495,513,500,517"/>
+<area shape="rect" id="Node000036" href="$db/d7e/struct_slic3r_1_1_preset_updater_1_1priv.html#a3e83b9816781df55496e0d2360d10183" title=" " alt="" coords="22,325,169,366"/>
+<area shape="poly" id="edge35_Node000026_Node000036" title=" " alt="" coords="497,522,491,517,478,502,471,486,467,454,463,424,456,410,443,397,424,386,396,377,324,363,244,355,169,350,169,345,244,349,325,358,398,372,426,381,447,393,460,407,468,422,473,453,477,484,483,499,495,513,500,518"/>
+<area shape="rect" id="Node000037" href="$d3/d38/class_slic3r_1_1_g_u_i_1_1_guide_frame.html#ac4c996ec740f4a0a1638685c105ad239" title=" " alt="" coords="257,617,422,658"/>
+<area shape="poly" id="edge32_Node000026_Node000037" title=" " alt="" coords="539,563,446,607,412,619,410,614,444,602,536,558"/>
+<area shape="rect" id="Node000040" href="$d2/ddc/class_slic3r_1_1_g_u_i_1_1_network_test_dialog.html#a697fee405a0a1b437378751907506f31" title=" " alt="" coords="255,407,424,463"/>
+<area shape="poly" id="edge34_Node000026_Node000040" title=" " alt="" coords="506,524,492,517,467,497,444,477,422,466,424,461,446,473,471,493,494,513,509,519"/>
+<area shape="rect" id="Node000047" href="$db/d7e/struct_slic3r_1_1_preset_updater_1_1priv.html#afddd68cc6236d71da97058112dd7ebde" title=" " alt="" coords="264,487,415,527"/>
+<area shape="poly" id="edge36_Node000026_Node000047" title=" " alt="" coords="478,529,415,520,415,515,479,524"/>
+<area shape="poly" id="edge27_Node000028_Node000029" title=" " alt="" coords="231,218,172,224,172,219,231,213"/>
+<area shape="poly" id="edge31_Node000033_Node000036" title=" " alt="" coords="260,326,170,338,169,333,259,321"/>
+<area shape="poly" id="edge38_Node000048_Node000031" title=" " alt="" coords="494,454,491,451,470,415,462,380,463,346,468,313,473,280,473,247,465,214,443,181,424,166,401,157,403,152,427,161,447,177,470,212,479,246,478,280,473,313,468,347,467,380,475,414,495,448,498,451"/>
+<area shape="poly" id="edge48_Node000052_Node000011" title=" " alt="" coords="497,963,495,966,476,995,463,1024,456,1052,452,1079,456,1133,467,1186,479,1240,484,1296,482,1325,476,1354,464,1385,447,1417,425,1441,397,1459,394,1455,421,1437,443,1413,460,1383,471,1353,477,1324,479,1296,473,1241,462,1187,451,1133,447,1079,450,1051,458,1022,471,993,491,963,493,960"/>
+<area shape="poly" id="edge58_Node000052_Node000017" title=" " alt="" coords="548,901,503,851,474,826,444,804,412,789,414,784,446,799,478,821,506,847,552,897"/>
+<area shape="poly" id="edge52_Node000052_Node000037" title=" " alt="" coords="564,897,549,847,525,787,490,725,468,698,443,673,421,659,424,654,447,669,472,694,494,722,529,784,554,845,569,895"/>
+<area shape="rect" id="Node000053" href="$d4/dfd/class_printer_file_system.html#a8b219a379af2520bab780f0a5e7598b0" title=" " alt="" coords="273,1009,406,1050"/>
+<area shape="poly" id="edge43_Node000052_Node000053" title=" " alt="" coords="507,960,494,967,471,983,446,999,407,1014,405,1009,444,994,468,978,492,962,505,956"/>
+<area shape="rect" id="Node000055" href="$de/db8/namespace_slic3r.html#a334df7728b846af101692b79c069b7bb" title=" " alt="" coords="257,1099,422,1139"/>
+<area shape="poly" id="edge44_Node000052_Node000055" title=" " alt="" coords="500,962,495,966,478,990,471,1013,464,1037,447,1063,422,1084,394,1101,391,1096,419,1080,443,1060,459,1035,466,1012,473,987,491,963,497,958"/>
+<area shape="rect" id="Node000057" href="$d4/dfd/class_printer_file_system.html#a836af67ef0c15fb2efb4deff89d62ed6" title=" " alt="" coords="270,1188,409,1229"/>
+<area shape="poly" id="edge46_Node000052_Node000057" title=" " alt="" coords="498,963,495,966,479,989,472,1012,470,1057,469,1103,462,1127,447,1153,425,1174,399,1190,396,1185,422,1170,443,1149,457,1125,464,1102,465,1056,466,1011,475,987,491,963,494,959"/>
+<area shape="rect" id="Node000059" href="$d5/d8f/class_slic3r_1_1_print.html#a5fed2d6e849b012d3024057c2e4682d0" title=" " alt="" coords="273,1253,406,1294"/>
+<area shape="poly" id="edge49_Node000052_Node000059" title=" " alt="" coords="498,963,495,966,474,1001,467,1035,468,1069,473,1103,478,1137,479,1172,470,1207,447,1242,429,1257,408,1267,406,1262,426,1253,443,1239,465,1204,473,1171,473,1138,468,1104,462,1070,461,1035,469,999,491,963,494,960"/>
+<area shape="rect" id="Node000060" href="$d2/d70/class_slic3r_1_1_g_u_i_1_1_select_machine_dialog.html#a413a1b66ae0eba98ba88f49e0b407af4" title=" " alt="" coords="234,1319,445,1359"/>
+<area shape="poly" id="edge50_Node000052_Node000060" title=" " alt="" coords="498,963,495,966,480,988,470,1010,462,1052,465,1094,473,1136,481,1178,484,1220,474,1263,463,1285,447,1307,433,1320,429,1316,443,1304,459,1282,469,1261,478,1220,476,1178,468,1137,460,1095,457,1052,465,1008,476,985,491,963,494,960"/>
+<area shape="rect" id="Node000066" href="$d2/d70/class_slic3r_1_1_g_u_i_1_1_select_machine_dialog.html#a91784cad4c1382afd33635a96a15aeca" title=" " alt="" coords="5,1347,186,1387"/>
+<area shape="poly" id="edge53_Node000052_Node000066" title=" " alt="" coords="497,963,495,966,487,981,481,1001,474,1050,476,1172,478,1235,476,1292,467,1340,458,1359,447,1373,414,1396,377,1410,337,1417,297,1418,218,1408,151,1390,152,1385,219,1403,297,1413,337,1412,375,1405,411,1391,443,1369,454,1356,462,1338,471,1292,473,1235,471,1172,469,1050,475,1000,482,979,491,963,493,960"/>
+<area shape="rect" id="Node000068" href="$d9/dcc/classnlohmann_1_1basic__json.html#a40226d9c84fcb9cb948ae0c27b842c57" title="add an object to an array" alt="" coords="266,683,413,723"/>
+<area shape="poly" id="edge54_Node000052_Node000068" title=" " alt="" coords="558,898,540,861,515,818,482,775,443,738,412,722,415,717,447,734,486,772,519,815,545,858,563,896"/>
+<area shape="rect" id="Node000069" href="$d9/dcc/classnlohmann_1_1basic__json.html#af643a4baa91f484b11af0e4437183115" title="add an object to an array" alt="" coords="266,813,413,854"/>
+<area shape="poly" id="edge55_Node000052_Node000069" title=" " alt="" coords="523,906,444,869,410,857,412,852,446,865,525,901"/>
+<area shape="rect" id="Node000070" href="$d9/dcc/classnlohmann_1_1basic__json.html#ae300819781bce2193369609457f70f30" title="add an object to an object" alt="" coords="266,879,413,919"/>
+<area shape="poly" id="edge56_Node000052_Node000070" title=" " alt="" coords="487,922,413,912,414,906,488,916"/>
+<area shape="rect" id="Node000071" href="$d9/dcc/classnlohmann_1_1basic__json.html#ac48302a8b4f8c2a6e30c2a7bff6abc49" title="add an object to an object" alt="" coords="266,944,413,985"/>
+<area shape="poly" id="edge57_Node000052_Node000071" title=" " alt="" coords="488,946,414,957,413,951,487,941"/>
+<area shape="poly" id="edge45_Node000055_Node000055" title=" " alt="" coords="379,1086,364,1080,339,1077,317,1079,303,1084,298,1090,300,1097,295,1099,293,1089,300,1080,316,1074,339,1072,365,1075,381,1081"/>
+<area shape="poly" id="edge47_Node000057_Node000057" title=" " alt="" coords="379,1175,364,1169,339,1167,317,1169,303,1173,298,1179,300,1187,295,1188,293,1178,300,1169,316,1163,339,1161,365,1164,381,1170"/>
+<area shape="poly" id="edge51_Node000060_Node000066" title=" " alt="" coords="219,1355,186,1359,186,1354,218,1350"/>
+</map>
